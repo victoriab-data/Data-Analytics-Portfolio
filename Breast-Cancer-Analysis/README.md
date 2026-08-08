@@ -21,7 +21,7 @@ An end-to-end healthcare analytics project using SQL (MySQL) and Power BI to cle
 - Dead Patients: 66
 - Average Age: 59
 - Insurance Paid: ₦4.7M
-- Survival Rate: 79.4%
+- Survival Rate: 79.4% (among patients with known outcomes)
 
 ## Key Insights
 
