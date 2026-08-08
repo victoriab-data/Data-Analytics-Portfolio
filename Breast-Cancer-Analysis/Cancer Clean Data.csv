@@ -1,0 +1,335 @@
+patient_id,Age,Gender,Tumour_Stage,Insurance_Paid,Surgery_type,Date_of_Surgery,Date_of_Last_Visit,Patient_Status
+1,42,Female,II,16885,Other,2018-05-20,2018-08-26,Alive
+2,41,Female,II,11083,Other,2018-12-16,2021-01-24,Alive
+3,50,Female,I,2027,Lumpectomy,2019-03-02,2026-09-24,Alive
+4,74,Female,II,10942,"Simple Mastectomy",2017-05-05,2017-06-21,Alive
+5,53,Female,II,30185,"Modified Radical Mastectomy",2017-10-18,2020-04-28,Alive
+6,52,Female,III,5729,Lumpectomy,2018-10-17,2019-02-18,Alive
+7,54,Female,II,1726,Other,2018-04-26,2019-01-25,Dead
+8,76,Female,II,47291,Other,2018-04-16,2020-10-19,Alive
+9,63,Female,II,4449,Lumpectomy,2018-08-24,2020-04-08,Alive
+10,79,Female,II,3767,"Modified Radical Mastectomy",2017-11-17,2018-01-11,Dead
+11,46,Female,I,12105,Other,2017-12-27,2018-12-02,Dead
+12,78,Female,I,21984,Other,2018-11-16,2020-07-28,Alive
+13,67,Female,II,10226,Other,2018-04-06,2020-10-09,Dead
+14,42,Female,II,3867,Lumpectomy,2018-12-12,2019-01-05,Alive
+15,75,Female,III,22413,Other,2018-03-01,2019-06-01,Alive
+16,48,Female,II,15821,Other,2018-08-08,2018-10-23,Alive
+17,59,Female,II,6186,"Modified Radical Mastectomy",2019-06-10,2019-09-22,Alive
+18,80,Female,III,3757,"Modified Radical Mastectomy",2018-06-25,2019-02-16,Alive
+19,66,Female,II,8241,Lumpectomy,2018-10-27,2019-06-19,Alive
+20,66,Female,II,3645,"Simple Mastectomy",2019-09-22,2020-09-08,Alive
+21,36,Female,III,7282,"Modified Radical Mastectomy",2018-07-19,2019-06-30,Alive
+22,58,Female,II,6406,Other,2018-06-15,2019-12-16,Alive
+23,62,Female,II,28923,Other,2019-06-20,2019-06-20,Non_specified
+24,51,Female,II,2721,"Modified Radical Mastectomy",2018-11-26,2019-12-28,Alive
+25,40,Female,II,27809,Other,2017-02-14,2017-12-15,Alive
+26,77,Female,I,1827,Other,2018-03-27,2020-03-23,Alive
+27,59,Female,II,21345,Other,2017-08-03,2018-03-18,Alive
+28,68,Female,II,30942,"Modified Radical Mastectomy",2018-12-06,2018-12-16,Dead
+29,58,Female,III,14591,Other,2019-02-04,2020-07-06,Alive
+30,36,Female,III,5004,"Modified Radical Mastectomy",2017-01-15,2017-06-19,Alive
+31,69,Female,II,17560,"Modified Radical Mastectomy",2018-10-07,2018-10-07,Dead
+32,49,Female,II,2332,Other,2017-05-15,2017-11-01,Alive
+33,56,Female,II,3877,"Modified Radical Mastectomy",2018-11-12,2019-07-12,Dead
+34,54,Female,II,2867,"Modified Radical Mastectomy",2019-09-22,2021-02-15,Alive
+35,54,Female,II,11091,"Modified Radical Mastectomy",2018-08-08,2018-08-29,Alive
+36,77,Female,III,39612,"Modified Radical Mastectomy",2018-06-09,2018-08-28,Alive
+37,56,Female,I,47056,"Modified Radical Mastectomy",2019-03-26,2019-08-23,Alive
+38,77,Female,I,1837,Lumpectomy,2018-05-16,2018-08-29,Alive
+39,39,Female,II,10825,"Simple Mastectomy",2018-06-29,2020-10-26,Alive
+40,45,Female,II,10797,Other,2018-05-10,2018-10-25,Alive
+41,57,Female,II,11881,Lumpectomy,2019-04-15,2020-03-11,Alive
+42,63,Female,III,2395,"Modified Radical Mastectomy",2019-05-15,2019-12-26,Dead
+43,46,Female,II,4647,Lumpectomy,2019-10-22,2021-02-09,Dead
+44,59,Female,II,2405,"Simple Mastectomy",2019-10-12,2021-02-01,Alive
+45,40,Female,III,7441,Other,2018-09-07,2018-09-07,Non_specified
+46,61,Female,II,11488,Lumpectomy,2018-02-19,2018-11-23,Alive
+47,42,Female,I,9282,"Simple Mastectomy",2018-08-04,2020-08-09,Alive
+48,46,Female,II,10602,Other,2019-06-10,2019-06-10,Non_specified
+49,61,Female,II,36837,Other,2018-02-15,2019-08-15,Alive
+50,79,Female,II,1719,Lumpectomy,2018-09-27,2018-11-20,Alive
+51,63,Female,III,30260,"Modified Radical Mastectomy",2019-03-06,2019-05-15,Alive
+52,58,Female,III,42857,Other,2017-08-13,2018-08-13,Alive
+53,39,Female,II,13229,"Simple Mastectomy",2018-07-15,2019-06-01,Alive
+54,37,Female,III,4150,"Modified Radical Mastectomy",2019-02-14,2020-05-09,Alive
+55,49,Female,III,11381,"Modified Radical Mastectomy",2019-07-20,2020-02-27,Alive
+56,63,Female,II,1137,"Simple Mastectomy",2019-01-21,2020-03-06,Dead
+57,88,Female,II,19108,"Modified Radical Mastectomy",2019-06-04,2019-06-04,Dead
+58,81,Female,II,37702,Other,2018-02-05,2019-10-06,Alive
+59,67,Female,II,7266,Other,2019-10-02,2019-10-02,Non_specified
+60,74,Female,II,8601,"Modified Radical Mastectomy",2019-06-14,2019-06-20,Alive
+61,70,Female,I,6204,"Simple Mastectomy",2018-07-29,2022-11-04,Alive
+62,59,Female,II,6686,"Modified Radical Mastectomy",2018-01-10,2018-03-15,Alive
+63,76,Female,II,14001,Lumpectomy,2018-03-27,2019-02-06,Alive
+64,43,Female,II,7740,Lumpectomy,2017-04-26,2018-11-09,Dead
+65,88,Female,II,9618,"Simple Mastectomy",2019-02-24,2020-06-30,Alive
+66,67,Female,II,1706,"Simple Mastectomy",2019-02-10,2019-11-11,Alive
+67,65,Female,II,14452,Other,2019-05-05,2020-04-02,Dead
+68,60,Female,II,2257,Lumpectomy,2018-03-07,2020-10-14,Alive
+69,50,Female,II,2523,Lumpectomy,2017-11-21,2020-07-22,Alive
+70,51,Female,III,9716,"Modified Radical Mastectomy",2018-11-26,2020-10-01,Dead
+71,61,Female,III,39556,Other,2019-03-16,2019-11-16,Alive
+72,68,Female,II,12269,Lumpectomy,2019-02-14,2020-02-03,Dead
+73,40,Female,III,2804,"Modified Radical Mastectomy",2018-04-20,2019-08-04,Alive
+74,53,Female,III,2775,"Modified Radical Mastectomy",2019-01-11,2019-07-15,Alive
+75,77,Female,II,2150,"Modified Radical Mastectomy",2017-09-28,2018-09-28,Alive
+76,62,Female,II,38711,"Modified Radical Mastectomy",2019-02-20,2019-04-18,Alive
+77,85,Female,III,10115,"Modified Radical Mastectomy",2018-05-26,2018-08-15,Alive
+78,39,Female,III,35586,"Modified Radical Mastectomy",2019-06-04,2020-01-29,Alive
+79,65,Female,II,3385,Other,2019-03-16,2020-10-13,Dead
+80,57,Female,II,2198,"Modified Radical Mastectomy",2018-03-01,2020-02-06,Alive
+81,59,Female,III,12929,Other,2018-11-16,2020-05-18,Alive
+82,80,Female,II,17081,Other,2019-04-15,2020-05-15,Alive
+83,47,Female,II,4688,Lumpectomy,2017-11-27,2018-04-10,Dead
+84,77,Female,II,9855,"Simple Mastectomy",2019-10-22,2021-02-09,Alive
+85,78,Female,II,9635,"Modified Radical Mastectomy",2019-10-22,2021-03-24,Alive
+86,56,Female,II,13770,Lumpectomy,2018-03-21,2018-07-06,Dead
+87,72,Female,II,32734,"Simple Mastectomy",2018-01-26,2026-05-03,Dead
+88,43,Female,III,6082,"Modified Radical Mastectomy",2019-05-25,2020-05-18,Alive
+89,76,Female,I,51195,Lumpectomy,2019-11-11,2021-01-05,Dead
+90,40,Female,II,1625,"Simple Mastectomy",2017-07-24,2017-10-17,Alive
+91,52,Female,II,12815,Other,2019-05-11,2023-11-14,Alive
+92,46,Female,III,15612,"Modified Radical Mastectomy",2018-08-28,2018-09-27,Alive
+93,54,Female,I,13616,Lumpectomy,2018-04-26,2020-01-09,Alive
+94,50,Female,III,2302,Other,2018-09-13,2019-08-03,Alive
+95,50,Female,III,39774,Other,2018-08-18,2019-01-05,Dead
+96,87,Female,II,11164,"Simple Mastectomy",2017-11-07,2017-11-28,Alive
+97,48,Female,III,48173,"Simple Mastectomy",2017-11-11,2018-08-06,Dead
+98,51,Female,II,1633,"Simple Mastectomy",2017-10-22,2019-08-26,Alive
+99,50,Female,I,3046,Other,2017-12-27,2018-05-16,Alive
+100,83,Female,I,2457,Other,2018-09-17,2019-02-21,Alive
+101,35,Female,II,2156,Other,2018-10-17,2019-10-17,Alive
+102,60,Female,I,1261,Lumpectomy,2018-10-03,2019-10-30,Alive
+103,75,Female,I,4950,"Simple Mastectomy",2017-02-24,2017-04-05,Alive
+104,53,Female,II,6272,"Simple Mastectomy",2019-09-02,2020-12-10,Alive
+105,52,Female,II,2046,Lumpectomy,2019-04-05,2020-12-30,Alive
+106,68,Female,II,27323,"Modified Radical Mastectomy",2018-01-06,2018-02-10,Alive
+107,62,Female,I,6314,Lumpectomy,2019-07-04,2020-06-26,Alive
+108,36,Female,III,2167,"Simple Mastectomy",2019-11-11,2020-02-09,Dead
+109,57,Female,II,6080,Other,2019-02-24,2020-05-19,Dead
+110,75,Female,II,27376,Lumpectomy,2019-08-23,2020-06-27,Alive
+111,59,Female,III,20630,"Modified Radical Mastectomy",2018-07-05,2020-09-25,Alive
+112,46,Female,III,3393,"Modified Radical Mastectomy",2019-07-04,2020-04-21,Alive
+113,47,Female,II,3557,Other,2019-01-25,2020-02-25,Alive
+114,60,Female,III,3491,"Modified Radical Mastectomy",2019-01-25,2019-02-06,Dead
+115,45,Female,II,18972,"Simple Mastectomy",2018-01-16,2020-02-10,Alive
+116,44,Male,II,18158,Other,2019-11-01,2020-03-04,Dead
+117,51,Male,II,12630,"Simple Mastectomy",2018-05-30,2020-03-25,Alive
+118,68,Female,I,38709,Lumpectomy,2017-10-12,2018-09-02,Alive
+119,89,Female,I,2211,Other,2017-06-24,2017-07-24,Alive
+120,80,Female,I,20746,Lumpectomy,2018-10-13,2020-04-10,Alive
+121,63,Female,II,3580,"Simple Mastectomy",2018-10-27,2019-07-13,Alive
+122,46,Female,II,5138,"Simple Mastectomy",2018-07-25,2018-12-11,Alive
+123,61,Female,II,40721,Lumpectomy,2019-11-11,2021-01-18,Dead
+124,56,Female,II,9878,Other,2017-06-14,2020-09-12,Alive
+125,65,Female,II,23568,"Simple Mastectomy",2018-02-19,2019-08-24,Alive
+126,56,Female,III,10960,Lumpectomy,2017-12-07,2018-06-25,Alive
+127,82,Female,II,37743,Other,2019-04-25,2020-01-23,Alive
+128,45,Female,III,8060,"Simple Mastectomy",2018-09-23,2020-02-07,Dead
+129,74,Female,II,1843,"Simple Mastectomy",2019-04-21,2020-07-25,Alive
+130,45,Female,II,5125,"Modified Radical Mastectomy",2019-03-06,2020-09-10,Dead
+131,62,Female,II,47496,"Simple Mastectomy",2019-05-25,2019-08-06,Alive
+132,59,Female,III,13607,"Modified Radical Mastectomy",2019-09-02,2020-09-28,Alive
+133,60,Female,III,7790,"Simple Mastectomy",2019-11-01,2021-02-28,Dead
+134,55,Female,II,34303,"Modified Radical Mastectomy",2018-02-15,2020-03-23,Alive
+135,71,Female,II,6334,"Modified Radical Mastectomy",2019-08-23,2020-05-10,Alive
+136,63,Female,I,23245,"Simple Mastectomy",2019-05-05,2020-02-26,Alive
+137,54,Female,I,19965,Other,2019-01-05,2021-02-08,Alive
+138,60,Female,III,5990,Other,2019-05-15,2021-03-19,Alive
+139,51,Female,II,7077,Other,2018-12-26,2021-01-07,Alive
+140,37,Female,II,6949,Lumpectomy,2017-06-15,2018-10-24,Alive
+141,79,Female,II,21224,"Simple Mastectomy",2019-10-02,2020-04-27,Alive
+142,62,Female,II,15518,Lumpectomy,2017-04-05,2017-06-20,Alive
+143,71,Female,II,36950,Lumpectomy,2018-08-14,2020-01-15,Alive
+144,47,Female,II,19749,Lumpectomy,2019-07-10,2020-01-15,Alive
+145,50,Female,II,21349,"Simple Mastectomy",2017-04-15,2018-01-25,Alive
+146,59,Female,II,36149,Lumpectomy,2017-10-28,2018-07-22,Alive
+147,72,Female,II,10451,Lumpectomy,2019-02-04,2021-02-16,Alive
+148,61,Female,I,5152,Lumpectomy,2019-09-12,2021-01-05,Alive
+149,56,Female,III,8606,"Modified Radical Mastectomy",2019-08-23,2019-08-23,Non_specified
+150,79,Female,II,4505,Other,2018-02-25,2020-10-15,Alive
+151,62,Female,I,5028,Other,2018-08-14,2020-12-06,Alive
+152,66,Female,II,30167,Lumpectomy,2019-05-31,2019-11-08,Alive
+153,32,Female,I,10407,"Modified Radical Mastectomy",2018-11-02,2019-04-23,Dead
+154,46,Female,II,4134,Lumpectomy,2018-02-05,2019-08-09,Alive
+155,63,Female,III,14712,Other,2018-05-20,2019-06-20,Alive
+156,53,Female,III,4831,"Simple Mastectomy",2019-05-21,2020-05-25,Alive
+157,61,Female,I,1743,Other,2017-04-25,2022-06-26,Alive
+158,62,Female,II,6129,"Modified Radical Mastectomy",2018-11-06,2019-05-26,Alive
+159,49,Female,II,14235,"Simple Mastectomy",2018-08-28,2019-10-25,Alive
+160,52,Female,II,2719,"Simple Mastectomy",2017-06-05,2020-03-02,Alive
+161,83,Female,III,6389,Other,2018-06-05,2020-07-05,Alive
+162,44,Female,II,4828,"Modified Radical Mastectomy",2019-09-22,2020-05-31,Alive
+163,46,Female,III,5920,"Modified Radical Mastectomy",2018-12-26,2021-02-15,Alive
+164,85,Female,II,13405,Other,2018-11-06,2021-01-17,Alive
+165,54,Female,II,8117,Other,2018-12-16,2020-09-26,Dead
+166,63,Female,II,1695,"Simple Mastectomy",2018-09-03,2022-03-14,Alive
+167,63,Female,I,17663,Lumpectomy,2019-07-24,2019-10-07,Alive
+168,63,Female,II,5246,Other,2018-10-07,2020-11-01,Alive
+169,53,Female,II,16578,"Simple Mastectomy",2017-02-04,2018-02-07,Alive
+170,63,Female,II,2855,"Modified Radical Mastectomy",2019-05-15,2021-02-03,Alive
+171,45,Female,II,6799,"Simple Mastectomy",2019-05-31,2020-08-22,Alive
+172,41,Female,II,11742,"Modified Radical Mastectomy",2018-06-29,2020-11-15,Alive
+173,66,Female,II,11947,Other,2019-09-02,2021-01-10,Alive
+174,69,Female,I,7727,Other,2019-05-05,2020-08-08,Alive
+175,50,Female,III,11357,Other,2018-07-09,2020-04-19,Dead
+176,60,Female,III,3947,Lumpectomy,2019-07-14,2020-10-12,Alive
+177,59,Female,II,1532,"Modified Radical Mastectomy",2018-11-16,2020-08-22,Alive
+178,77,Female,II,2755,"Simple Mastectomy",2017-11-17,2018-08-15,Alive
+179,51,Female,II,6571,"Modified Radical Mastectomy",2019-06-20,2021-01-26,Alive
+180,57,Female,II,4441,"Modified Radical Mastectomy",2017-09-02,2018-08-12,Alive
+181,29,Female,II,7935,Other,2018-06-09,2018-06-15,Alive
+182,46,Female,II,37165,"Simple Mastectomy",2019-11-01,2021-01-22,Alive
+183,70,Female,I,11034,Lumpectomy,2018-03-31,2019-11-16,Alive
+184,64,Female,I,39837,Lumpectomy,2018-12-06,2020-03-19,Alive
+185,58,Female,II,21099,"Modified Radical Mastectomy",2018-07-05,2019-06-22,Alive
+186,59,Female,III,48824,"Modified Radical Mastectomy",2017-11-27,2018-05-24,Alive
+187,84,Female,II,6456,"Simple Mastectomy",2018-01-26,2018-03-12,Dead
+188,43,Female,II,10436,"Modified Radical Mastectomy",2018-10-27,2018-12-17,Alive
+189,69,Female,III,8823,Other,2017-09-08,2018-06-09,Alive
+190,79,Female,I,8538,Lumpectomy,2019-11-21,2021-02-19,Dead
+191,56,Female,II,11736,Other,2017-05-06,2019-06-27,Dead
+192,84,Female,II,1632,Other,2019-04-15,2020-04-14,Alive
+193,64,Female,III,4005,Lumpectomy,2018-12-16,2019-04-19,Alive
+194,44,Female,II,7419,"Simple Mastectomy",2017-07-04,2021-02-05,Alive
+195,56,Female,II,7731,Other,2018-11-06,2020-10-27,Alive
+196,74,Female,I,43753,Lumpectomy,2018-04-06,2020-11-17,Alive
+197,68,Female,II,3982,"Simple Mastectomy",2019-06-24,2020-02-09,Alive
+198,59,Female,II,43579,Other,2018-01-06,2018-01-10,Alive
+199,58,Female,III,5326,"Modified Radical Mastectomy",2018-03-31,2018-10-03,Dead
+200,46,Female,I,11073,Lumpectomy,2018-06-19,2020-08-27,Alive
+201,44,Female,II,6776,"Modified Radical Mastectomy",2018-01-20,2018-01-20,Non_specified
+202,71,Female,III,8027,"Modified Radical Mastectomy",2018-01-16,2019-01-23,Alive
+203,48,Female,II,4923,"Modified Radical Mastectomy",2018-06-19,2019-06-25,Alive
+204,54,Female,II,12558,"Modified Radical Mastectomy",2018-11-22,2019-04-11,Alive
+205,68,Male,II,4884,"Modified Radical Mastectomy",2019-04-25,2020-04-18,Alive
+206,61,Female,I,2138,Lumpectomy,2019-07-24,2020-06-03,Alive
+207,49,Female,III,12044,"Modified Radical Mastectomy",2018-11-06,2019-03-12,Alive
+208,53,Female,III,1137,Lumpectomy,2019-08-03,2020-08-16,Alive
+209,76,Female,I,1640,Other,2018-10-27,2020-02-20,Alive
+210,61,Female,III,5650,"Modified Radical Mastectomy",2018-12-22,2019-11-26,Alive
+211,47,Female,III,8517,Other,2018-09-13,2021-01-27,Dead
+212,56,Female,III,9644,"Modified Radical Mastectomy",2018-12-26,2019-06-29,Dead
+213,48,Female,II,14902,Other,2019-04-25,2021-02-03,Alive
+214,55,Female,I,2131,"Modified Radical Mastectomy",2017-11-07,2017-11-07,Non_specified
+215,74,Female,III,8871,Lumpectomy,2017-06-25,2019-12-23,Alive
+216,71,Female,II,13012,"Modified Radical Mastectomy",2018-11-26,2018-11-26,Non_specified
+217,87,Female,I,37134,"Simple Mastectomy",2017-05-25,2018-01-15,Dead
+218,47,Female,III,7147,Lumpectomy,2018-11-16,2021-01-28,Alive
+219,82,Female,I,4338,Other,2018-05-06,2020-05-22,Dead
+220,47,Female,III,11743,"Modified Radical Mastectomy",2018-07-29,2018-07-29,Dead
+221,48,Female,II,20984,"Simple Mastectomy",2019-01-15,2020-12-02,Alive
+222,56,Female,I,13881,Other,2017-10-02,2020-07-26,Alive
+223,57,Female,II,22332,Lumpectomy,2017-12-01,2018-06-08,Alive
+224,71,Female,II,48549,Lumpectomy,2017-05-26,2017-12-19,Alive
+225,49,Female,II,4237,"Simple Mastectomy",2017-12-17,2018-02-23,Alive
+226,76,Female,III,11879,Other,2019-01-31,2019-12-01,Dead
+227,62,Female,III,6610,"Modified Radical Mastectomy",2019-06-24,2020-01-15,Alive
+228,62,Female,II,1980,Other,2017-03-16,2019-10-20,Dead
+229,51,Female,II,8163,Other,2018-03-11,2019-06-11,Dead
+230,38,Female,II,9626,Lumpectomy,2018-09-03,2019-06-12,Alive
+231,85,Female,II,3538,"Modified Radical Mastectomy",2017-07-14,2018-08-27,Alive
+232,41,Female,I,7742,"Simple Mastectomy",2017-03-06,2019-08-09,Alive
+233,50,Female,III,5003,"Modified Radical Mastectomy",2019-03-16,2021-05-04,Dead
+234,78,Female,I,9433,"Simple Mastectomy",2018-11-26,2020-05-04,Alive
+235,80,Female,II,8520,Other,2019-06-14,2019-06-14,Non_specified
+236,46,Female,III,14256,"Modified Radical Mastectomy",2019-06-24,2020-03-18,Alive
+237,63,Female,II,7372,Other,2017-09-12,2018-05-04,Alive
+238,47,Female,II,47897,Other,2017-08-23,2019-02-28,Dead
+239,52,Female,II,10356,Lumpectomy,2019-08-13,2020-02-20,Alive
+240,50,Female,I,25993,Other,2018-04-16,2020-04-21,Alive
+241,56,Female,II,3172,"Modified Radical Mastectomy",2017-01-25,2017-07-12,Alive
+242,84,Female,II,20278,Lumpectomy,2019-03-22,2019-09-15,Alive
+243,68,Female,II,2484,Lumpectomy,2019-08-13,2020-01-29,Alive
+244,69,Female,II,42112,"Simple Mastectomy",2018-04-30,2020-09-09,Alive
+245,40,Female,II,3393,"Modified Radical Mastectomy",2019-06-30,2019-10-21,Alive
+246,54,Female,II,25082,"Modified Radical Mastectomy",2018-03-17,2019-06-23,Alive
+247,59,Female,I,5012,Other,2019-10-12,2021-01-19,Alive
+248,53,Female,II,2157,Other,2019-08-03,2020-08-02,Alive
+249,77,Female,I,10565,Lumpectomy,2018-12-16,2021-02-14,Alive
+250,53,Female,III,3906,"Modified Radical Mastectomy",2019-05-25,2020-02-09,Alive
+251,65,Female,II,5254,Other,2018-04-10,2019-11-08,Alive
+252,47,Female,II,1705,"Modified Radical Mastectomy",2018-10-23,2019-02-19,Dead
+253,68,Female,II,34780,Other,2018-06-25,2020-12-23,Dead
+254,71,Female,III,16298,"Simple Mastectomy",2018-05-10,2019-07-05,Alive
+255,38,Female,III,19516,Other,2018-04-30,2018-11-07,Alive
+256,52,Female,II,21979,"Simple Mastectomy",2018-09-07,2021-02-13,Alive
+257,64,Female,I,11987,"Modified Radical Mastectomy",2018-10-03,2018-10-26,Dead
+258,64,Female,II,38746,"Modified Radical Mastectomy",2019-08-13,2021-01-26,Alive
+259,44,Female,III,9249,Lumpectomy,2018-12-06,2020-09-07,Alive
+260,50,Female,II,6747,"Simple Mastectomy",2019-09-12,2020-08-21,Alive
+261,45,Female,III,2689,Other,2018-10-17,2020-10-29,Alive
+262,45,Female,III,24227,"Simple Mastectomy",2017-12-21,2018-03-23,Alive
+263,56,Female,I,24873,"Modified Radical Mastectomy",2019-01-25,2021-02-13,Alive
+264,73,Female,II,7358,Other,2018-05-30,2019-06-30,Alive
+265,38,Female,I,12266,Lumpectomy,2018-10-17,2019-07-02,Alive
+266,88,Female,I,9225,"Simple Mastectomy",2019-06-04,2019-06-04,Non_specified
+267,51,Female,I,4349,"Simple Mastectomy",2018-05-26,2018-09-09,Alive
+268,60,Female,I,7444,Other,2017-12-11,2017-12-11,Non_specified
+269,66,Female,II,12646,"Modified Radical Mastectomy",2017-12-31,2021-02-21,Dead
+270,50,Female,II,14001,Other,2018-11-16,2018-11-16,Non_specified
+271,41,Female,II,19442,"Modified Radical Mastectomy",2018-09-17,2019-06-17,Alive
+272,78,Female,II,1728,Lumpectomy,2018-02-25,2018-03-11,Alive
+273,49,Female,I,20178,Other,2019-05-01,2020-11-09,Alive
+274,54,Female,II,12334,Lumpectomy,2019-07-14,2021-02-22,Alive
+275,48,Female,III,4151,Other,2019-04-11,2020-08-10,Alive
+276,55,Female,III,6710,Other,2019-04-01,2020-01-30,Alive
+277,60,Female,I,11945,"Simple Mastectomy",2019-03-12,2019-07-17,Alive
+278,52,Female,I,7749,"Modified Radical Mastectomy",2019-07-04,2020-03-24,Alive
+279,50,Female,II,19444,Other,2018-08-24,2018-10-13,Alive
+280,64,Female,III,1616,Other,2019-01-05,2020-10-06,Alive
+281,29,Female,I,8444,"Simple Mastectomy",2018-03-21,2022-03-15,Dead
+282,66,Female,II,4463,Other,2018-10-07,2020-05-08,Alive
+283,42,Female,II,1737,"Modified Radical Mastectomy",2018-11-06,2019-03-03,Alive
+284,48,Female,I,17353,"Simple Mastectomy",2017-12-17,2020-04-13,Alive
+285,58,Female,II,42125,Other,2018-02-09,2018-02-09,Dead
+286,53,Female,II,7153,"Modified Radical Mastectomy",2018-12-02,2020-01-11,Alive
+287,51,Female,II,8124,"Modified Radical Mastectomy",2019-02-24,2020-12-05,Alive
+288,49,Female,III,38512,"Modified Radical Mastectomy",2019-01-15,2019-06-26,Alive
+289,68,Female,I,34839,"Simple Mastectomy",2017-12-07,2018-07-18,Dead
+290,62,Female,II,5354,"Simple Mastectomy",2018-03-17,2020-05-02,Alive
+291,71,Female,III,9723,Other,2019-02-14,2019-05-03,Dead
+292,79,Female,I,8835,Other,2019-04-05,2019-04-05,Dead
+293,62,Female,II,10435,"Simple Mastectomy",2018-06-15,2018-07-04,Alive
+294,63,Female,I,35160,"Simple Mastectomy",2019-07-24,2020-03-05,Alive
+295,65,Female,III,7421,"Modified Radical Mastectomy",2017-09-22,2019-08-25,Alive
+296,66,Female,II,7197,"Modified Radical Mastectomy",2018-07-15,2018-07-25,Alive
+297,53,Female,III,4668,"Simple Mastectomy",2018-08-04,2018-12-18,Alive
+298,60,Female,II,29523,"Simple Mastectomy",2019-03-26,2020-07-14,Dead
+299,46,Female,II,4895,Other,2018-09-27,2022-05-19,Alive
+300,42,Female,II,24476,"Modified Radical Mastectomy",2019-01-01,2020-04-22,Alive
+301,50,Female,III,24672,"Simple Mastectomy",2017-05-16,2017-05-16,Non_specified
+302,49,Female,III,12649,Other,2018-08-18,2018-08-25,Alive
+303,40,Female,II,1987,Lumpectomy,2019-01-05,2020-01-28,Dead
+304,84,Male,III,35492,"Modified Radical Mastectomy",2017-09-18,2021-11-15,Alive
+305,77,Female,II,1832,"Modified Radical Mastectomy",2019-04-05,2019-12-17,Alive
+306,57,Female,I,11566,Lumpectomy,2018-03-07,2018-10-11,Alive
+307,90,Female,III,2866,"Modified Radical Mastectomy",2018-07-19,2018-09-08,Alive
+308,59,Female,II,6600,Other,2018-07-09,2019-08-09,Alive
+309,45,Female,III,4041,Other,2019-07-14,2020-11-01,Alive
+310,52,Female,I,3562,Other,2019-10-12,2020-11-07,Alive
+311,56,Female,I,12829,"Modified Radical Mastectomy",2018-04-20,2019-01-29,Alive
+312,73,Female,II,42761,Other,2018-05-16,2019-04-21,Dead
+313,47,Female,III,47305,"Modified Radical Mastectomy",2018-03-11,2018-03-20,Dead
+314,64,Female,I,47928,Lumpectomy,2019-10-02,2021-02-03,Alive
+315,72,Female,II,44261,Other,2017-10-08,2018-09-13,Dead
+316,45,Female,I,4261,Other,2017-03-26,2020-09-23,Alive
+317,59,Female,II,9145,Lumpectomy,2019-01-15,2020-03-27,Alive
+318,49,Female,III,41097,"Modified Radical Mastectomy",2018-09-23,2019-10-04,Dead
+319,41,Female,I,48518,"Modified Radical Mastectomy",2018-07-25,2019-04-23,Alive
+320,63,Female,III,13047,Other,2019-08-03,2019-09-03,Alive
+321,54,Female,II,24394,"Simple Mastectomy",2019-03-26,2019-10-11,Dead
+322,74,Female,II,13429,Lumpectomy,2018-11-26,2018-12-05,Alive
+323,66,Female,II,11658,"Modified Radical Mastectomy",2019-02-04,2019-08-10,Dead
+324,55,Female,II,43921,Other,2018-06-05,2019-12-07,Alive
+325,68,Female,II,5401,Other,2018-05-06,2019-12-06,Dead
+326,65,Female,II,11520,Other,2019-09-12,2021-02-13,Alive
+327,54,Female,II,33750,"Simple Mastectomy",2019-06-14,2021-03-04,Alive
+328,73,Female,I,11837,Lumpectomy,2018-04-10,2018-09-24,Alive
+329,54,Female,III,17085,"Modified Radical Mastectomy",2018-12-06,2019-12-15,Alive
+330,85,Female,I,24870,Lumpectomy,2017-11-01,2018-12-06,Alive
+331,54,Female,III,36219,"Simple Mastectomy",2018-12-06,2020-02-20,Alive
+332,50,Female,II,20463,Other,2017-06-04,2018-02-27,Alive
+333,59,Female,II,46151,Other,2018-01-30,2024-06-04,Dead
+334,41,Female,II,17180,Other,2019-03-06,2020-12-25,Alive

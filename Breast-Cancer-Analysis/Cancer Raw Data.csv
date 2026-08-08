@@ -1,0 +1,1339 @@
+Age,Gender,Protein1,Protein2,Protein3,Protein4,Tumour_Stage, Insurance_Paid ,Histology,ER status,PR status,HER2 status,Surgery_type,Date_of_Surgery,Date_of_Last_Visit,Patient_Status
+42,FEMALE,0.95256,2.15,0.0079716,-0.04834,II,"$16,885.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/20/2018,8/26/2018,Alive
+54,FEMALE,0,1.3802,-0.49803,-0.50732,II,"$1,726.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/26/2018,1/25/2019,Dead
+63,FEMALE,-0.52303,1.764,-0.37019,0.010815,II,"$4,449.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,8/24/2018,4/8/2020,Alive
+78,FEMALE,-0.87618,0.12943,-0.37038,0.13219,I,"$21,984.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11/16/2018,7/28/2020,Alive
+42,FEMALE,0.22611,1.7491,-0.54397,-0.39021,II,"$3,867.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,12/12/2018,1/5/2019,Alive
+80,FEMALE,0.46647,2.5797,-1.2537,0.15154,III,"$3,757.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/25/2018,2/16/2019,Alive
+66,FEMALE,-0.72486,-0.28289,0.95943,0.3509,II,"$8,241.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/27/2018,6/19/2019,Alive
+36,FEMALE,0.46931,1.5526,-0.16524,-0.27599,III,"$7,282.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/19/2018,6/30/2019,Alive
+58,FEMALE,-1.2685,0.10613,1.1352,-0.39492,II,"$6,406.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,6/15/2018,12/16/2019,Alive
+62,FEMALE,0.64934,1.8168,0.27926,0.13228,II,"$28,923.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,6/20/2019,,
+51,FEMALE,-0.38466,0.80609,-1.6274,-0.51291,II,"$2,721.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,11/26/2018,12/28/2019,Alive
+40,FEMALE,-0.5657,1.2668,-0.29346,0.19395,II,"$27,809.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,2/14/2017,12/15/2017,Alive
+77,FEMALE,-0.20608,0.57751,-0.24856,0,I,"$1,827.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,3/27/2018,3/23/2020,Alive
+54,FEMALE,-0.41706,1.2694,-0.72681,-0.82771,II,"$11,091.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,8/8/2018,8/29/2018,Alive
+77,FEMALE,-0.16159,1.4507,-0.75842,0.7322,III,"$39,612.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/9/2018,8/28/2018,Alive
+77,FEMALE,-0.058151,0.67432,-0.42303,0.16753,I,"$1,837.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,5/16/2018,8/29/2018,Alive
+45,FEMALE,-0.52601,0.71836,-0.67598,-0.83526,II,"$10,797.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,5/10/2018,10/25/2018,Alive
+63,FEMALE,0.052728,0.7221,-0.30865,-0.53129,III,"$2,395.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,5/15/2019,12/26/2019,Dead
+46,FEMALE,-0.010999,0.86749,0.28157,-0.54588,II,"$10,602.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,6/10/2019,,
+61,FEMALE,-1.4872,0.34903,-0.66242,0.18528,II,"$36,837.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,2/15/2018,8/15/2019,Alive
+39,FEMALE,0.55309,1.9955,-0.14238,-1.0684,II,"$13,229.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,7/15/2018,6/1/2019,Alive
+37,FEMALE,-1.1467,0.96104,0.27563,0.24595,III,"$4,150.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,2/14/2019,5/9/2020,Alive
+63,FEMALE,0.90314,1.9678,-0.79079,0.96265,II,"$1,137.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,1/21/2019,3/6/2020,Dead
+81,FEMALE,0.82374,1.8531,-0.80187,-0.79413,II,"$37,702.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,2/5/2018,10/6/2019,Alive
+70,FEMALE,0.70029,0.97347,-0.29645,0.10551,I,"$6,204.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,7/29/2018,11/4/2022,Alive
+76,FEMALE,0.043546,-0.40171,0.46685,1.0478,II,"$14,001.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,3/27/2018,2/6/2019,Alive
+65,FEMALE,-0.0020207,0.81402,-0.33155,-0.062663,II,"$14,452.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,5/5/2019,4/2/2020,Dead
+68,FEMALE,-0.41613,0.75843,0.43992,0.20187,II,"$12,269.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,2/14/2019,2/3/2020,Dead
+53,FEMALE,-0.34733,1.4094,-0.3759,-0.04468,III,"$2,775.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/11/2019,7/15/2019,Alive
+62,FEMALE,0.4569,0.73944,-0.63177,-0.060096,II,"$38,711.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,2/20/2019,4/18/2019,Alive
+39,FEMALE,-0.14791,1.2713,0.20931,-0.4729,III,"$35,586.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/4/2019,1/29/2020,Alive
+57,FEMALE,0.052729,1.5114,0.76722,0.18569,II,"$2,198.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/1/2018,2/6/2020,Alive
+47,FEMALE,0.33186,-0.32765,0.0033786,1.1658,II,"$4,688.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,11/27/2017,4/10/2018,Dead
+56,FEMALE,-0.93256,0.70232,-0.59921,-1.8993,II,"$13,770.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,3/21/2018,7/6/2018,Dead
+76,FEMALE,-0.24427,0.92556,-0.41823,-0.067848,I,"$51,195.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,11/11/2019,1/5/2021,Dead
+40,FEMALE,0.51178,0.93587,0.16477,-0.53322,II,"$1,625.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,7/24/2017,10/17/2017,Alive
+46,FEMALE,0.14483,-0.76107,0.73345,0.82384,III,"$15,612.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,8/28/2018,9/27/2018,Alive
+50,FEMALE,0.12946,-0.4927,0.31603,-0.56382,III,"$2,302.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/13/2018,8/3/2019,Alive
+50,FEMALE,0.33653,0.6502,-0.77196,0.41034,III,"$39,774.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,8/18/2018,1/5/2019,Dead
+48,FEMALE,-0.2158,-0.29338,0.86771,-0.24204,III,"$48,173.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11/11/2017,8/6/2018,Dead
+50,FEMALE,-0.079765,2.6229,0.049687,-0.039369,I,"$3,046.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12/27/2017,5/16/2018,Alive
+75,FEMALE,0.17164,0.029656,-0.1589,0.67471,I,"$4,950.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,2/24/2017,4/5/2017,Alive
+53,FEMALE,-0.089463,1.0331,-0.47793,-0.25303,II,"$6,272.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,9/2/2019,12/10/2020,Alive
+62,FEMALE,0.066312,1.2954,0.25121,-0.31091,I,"$6,314.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,7/4/2019,6/26/2020,Alive
+57,FEMALE,0.19465,1.6678,0.39339,0.70333,II,"$6,080.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,2/24/2019,5/19/2020,Dead
+59,FEMALE,0.48045,0.63135,-0.701,-0.16203,III,"$20,630.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/5/2018,9/25/2020,Alive
+46,FEMALE,0.0039767,1.2038,-0.4135,0.52908,III,"$3,393.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/4/2019,4/21/2020,Alive
+47,FEMALE,-0.36177,1.1137,0.31335,-0.57385,II,"$3,557.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,1/25/2019,2/25/2020,Alive
+51,MALE,0.83789,0.50642,-0.54513,0.3149,II,"$12,630.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/30/2018,3/25/2020,Alive
+68,FEMALE,-0.11733,1.6399,-0.2833,-0.29739,I,"$38,709.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/12/2017,9/2/2018,Alive
+89,FEMALE,-0.24978,-0.35133,-0.099624,0.75834,I,"$2,211.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,6/24/2017,7/24/2017,Alive
+63,FEMALE,0.1767,0.44394,-0.25075,-0.37407,II,"$3,580.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10/27/2018,7/13/2019,Alive
+65,FEMALE,-0.54013,2.6043,-0.68803,0.0031524,II,"$23,568.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,2/19/2018,8/24/2019,Alive
+82,FEMALE,0.6596,1.5541,-0.82864,0.27855,II,"$37,743.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/25/2019,1/23/2020,Alive
+45,FEMALE,0.17626,0.59342,-0.50752,0.40061,III,"$8,060.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,9/23/2018,2/7/2020,Dead
+62,FEMALE,-0.38444,1.004,-0.63857,-0.54466,II,"$47,496.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/25/2019,8/6/2019,Alive
+59,FEMALE,-0.40951,0.037563,0.2178,-0.044665,III,"$13,607.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/2/2019,9/28/2020,Alive
+55,FEMALE,-0.66342,1.9382,-0.77537,-0.26366,II,"$34,303.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,2/15/2018,3/23/2020,Alive
+63,FEMALE,-0.037253,1.0907,-0.42381,-0.30536,I,"$23,245.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,5/5/2019,2/26/2020,Alive
+60,FEMALE,-0.73062,0.46648,-0.49494,-0.21706,III,"$5,990.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,5/15/2019,3/19/2021,Alive
+56,FEMALE,-0.67542,0.26937,-0.086603,1.0714,III,"$8,606.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,8/23/2019,,
+79,FEMALE,0.72984,1.5762,-0.16109,-0.25533,II,"$4,505.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,2/25/2018,10/15/2020,Alive
+66,FEMALE,0.49589,1.8661,0.044083,0.24241,II,"$30,167.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,5/31/2019,11/8/2019,Alive
+46,FEMALE,0.23113,0.877,0.019387,0.86336,II,"$4,134.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,2/5/2018,8/9/2019,Alive
+63,FEMALE,-0.48913,0.89386,-0.47077,-0.20582,III,"$14,712.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/20/2018,6/20/2019,Alive
+61,FEMALE,-0.22788,1.7908,-0.75621,0.73977,I,"$1,743.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/25/2017,6/26/2022,Alive
+49,FEMALE,-0.2871,0.65536,-0.099103,-0.9385,II,"$14,235.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,8/28/2018,10/25/2019,Alive
+83,FEMALE,-2.1446,-0.17946,-0.20033,-1.4888,III,"$6,389.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Other,6/5/2018,7/5/2020,Alive
+46,FEMALE,0.76582,0.52405,-0.15717,0.1439,III,"$5,920.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/26/2018,2/15/2021,Alive
+63,FEMALE,0.20279,-0.043384,0.77504,0.62011,I,"$17,663.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,7/24/2019,10/7/2019,Alive
+53,FEMALE,-0.069535,1.4183,-0.36105,0.39158,II,"$16,578.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,2/4/2017,2/7/2018,Alive
+45,FEMALE,-0.71163,1.6924,-0.80076,0.7944,II,"$6,799.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/31/2019,8/22/2020,Alive
+41,FEMALE,0.67269,-0.63329,0.008736,0.55564,II,"$11,742.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/29/2018,11/15/2020,Alive
+66,FEMALE,-1.3441,1.128,-0.22935,-0.22993,II,"$11,947.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/2/2019,1/10/2021,Alive
+69,FEMALE,-0.48903,2.3784,-0.46709,0.09731,I,"$7,727.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/5/2019,8/8/2020,Alive
+50,FEMALE,-0.15842,2.1515,-0.8536,0.54333,III,"$11,357.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,7/9/2018,4/19/2020,Dead
+60,FEMALE,0.25287,2.2967,0.53244,0.046291,III,"$3,947.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,7/14/2019,10/12/2020,Alive
+59,FEMALE,0.27641,-0.87612,1.298,-0.68664,II,"$1,532.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/16/2018,8/22/2020,Alive
+77,FEMALE,-0.2987,-0.16129,0.46072,-0.39666,II,"$2,755.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11/17/2017,8/15/2018,Alive
+51,FEMALE,-0.4762,1.7946,-0.14773,-0.30778,II,"$6,571.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/20/2019,1/26/2021,Alive
+57,FEMALE,0.12704,-0.49761,0.97681,0.62447,II,"$4,441.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/2/2017,8/12/2018,Alive
+29,FEMALE,0.0018145,0.89284,-0.6786,-0.17833,II,"$7,935.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,6/9/2018,6/15/2018,Alive
+46,FEMALE,-0.74014,-0.73755,0.72032,0.72182,II,"$37,165.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11/1/2019,1/22/2021,Alive
+70,FEMALE,1.0674,0.99713,-0.58622,0.48622,I,"$11,034.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,3/31/2018,11/16/2019,Alive
+64,FEMALE,-0.34457,0.79012,-0.46887,-0.45557,I,"$39,837.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,12/6/2018,3/19/2020,Alive
+58,FEMALE,0.3544,1.5325,-0.56699,0.47109,II,"$21,099.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/5/2018,6/22/2019,Alive
+59,FEMALE,0.28025,0.89896,-0.61003,0.53418,II,"$43,579.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,1/6/2018,1/10/2018,Alive
+46,FEMALE,0.22669,1.9298,-0.33124,-0.59541,I,"$11,073.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,6/19/2018,8/27/2020,Alive
+71,FEMALE,-0.9484,0.74051,-0.25829,-0.21336,III,"$8,027.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/16/2018,1/23/2019,Alive
+41,FEMALE,0.064723,0.75941,0.28149,-1.7127,II,"$11,083.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,12/16/2018,1/24/2021,Alive
+50,FEMALE,-0.25023,0.323,-0.51376,-0.81081,I,"$2,027.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,3/2/2019,9/24/2026,Alive
+74,FEMALE,0.59453,0.94863,-0.49834,0.97173,II,"$10,942.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/5/2017,6/21/2017,Alive
+53,FEMALE,0.56042,0.82251,-0.53476,0.26527,II,"$30,185.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10/18/2017,4/28/2020,Alive
+52,FEMALE,0.78418,2.2938,-0.43862,-0.047829,III,"$5,729.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,10/17/2018,2/18/2019,Alive
+76,FEMALE,-0.16053,-0.54398,0.7855,0.62199,II,"$47,291.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/16/2018,10/19/2020,Alive
+79,FEMALE,-0.036229,0.79551,-0.013525,1.6299,II,"$3,767.00 ",Mucinous Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,11/17/2017,1/11/2018,Dead
+46,FEMALE,-0.55214,2.0836,0.41605,-0.80791,I,"$12,105.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12/27/2017,12/2/2018,Dead
+67,FEMALE,-0.75475,0.94773,-0.80776,0.20922,II,"$10,226.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/6/2018,10/9/2020,Dead
+75,FEMALE,-1.9711,-0.63197,0.037134,-0.46685,III,"$22,413.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,3/1/2018,6/1/2019,Alive
+48,FEMALE,0.22826,1.2112,-0.46326,-0.54502,II,"$15,821.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,8/8/2018,10/23/2018,Alive
+59,FEMALE,0.71527,2.1912,0.39158,0.95198,II,"$6,186.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/10/2019,9/22/2019,Alive
+66,FEMALE,-0.37043,1.9185,-0.79608,-0.062903,II,"$3,645.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,9/22/2019,9/8/2020,Alive
+59,FEMALE,0.35914,1.1852,-0.42349,0.41594,II,"$21,345.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,8/3/2017,3/18/2018,Alive
+68,FEMALE,-0.57675,1.3276,0.081247,-0.39916,II,"$30,942.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/6/2018,12/16/2018,Dead
+36,FEMALE,0.080353,0.42638,0.54715,0.27368,III,"$5,004.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/15/2017,6/19/2017,Alive
+69,FEMALE,-0.75779,-0.3378,0.56141,0.2083,II,"$17,560.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10/7/2018,,Dead
+49,FEMALE,0.061643,1.3149,-0.099357,0.75441,II,"$2,332.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,5/15/2017,11/1/2017,Alive
+56,FEMALE,-0.065002,-0.50852,0.51962,0.77911,II,"$3,877.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/12/2018,7/12/2019,Dead
+54,FEMALE,-1.2313,-0.76767,0.8616,0.23905,II,"$2,867.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/22/2019,2/15/2021,Alive
+56,FEMALE,-0.31474,-0.40061,0.75532,0.092249,I,"$47,056.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/26/2019,8/23/2019,Alive
+39,FEMALE,-0.20347,1.0977,-0.046476,-0.045144,II,"$10,825.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,6/29/2018,10/26/2020,Alive
+57,FEMALE,0.3568,1.5832,-0.46708,1.0386,II,"$11,881.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,4/15/2019,3/11/2020,Alive
+46,FEMALE,-0.055036,-0.50643,0.88778,-0.089424,II,"$4,647.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/22/2019,2/9/2021,Dead
+59,FEMALE,0.1505,1.2674,0.64265,0.26142,II,"$2,405.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10/12/2019,2/1/2021,Alive
+61,FEMALE,0.66639,2.1892,-1.1018,-0.83145,II,"$11,488.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,2/19/2018,11/23/2018,Alive
+63,FEMALE,-0.60324,1.119,-0.60583,-0.58394,III,"$30,260.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/6/2019,5/15/2019,Alive
+49,FEMALE,-0.14441,2.324,-0.70744,0.71895,III,"$11,381.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/20/2019,2/27/2020,Alive
+88,FEMALE,-0.60335,1.3825,0.40357,0.26921,II,"$19,108.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/4/2019,,Dead
+74,FEMALE,-0.26558,1.2695,0.38083,-0.0072174,II,"$8,601.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/14/2019,6/20/2019,Alive
+59,FEMALE,-0.46713,2.2267,-0.21146,-0.24328,II,"$6,686.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/10/2018,3/15/2018,Alive
+43,FEMALE,-0.42032,0.57807,0.61447,-0.031505,II,"$7,740.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,4/26/2017,11/9/2018,Dead
+67,FEMALE,0.014767,0.60396,0.066538,-0.85405,II,"$1,706.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,2/10/2019,11/11/2019,Alive
+60,FEMALE,0.21197,1.5274,-0.40949,0.00097756,II,"$2,257.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,3/7/2018,10/14/2020,Alive
+61,FEMALE,0.38306,1.6546,0.57301,0.34822,III,"$39,556.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,3/16/2019,11/16/2019,Alive
+85,FEMALE,0.40384,0.48825,0.84111,0.61645,III,"$10,115.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,5/26/2018,8/15/2018,Alive
+65,FEMALE,-0.44324,0.60955,-0.39889,0.33211,II,"$3,385.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,3/16/2019,10/13/2020,Dead
+80,FEMALE,-0.31038,2.22,-0.55634,0.52372,II,"$17,081.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/15/2019,5/15/2020,Alive
+78,FEMALE,-0.91723,-0.64693,0.55259,0.45874,II,"$9,635.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10/22/2019,3/24/2021,Alive
+72,FEMALE,-0.42298,0.3833,0.41699,-0.088218,II,"$32,734.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,1/26/2018,5/3/2026,Dead
+43,FEMALE,0.60863,1.7145,0.1497,-0.27394,III,"$6,082.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,5/25/2019,5/18/2020,Alive
+52,FEMALE,0.4452,0.81938,-0.43867,-0.0078963,II,"$12,815.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/11/2019,11/14/2023,Alive
+54,FEMALE,0.096614,-0.60279,0.4777,0.9466,I,"$13,616.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,4/26/2018,1/9/2020,Alive
+87,FEMALE,-0.087485,1.1111,-0.56692,1.2237,II,"$11,164.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11/7/2017,11/28/2017,Alive
+51,FEMALE,0.0084383,1.4019,0.1216,-2.0255,II,"$1,633.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10/22/2017,8/26/2019,Alive
+83,FEMALE,-0.39298,1.4757,0.14378,0.64097,I,"$2,457.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/17/2018,2/21/2019,Alive
+35,FEMALE,-0.81753,1.7904,-1.0416,0.038522,II,"$2,156.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,10/17/2018,10/17/2019,Alive
+60,FEMALE,-0.10055,1.3716,-0.86866,0.040511,I,"$1,261.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,10/3/2018,10/30/2019,Alive
+52,FEMALE,0.45553,1.3648,-0.53881,0.14426,II,"$2,046.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,4/5/2019,12/30/2020,Alive
+68,FEMALE,-0.34962,1.3735,-0.24356,0.18804,II,"$27,323.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/6/2018,2/10/2018,Alive
+36,FEMALE,0.2318,0.61804,-0.55779,-0.51735,III,"$2,167.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,11/11/2019,2/9/2020,Dead
+75,FEMALE,0.50861,2.7056,-0.33393,0.38805,II,"$27,376.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,8/23/2019,6/27/2020,Alive
+60,FEMALE,0.20862,-0.56103,1.2385,0.96681,III,"$3,491.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/25/2019,2/6/2019,Dead
+45,FEMALE,0.42538,1.2628,-0.71996,-1.1641,II,"$18,972.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,1/16/2018,2/10/2020,Alive
+44,MALE,0.73272,1.1117,-0.26952,-0.35492,II,"$18,158.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,11/1/2019,3/4/2020,Dead
+80,FEMALE,-0.017914,0.9241,-0.027996,0.26999,I,"$20,746.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/13/2018,4/10/2020,Alive
+46,FEMALE,-0.64268,0.045374,-0.20426,0.65811,II,"$5,138.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,7/25/2018,12/11/2018,Alive
+61,FEMALE,-0.71947,2.5485,-0.15024,0.33968,II,"$40,721.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,11/11/2019,1/18/2021,Dead
+56,FEMALE,-0.22853,1.3102,-0.59125,0.086514,II,"$9,878.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,6/14/2017,9/12/2020,Alive
+56,FEMALE,1.0352,1.7646,-0.75921,0.97527,III,"$10,960.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,12/7/2017,6/25/2018,Alive
+74,FEMALE,-0.21082,-0.97873,-1.06,-0.84252,II,"$1,843.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,4/21/2019,7/25/2020,Alive
+45,FEMALE,-0.27807,1.4291,-0.57895,0.22264,II,"$5,125.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/6/2019,9/10/2020,Dead
+60,FEMALE,0.094585,1.0003,-0.22575,0.048602,III,"$7,790.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11/1/2019,2/28/2021,Dead
+71,FEMALE,0.68717,0.36884,0.78343,0.94318,II,"$6,334.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,8/23/2019,5/10/2020,Alive
+54,FEMALE,-0.58637,1.5136,1.0619,0.10124,I,"$19,965.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,1/5/2019,2/8/2021,Alive
+51,FEMALE,0.57241,2.0089,-1.1825,0.29032,II,"$7,077.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,12/26/2018,1/7/2021,Alive
+37,FEMALE,0.2949,1.3625,0.69238,0.41002,II,"$6,949.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,6/15/2017,10/24/2018,Alive
+79,FEMALE,-1.0622,1.1664,-0.65565,-0.092381,II,"$21,224.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10/2/2019,4/27/2020,Alive
+62,FEMALE,0.5424,1.7926,-0.56599,-0.017206,II,"$15,518.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,4/5/2017,6/20/2017,Alive
+71,FEMALE,0.12758,0.81033,0.51345,-0.10298,II,"$36,950.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,8/14/2018,1/15/2020,Alive
+47,FEMALE,-0.19819,0.62597,-0.28137,-0.47774,II,"$19,749.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,7/10/2019,1/15/2020,Alive
+50,FEMALE,-0.062153,1.612,-0.47404,-0.044448,II,"$21,349.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,4/15/2017,1/25/2018,Alive
+59,FEMALE,0.19762,1.0719,-0.2051,0.63315,II,"$36,149.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/28/2017,7/22/2018,Alive
+72,FEMALE,0.41729,1.2071,-0.81206,0.93551,II,"$10,451.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,2/4/2019,2/16/2021,Alive
+61,FEMALE,-0.40592,2.7513,-0.59542,0.81639,I,"$5,152.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,9/12/2019,1/5/2021,Alive
+62,FEMALE,0.37355,0.78312,-0.57445,-0.96343,I,"$5,028.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,8/14/2018,12/6/2020,Alive
+32,FEMALE,0.12545,1.4565,-0.6803,-0.010378,I,"$10,407.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/2/2018,4/23/2019,Dead
+53,FEMALE,-0.6278,0.26102,-0.2042,-1.3053,III,"$4,831.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Simple Mastectomy,5/21/2019,5/25/2020,Alive
+62,FEMALE,0.78601,0.80845,0.42229,-0.14382,II,"$6,129.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/6/2018,5/26/2019,Alive
+52,FEMALE,-1.6828,0.72722,0.056773,-1.2441,II,"$2,719.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,6/5/2017,3/2/2020,Alive
+44,FEMALE,0.89185,0.4444,0.1102,0.15685,II,"$4,828.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/22/2019,5/31/2020,Alive
+85,FEMALE,0.40553,0.33144,-0.25743,-0.65476,II,"$13,405.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11/6/2018,1/17/2021,Alive
+54,FEMALE,0.43464,2.4522,0.33389,0.62901,II,"$8,117.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12/16/2018,9/26/2020,Dead
+63,FEMALE,-0.8321,-0.23494,0.63831,0.030815,II,"$1,695.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,9/3/2018,3/14/2022,Alive
+63,FEMALE,-0.55957,0.48445,0.081055,0.60983,II,"$5,246.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Other,10/7/2018,11/1/2020,Alive
+63,FEMALE,0.049656,1.449,-0.021928,0.42886,II,"$2,855.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,5/15/2019,2/3/2021,Alive
+59,FEMALE,-0.33045,1.4353,-0.608,-0.3507,III,"$48,824.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/27/2017,5/24/2018,Alive
+84,FEMALE,0.14991,1.4923,-0.93182,-0.023158,II,"$6,456.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,1/26/2018,3/12/2018,Dead
+43,FEMALE,0.44281,1.4144,-0.93252,0.12166,II,"$10,436.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10/27/2018,12/17/2018,Alive
+69,FEMALE,0.21398,1.3114,-0.32747,-0.23426,III,"$8,823.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/8/2017,6/9/2018,Alive
+79,FEMALE,0.4794,2.0559,-0.53136,-0.18848,I,"$8,538.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,11/21/2019,2/19/2021,Dead
+56,FEMALE,0.22155,1.9068,0.52045,-0.31199,II,"$11,736.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/6/2017,6/27/2019,Dead
+84,FEMALE,0.83804,2.0332,-0.63166,0.56565,II,"$1,632.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,4/15/2019,4/14/2020,Alive
+64,FEMALE,0.41603,1.6094,-0.51944,0.94267,III,"$4,005.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,12/16/2018,4/19/2019,Alive
+44,FEMALE,0.23917,0.4529,0.040158,-0.38479,II,"$7,419.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,7/4/2017,2/5/2021,Alive
+56,FEMALE,-0.58641,0.22446,-0.30652,-1.5965,II,"$7,731.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11/6/2018,10/27/2020,Alive
+74,FEMALE,-0.03164,2.2806,0.0085752,-0.53801,I,"$43,753.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,4/6/2018,11/17/2020,Alive
+68,FEMALE,0.42607,0.35995,-0.34561,-0.080137,II,"$3,982.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,6/24/2019,2/9/2020,Alive
+58,FEMALE,0.35774,1.5189,-0.30706,0.43625,III,"$5,326.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/31/2018,10/3/2018,Dead
+44,FEMALE,-0.27884,2.1688,-0.46233,0.2722,II,"$6,776.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/20/2018,,
+48,FEMALE,-0.38123,-0.47456,0.56728,-0.30694,II,"$4,923.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/19/2018,6/25/2019,Alive
+54,FEMALE,0.32671,-0.29499,1.7691,0.77087,II,"$12,558.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/22/2018,4/11/2019,Alive
+68,MALE,1.4704,0.469,0.13554,-0.28984,II,"$4,884.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,4/25/2019,4/18/2020,Alive
+61,FEMALE,0.18832,-0.15711,-0.55984,-0.59975,I,"$2,138.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,7/24/2019,6/3/2020,Alive
+49,FEMALE,-0.064497,-0.87132,0.8688,0.31662,III,"$12,044.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/6/2018,3/12/2019,Alive
+53,FEMALE,0.28708,3.4022,-0.3285,0.21619,III,"$1,137.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,8/3/2019,8/16/2020,Alive
+76,FEMALE,-0.24514,0.61407,0.12651,0.39114,I,"$1,640.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,10/27/2018,2/20/2020,Alive
+61,FEMALE,-0.7588,0.061787,-0.20638,-1.2409,III,"$5,650.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/22/2018,11/26/2019,Alive
+47,FEMALE,0.58118,0.94321,-0.22693,0.36686,III,"$8,517.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,9/13/2018,1/27/2021,Dead
+56,FEMALE,0.326,1.8602,-1.0771,0.33664,III,"$9,644.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/26/2018,6/29/2019,Dead
+48,FEMALE,0.33092,1.7624,0.17624,0.78927,II,"$14,902.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,4/25/2019,2/3/2021,Alive
+55,FEMALE,0.33064,0.84757,-0.49466,0.11656,I,"$2,131.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/7/2017,,
+74,FEMALE,-0.24613,1.4953,-0.29854,0.65925,III,"$8,871.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,6/25/2017,12/23/2019,Alive
+71,FEMALE,0.39409,1.7054,0.035642,1.441,II,"$13,012.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/26/2018,,
+87,FEMALE,0.70876,2.1731,-0.43967,-0.39255,I,"$37,134.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/25/2017,1/15/2018,Dead
+47,FEMALE,0.29488,1.4037,0.2443,-0.39588,III,"$7,147.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Lumpectomy,11/16/2018,1/28/2021,Alive
+82,FEMALE,-0.97674,-0.4996,0.65794,-0.71785,I,"$4,338.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/6/2018,5/22/2020,Dead
+47,FEMALE,0.51558,2.6502,-0.10313,-0.045725,III,"$11,743.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/29/2018,,Dead
+48,FEMALE,-0.34001,0.16257,-0.1772,0.41255,II,"$20,984.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Simple Mastectomy,1/15/2019,12/2/2020,Alive
+56,FEMALE,-0.2575,0.80691,-0.50917,-0.034585,I,"$13,881.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,10/2/2017,7/26/2020,Alive
+62,FEMALE,0.27503,0.8812,-0.51371,-0.023585,III,"$6,610.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/24/2019,1/15/2020,Alive
+62,FEMALE,0.10464,0.7028,-0.29898,0.60103,II,"$1,980.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,3/16/2017,10/20/2019,Dead
+51,FEMALE,-0.85187,1.676,1.7019,-0.078298,II,"$8,163.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,3/11/2018,6/11/2019,Dead
+85,FEMALE,0.7452,1.7573,-1.0062,-0.06174,II,"$3,538.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,7/14/2017,8/27/2018,Alive
+50,FEMALE,-0.70204,0.20307,0.54404,-0.02387,III,"$5,003.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/16/2019,5/4/2021,Dead
+80,FEMALE,0.67077,-0.71039,0.18648,0.14664,II,"$8,520.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,6/14/2019,,
+63,FEMALE,0.37857,1.4942,0.11355,0.76128,II,"$7,372.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/12/2017,5/4/2018,Alive
+52,FEMALE,0.20051,2.1842,-0.65602,0.81131,II,"$10,356.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,8/13/2019,2/20/2020,Alive
+68,FEMALE,-0.055157,-0.45553,0.16324,-0.73511,II,"$2,484.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,8/13/2019,1/29/2020,Alive
+40,FEMALE,0.71682,1.0004,0.13487,-0.61786,II,"$3,393.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/30/2019,10/21/2019,Alive
+54,FEMALE,-0.28272,0.60842,-0.47403,0.61717,II,"$25,082.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/17/2018,6/23/2019,Alive
+59,FEMALE,0.4523,1.3959,-0.23084,0.79631,I,"$5,012.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,10/12/2019,1/19/2021,Alive
+77,FEMALE,0.47771,0.81881,-0.4063,-0.65479,I,"$10,565.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,12/16/2018,2/14/2021,Alive
+65,FEMALE,-0.4447,1.4946,-1.1074,-0.25249,II,"$5,254.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,4/10/2018,11/8/2019,Alive
+68,FEMALE,-0.26,0.86044,0.076732,0.1867,II,"$34,780.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,6/25/2018,12/23/2020,Dead
+38,FEMALE,-0.26845,0.19515,-1.0247,0.10172,III,"$19,516.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/30/2018,11/7/2018,Alive
+64,FEMALE,-0.96995,-0.76926,0.5568,-0.72015,I,"$11,987.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10/3/2018,10/26/2018,Dead
+45,FEMALE,-0.46408,0.85337,0.24774,-0.54734,III,"$2,689.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,10/17/2018,10/29/2020,Alive
+45,FEMALE,-0.52707,0.75652,-0.56082,-0.50269,III,"$24,227.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12/21/2017,3/23/2018,Alive
+73,FEMALE,-0.21861,0.95399,0.32449,-0.79983,II,"$7,358.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/30/2018,6/30/2019,Alive
+88,FEMALE,-2.3409,0.37246,0.20845,-1.6411,I,"$9,225.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,6/4/2019,,
+60,FEMALE,0.53242,1.5411,-1.0095,-0.12588,I,"$7,444.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12/11/2017,,
+50,FEMALE,-0.32289,0.98848,-0.29313,-0.2617,II,"$14,001.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11/16/2018,,
+78,FEMALE,0.20973,0.68683,0.11919,0.6142,II,"$1,728.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,2/25/2018,3/11/2018,Alive
+54,FEMALE,0.78321,-0.8414,1.507,0.81629,II,"$12,334.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,7/14/2019,2/22/2021,Alive
+55,FEMALE,0.39568,0.86093,-0.97186,-0.06062,III,"$6,710.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,4/1/2019,1/30/2020,Alive
+50,FEMALE,0.059398,1.6725,-0.41615,0.30143,II,"$19,444.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,8/24/2018,10/13/2018,Alive
+64,FEMALE,-0.33866,-0.64147,1.6575,-0.42082,III,"$1,616.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,1/5/2019,10/6/2020,Alive
+66,FEMALE,-0.33451,1.6081,0.38047,0.12195,II,"$4,463.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,10/7/2018,5/8/2020,Alive
+48,FEMALE,0.23235,1.2129,0.052518,-0.024126,I,"$17,353.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12/17/2017,4/13/2020,Alive
+53,FEMALE,-0.8531,-0.0058079,-0.38088,-0.80618,II,"$7,153.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/2/2018,1/11/2020,Alive
+49,FEMALE,-0.58397,-0.33272,-0.13087,-1.2391,III,"$38,512.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/15/2019,6/26/2019,Alive
+62,FEMALE,0.067627,1.2431,0.065687,-0.36482,II,"$5,354.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,3/17/2018,5/2/2020,Alive
+63,FEMALE,0.27546,2.2613,-0.0068398,0.56781,I,"$35,160.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,7/24/2019,3/5/2020,Alive
+66,FEMALE,-0.45077,0.42346,-0.029197,0.18192,II,"$7,197.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/15/2018,7/25/2018,Alive
+60,FEMALE,0.2922,1.7753,-0.093631,0.56704,II,"$29,523.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,3/26/2019,7/14/2020,Dead
+42,FEMALE,-0.44904,-0.72016,-0.11163,-0.034973,II,"$24,476.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,1/1/2019,4/22/2020,Alive
+49,FEMALE,-1.2517,2.6739,-0.5358,-1.1071,III,"$12,649.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,8/18/2018,8/25/2018,Alive
+40,FEMALE,0.33626,1.7196,0.43951,-0.34219,II,"$1,987.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,1/5/2019,1/28/2020,Dead
+77,FEMALE,-0.52832,0.16652,0.11926,-0.43346,II,"$1,832.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,4/5/2019,12/17/2019,Alive
+45,FEMALE,-0.00071536,1.6332,0.13265,-1.4516,III,"$4,041.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,7/14/2019,11/1/2020,Alive
+56,FEMALE,-0.3506,1.8783,-0.36688,0.46539,I,"$12,829.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,4/20/2018,1/29/2019,Alive
+47,FEMALE,-0.52529,1.1224,0.43712,0.6241,III,"$47,305.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,3/11/2018,3/20/2018,Dead
+72,FEMALE,-0.3727,0.55549,-0.6679,-0.3507,II,"$44,261.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,10/8/2017,9/13/2018,Dead
+45,FEMALE,-0.59518,-0.34054,0.44454,0.75328,I,"$4,261.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,3/26/2017,9/23/2020,Alive
+49,FEMALE,-0.20161,0.27159,-0.44871,0.32081,III,"$41,097.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/23/2018,10/4/2019,Dead
+63,FEMALE,0.29059,0.81249,1.0691,-0.14857,III,"$13,047.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,8/3/2019,9/3/2019,Alive
+55,FEMALE,0.0066101,1.3076,-0.5879,0.1461,II,"$43,921.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,6/5/2018,12/7/2019,Alive
+68,FEMALE,-0.82632,1.6912,-0.13349,-0.18214,II,"$5,401.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/6/2018,12/6/2019,Dead
+65,FEMALE,-0.091334,0.054757,0.034648,-0.58883,II,"$11,520.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/12/2019,2/13/2021,Alive
+54,FEMALE,-1.3791,1.6607,-0.15662,-0.41103,II,"$33,750.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,6/14/2019,3/4/2021,Alive
+73,FEMALE,-0.095927,1.8642,-0.28925,-0.35304,I,"$11,837.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,4/10/2018,9/24/2018,Alive
+54,FEMALE,0.51432,1.6936,-0.14401,1.0249,III,"$17,085.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/6/2018,12/15/2019,Alive
+85,FEMALE,0.53809,0.28109,-0.10642,0.23963,I,"$24,870.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,11/1/2017,12/6/2018,Alive
+54,FEMALE,-0.81605,-0.63545,1.3379,-0.42646,III,"$36,219.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12/6/2018,2/20/2020,Alive
+50,FEMALE,0.21728,-0.21628,1.0881,0.15429,II,"$20,463.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,6/4/2017,2/27/2018,Alive
+59,FEMALE,0.32248,2.0502,-0.34684,-1.1485,II,"$46,151.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,1/30/2018,6/4/2024,Dead
+41,FEMALE,-0.059289,2.0552,0.047034,-0.21004,II,"$17,180.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,3/6/2019,12/25/2020,Alive
+58,FEMALE,-0.47567,0.42968,-0.58866,0.64553,III,"$14,591.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,2/4/2019,7/6/2020,Alive
+40,FEMALE,-1.4553,-0.74177,1.1336,-0.8397,III,"$7,441.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,9/7/2018,,
+42,FEMALE,-0.17561,0.28963,1.129,-0.38224,I,"$9,282.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,8/4/2018,8/9/2020,Alive
+79,FEMALE,-0.48269,-0.31677,0.47158,0.34744,II,"$1,719.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,9/27/2018,11/20/2018,Alive
+58,FEMALE,-0.3349,0.88445,-0.7972,0.32147,III,"$42,857.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,8/13/2017,8/13/2018,Alive
+67,FEMALE,0.31742,-0.55585,0.35657,0.79733,II,"$7,266.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,10/2/2019,,
+88,FEMALE,0.20412,0.52534,-0.84544,-0.70565,II,"$9,618.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,2/24/2019,6/30/2020,Alive
+50,FEMALE,1.5936,1.6752,-0.038062,0.94426,II,"$2,523.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,11/21/2017,7/22/2020,Alive
+51,FEMALE,0.18762,2.6639,1.1956,0.1864,III,"$9,716.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/26/2018,10/1/2020,Dead
+40,FEMALE,0.087549,2.1957,-0.99356,-0.37807,III,"$2,804.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,4/20/2018,8/4/2019,Alive
+77,FEMALE,-0.15175,-0.66332,1.1894,0.21718,II,"$2,150.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/28/2017,9/28/2018,Alive
+59,FEMALE,0.53857,-0.87178,-0.58836,-0.95198,III,"$12,929.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11/16/2018,5/18/2020,Alive
+77,FEMALE,0.33912,1.3193,0.5874,0.35192,II,"$9,855.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10/22/2019,2/9/2021,Alive
+57,FEMALE,-0.21378,-0.62814,1.0226,0.20244,II,"$22,332.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,12/1/2017,6/8/2018,Alive
+71,FEMALE,-0.22305,0.50594,-0.34943,-0.8353,II,"$48,549.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,5/26/2017,12/19/2017,Alive
+49,FEMALE,-0.28082,0.71925,-0.171,0.54672,II,"$4,237.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12/17/2017,2/23/2018,Alive
+76,FEMALE,-0.86379,-0.11864,0.070765,0.75067,III,"$11,879.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,1/31/2019,12/1/2019,Dead
+38,FEMALE,-0.62985,2.2999,0.11346,-1.0368,II,"$9,626.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,9/3/2018,6/12/2019,Alive
+41,FEMALE,0.14252,1.0827,0.21092,0.97428,I,"$7,742.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,3/6/2017,8/9/2019,Alive
+78,FEMALE,-0.1695,1.3879,-1.3071,-1.2597,I,"$9,433.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11/26/2018,5/4/2020,Alive
+46,FEMALE,0.095103,-0.41517,-0.19489,0.046527,III,"$14,256.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,6/24/2019,3/18/2020,Alive
+47,FEMALE,0.12107,0.78513,-0.19762,0.35245,II,"$47,897.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,8/23/2017,2/28/2019,Dead
+50,FEMALE,0.13597,1.8285,-0.76904,-0.27651,I,"$25,993.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/16/2018,4/21/2020,Alive
+56,FEMALE,0.34509,-0.21147,-0.19304,0.12427,II,"$3,172.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/25/2017,7/12/2017,Alive
+84,FEMALE,-0.23032,1.1304,0.16642,1.1841,II,"$20,278.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,3/22/2019,9/15/2019,Alive
+69,FEMALE,0.29939,-0.30765,1.0716,-0.1795,II,"$42,112.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,4/30/2018,9/9/2020,Alive
+53,FEMALE,-0.36165,2.6566,0.30769,0.20382,II,"$2,157.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,8/3/2019,8/2/2020,Alive
+53,FEMALE,0.26748,1.6773,-0.17536,0.46565,III,"$3,906.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,5/25/2019,2/9/2020,Alive
+47,FEMALE,-0.19006,1.9779,-0.0076154,0.035325,II,"$1,705.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10/23/2018,2/19/2019,Dead
+71,FEMALE,0.41862,-0.25258,-0.241,-0.20763,III,"$16,298.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/10/2018,7/5/2019,Alive
+52,FEMALE,1.0902,2.766,-0.55681,-0.47586,II,"$21,979.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,9/7/2018,2/13/2021,Alive
+64,FEMALE,-0.24408,1.6907,-0.12854,-1.3402,II,"$38,746.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,8/13/2019,1/26/2021,Alive
+44,FEMALE,0.96405,0.82304,-0.30715,-0.14975,III,"$9,249.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,12/6/2018,9/7/2020,Alive
+50,FEMALE,-0.3256,1.9899,-0.038147,0.25251,II,"$6,747.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,9/12/2019,8/21/2020,Alive
+56,FEMALE,0.45517,1.1774,-0.57456,0.36635,I,"$24,873.00 ",Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,1/25/2019,2/13/2021,Alive
+38,FEMALE,0.28736,0.46249,-0.67873,0.49462,I,"$12,266.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/17/2018,7/2/2019,Alive
+51,FEMALE,0.14784,0.31823,-0.60475,-0.96489,I,"$4,349.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/26/2018,9/9/2018,Alive
+66,FEMALE,0.14129,1.2999,-0.34325,-1.7684,II,"$12,646.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12/31/2017,2/21/2021,Dead
+41,FEMALE,-0.07034,-0.27153,0.46708,-1.2196,II,"$19,442.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/17/2018,6/17/2019,Alive
+49,FEMALE,-0.11986,-0.94513,0.74776,-0.67553,I,"$20,178.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,5/1/2019,11/9/2020,Alive
+48,FEMALE,-0.64398,-0.59363,-0.10974,-1.6028,III,"$4,151.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/11/2019,8/10/2020,Alive
+60,FEMALE,-0.1179,1.1539,0.54174,0.74579,I,"$11,945.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,3/12/2019,7/17/2019,Alive
+52,FEMALE,-0.17932,1.5287,-0.16313,0.83222,I,"$7,749.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/4/2019,3/24/2020,Alive
+29,FEMALE,-0.10568,0.93747,-0.62169,0.18637,I,"$8,444.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,3/21/2018,3/15/2022,Dead
+42,FEMALE,0.17295,1.2966,-0.85677,-0.23695,II,"$1,737.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11/6/2018,3/3/2019,Alive
+58,FEMALE,-0.54747,0.3066,-0.59195,-0.37415,II,"$42,125.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,2/9/2018,2/9/2018,Dead
+51,FEMALE,0.090487,-0.63873,2.1934,-0.83843,II,"$8,124.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,2/24/2019,12/5/2020,Alive
+68,FEMALE,0.64903,1.424,-0.39536,1.1848,I,"$34,839.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12/7/2017,7/18/2018,Dead
+71,FEMALE,0.35524,1.9752,-0.013443,0.55076,III,"$9,723.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,2/14/2019,5/3/2019,Dead
+79,FEMALE,0.97825,1.7105,-0.6563,0.2691,I,"$8,835.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,4/5/2019,,Dead
+62,FEMALE,0.67951,0.49814,0.018525,0.28502,II,"$10,435.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,6/15/2018,7/4/2018,Alive
+65,FEMALE,0.43553,0.77034,0.49368,0.37432,III,"$7,421.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/22/2017,8/25/2019,Alive
+53,FEMALE,0.014106,-0.68397,0.53815,0.71897,III,"$4,668.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,8/4/2018,12/18/2018,Alive
+46,FEMALE,0.52751,-0.62123,-0.54699,0.39106,II,"$4,895.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,9/27/2018,5/19/2022,Alive
+50,FEMALE,0.67249,1.279,-0.32107,-0.11239,III,"$24,672.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,5/16/2017,,
+84,MALE,-0.081872,1.7241,-0.057335,0.043025,III,"$35,492.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,9/18/2017,11/15/2021,Alive
+57,FEMALE,0,0.20684,-0.1611,0.37403,I,"$11,566.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,3/7/2018,10/11/2018,Alive
+90,FEMALE,-1.3882,0.77504,0.29088,-0.92427,III,"$2,866.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,7/19/2018,9/8/2018,Alive
+59,FEMALE,0.0056486,1.4818,0.31711,0.32139,II,"$6,600.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,7/9/2018,8/9/2019,Alive
+52,FEMALE,0.2408,1.7348,0.33109,1.0441,I,"$3,562.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,10/12/2019,11/7/2020,Alive
+73,FEMALE,0.44857,2.3013,0.011659,0.60686,II,"$42,761.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,5/16/2018,4/21/2019,Dead
+64,FEMALE,0.9758,2.4847,-0.51332,0.66698,I,"$47,928.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10/2/2019,2/3/2021,Alive
+59,FEMALE,0.024598,1.4005,0.024751,0.28032,II,"$9,145.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,1/15/2019,3/27/2020,Alive
+41,FEMALE,0.10012,-0.46547,0.47237,-0.52387,I,"$48,518.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,7/25/2018,4/23/2019,Alive
+54,FEMALE,0.75382,1.6425,-0.33285,0.85786,II,"$24,394.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,3/26/2019,10/11/2019,Dead
+74,FEMALE,0.97251,1.4268,-0.36657,-0.10782,II,"$13,429.00 ",Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,11/26/2018,12/5/2018,Alive
+66,FEMALE,0.28638,1.3998,0.31883,0.83605,II,"$11,658.00 ",Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,2/4/2019,8/10/2019,Dead
+,,,,,,,"$19,145.00 ",,,,,,,,
+,,,,,,,"$13,823.00 ",,,,,,,,
+,,,,,,,"$12,143.00 ",,,,,,,,
+,,,,,,,"$13,938.00 ",,,,,,,,
+,,,,,,,"$41,919.00 ",,,,,,,,
+,,,,,,,"$8,233.00 ",,,,,,,,
+,,,,,,,"$18,955.00 ",,,,,,,,
+,,,,,,,"$13,352.00 ",,,,,,,,
+,,,,,,,"$13,217.00 ",,,,,,,,
+,,,,,,,"$13,982.00 ",,,,,,,,
+,,,,,,,"$10,977.00 ",,,,,,,,
+,,,,,,,"$6,184.00 ",,,,,,,,
+,,,,,,,"$4,890.00 ",,,,,,,,
+,,,,,,,"$8,334.00 ",,,,,,,,
+,,,,,,,"$5,478.00 ",,,,,,,,
+,,,,,,,"$1,636.00 ",,,,,,,,
+,,,,,,,"$11,831.00 ",,,,,,,,
+,,,,,,,"$8,932.00 ",,,,,,,,
+,,,,,,,"$3,554.00 ",,,,,,,,
+,,,,,,,"$12,405.00 ",,,,,,,,
+,,,,,,,"$14,133.00 ",,,,,,,,
+,,,,,,,"$24,603.00 ",,,,,,,,
+,,,,,,,"$8,944.00 ",,,,,,,,
+,,,,,,,"$9,620.00 ",,,,,,,,
+,,,,,,,"$1,837.00 ",,,,,,,,
+,,,,,,,"$1,608.00 ",,,,,,,,
+,,,,,,,"$10,043.00 ",,,,,,,,
+,,,,,,,"$4,751.00 ",,,,,,,,
+,,,,,,,"$13,845.00 ",,,,,,,,
+,,,,,,,"$2,598.00 ",,,,,,,,
+,,,,,,,"$3,181.00 ",,,,,,,,
+,,,,,,,"$9,778.00 ",,,,,,,,
+,,,,,,,"$13,430.00 ",,,,,,,,
+,,,,,,,"$8,017.00 ",,,,,,,,
+,,,,,,,"$8,116.00 ",,,,,,,,
+,,,,,,,"$3,482.00 ",,,,,,,,
+,,,,,,,"$13,415.00 ",,,,,,,,
+,,,,,,,"$12,029.00 ",,,,,,,,
+,,,,,,,"$7,639.00 ",,,,,,,,
+,,,,,,,"$36,085.00 ",,,,,,,,
+,,,,,,,"$1,392.00 ",,,,,,,,
+,,,,,,,"$18,034.00 ",,,,,,,,
+,,,,,,,"$21,660.00 ",,,,,,,,
+,,,,,,,"$38,126.00 ",,,,,,,,
+,,,,,,,"$16,456.00 ",,,,,,,,
+,,,,,,,"$27,001.00 ",,,,,,,,
+,,,,,,,"$15,007.00 ",,,,,,,,
+,,,,,,,"$42,304.00 ",,,,,,,,
+,,,,,,,"$20,781.00 ",,,,,,,,
+,,,,,,,"$5,847.00 ",,,,,,,,
+,,,,,,,"$8,303.00 ",,,,,,,,
+,,,,,,,"$1,262.00 ",,,,,,,,
+,,,,,,,"$11,856.00 ",,,,,,,,
+,,,,,,,"$30,285.00 ",,,,,,,,
+,,,,,,,"$3,177.00 ",,,,,,,,
+,,,,,,,"$4,618.00 ",,,,,,,,
+,,,,,,,"$10,737.00 ",,,,,,,,
+,,,,,,,"$2,138.00 ",,,,,,,,
+,,,,,,,"$8,964.00 ",,,,,,,,
+,,,,,,,"$9,290.00 ",,,,,,,,
+,,,,,,,"$9,411.00 ",,,,,,,,
+,,,,,,,"$7,527.00 ",,,,,,,,
+,,,,,,,"$8,522.00 ",,,,,,,,
+,,,,,,,"$16,586.00 ",,,,,,,,
+,,,,,,,"$14,988.00 ",,,,,,,,
+,,,,,,,"$1,632.00 ",,,,,,,,
+,,,,,,,"$9,265.00 ",,,,,,,,
+,,,,,,,"$8,084.00 ",,,,,,,,
+,,,,,,,"$14,693.00 ",,,,,,,,
+,,,,,,,"$10,269.00 ",,,,,,,,
+,,,,,,,"$3,260.00 ",,,,,,,,
+,,,,,,,"$11,397.00 ",,,,,,,,
+,,,,,,,"$4,185.00 ",,,,,,,,
+,,,,,,,"$8,540.00 ",,,,,,,,
+,,,,,,,"$6,653.00 ",,,,,,,,
+,,,,,,,"$4,074.00 ",,,,,,,,
+,,,,,,,"$1,621.00 ",,,,,,,,
+,,,,,,,"$19,595.00 ",,,,,,,,
+,,,,,,,"$14,456.00 ",,,,,,,,
+,,,,,,,"$5,080.00 ",,,,,,,,
+,,,,,,,"$2,135.00 ",,,,,,,,
+,,,,,,,"$7,346.00 ",,,,,,,,
+,,,,,,,"$9,141.00 ",,,,,,,,
+,,,,,,,"$18,608.00 ",,,,,,,,
+,,,,,,,"$14,418.00 ",,,,,,,,
+,,,,,,,"$28,950.00 ",,,,,,,,
+,,,,,,,"$46,889.00 ",,,,,,,,
+,,,,,,,"$46,599.00 ",,,,,,,,
+,,,,,,,"$39,125.00 ",,,,,,,,
+,,,,,,,"$2,727.00 ",,,,,,,,
+,,,,,,,"$8,968.00 ",,,,,,,,
+,,,,,,,"$9,789.00 ",,,,,,,,
+,,,,,,,"$6,555.00 ",,,,,,,,
+,,,,,,,"$7,324.00 ",,,,,,,,
+,,,,,,,"$3,167.00 ",,,,,,,,
+,,,,,,,"$18,805.00 ",,,,,,,,
+,,,,,,,"$23,083.00 ",,,,,,,,
+,,,,,,,"$4,906.00 ",,,,,,,,
+,,,,,,,"$5,970.00 ",,,,,,,,
+,,,,,,,"$12,638.00 ",,,,,,,,
+,,,,,,,"$4,244.00 ",,,,,,,,
+,,,,,,,"$13,920.00 ",,,,,,,,
+,,,,,,,"$2,255.00 ",,,,,,,,
+,,,,,,,"$5,927.00 ",,,,,,,,
+,,,,,,,"$12,593.00 ",,,,,,,,
+,,,,,,,"$2,897.00 ",,,,,,,,
+,,,,,,,"$4,738.00 ",,,,,,,,
+,,,,,,,"$37,079.00 ",,,,,,,,
+,,,,,,,"$1,149.00 ",,,,,,,,
+,,,,,,,"$28,288.00 ",,,,,,,,
+,,,,,,,"$26,109.00 ",,,,,,,,
+,,,,,,,"$7,345.00 ",,,,,,,,
+,,,,,,,"$12,731.00 ",,,,,,,,
+,,,,,,,"$11,454.00 ",,,,,,,,
+,,,,,,,"$5,911.00 ",,,,,,,,
+,,,,,,,"$4,762.00 ",,,,,,,,
+,,,,,,,"$7,512.00 ",,,,,,,,
+,,,,,,,"$4,032.00 ",,,,,,,,
+,,,,,,,"$1,970.00 ",,,,,,,,
+,,,,,,,"$1,770.00 ",,,,,,,,
+,,,,,,,"$4,686.00 ",,,,,,,,
+,,,,,,,"$21,797.00 ",,,,,,,,
+,,,,,,,"$11,882.00 ",,,,,,,,
+,,,,,,,"$11,841.00 ",,,,,,,,
+,,,,,,,"$10,601.00 ",,,,,,,,
+,,,,,,,"$7,683.00 ",,,,,,,,
+,,,,,,,"$10,381.00 ",,,,,,,,
+,,,,,,,"$22,144.00 ",,,,,,,,
+,,,,,,,"$15,230.00 ",,,,,,,,
+,,,,,,,"$11,165.00 ",,,,,,,,
+,,,,,,,"$1,632.00 ",,,,,,,,
+,,,,,,,"$19,522.00 ",,,,,,,,
+,,,,,,,"$13,225.00 ",,,,,,,,
+,,,,,,,"$12,643.00 ",,,,,,,,
+,,,,,,,"$23,289.00 ",,,,,,,,
+,,,,,,,"$2,201.00 ",,,,,,,,
+,,,,,,,"$2,497.00 ",,,,,,,,
+,,,,,,,"$2,203.00 ",,,,,,,,
+,,,,,,,"$1,744.00 ",,,,,,,,
+,,,,,,,"$20,879.00 ",,,,,,,,
+,,,,,,,"$25,382.00 ",,,,,,,,
+,,,,,,,"$28,869.00 ",,,,,,,,
+,,,,,,,"$35,148.00 ",,,,,,,,
+,,,,,,,"$2,534.00 ",,,,,,,,
+,,,,,,,"$1,534.00 ",,,,,,,,
+,,,,,,,"$1,824.00 ",,,,,,,,
+,,,,,,,"$15,555.00 ",,,,,,,,
+,,,,,,,"$9,305.00 ",,,,,,,,
+,,,,,,,"$1,622.00 ",,,,,,,,
+,,,,,,,"$9,880.00 ",,,,,,,,
+,,,,,,,"$9,563.00 ",,,,,,,,
+,,,,,,,"$4,347.00 ",,,,,,,,
+,,,,,,,"$12,475.00 ",,,,,,,,
+,,,,,,,"$1,254.00 ",,,,,,,,
+,,,,,,,"$48,885.00 ",,,,,,,,
+,,,,,,,"$10,462.00 ",,,,,,,,
+,,,,,,,"$1,749.00 ",,,,,,,,
+,,,,,,,"$24,513.00 ",,,,,,,,
+,,,,,,,"$2,196.00 ",,,,,,,,
+,,,,,,,"$12,574.00 ",,,,,,,,
+,,,,,,,"$17,942.00 ",,,,,,,,
+,,,,,,,"$1,967.00 ",,,,,,,,
+,,,,,,,"$4,932.00 ",,,,,,,,
+,,,,,,,"$8,028.00 ",,,,,,,,
+,,,,,,,"$8,211.00 ",,,,,,,,
+,,,,,,,"$13,471.00 ",,,,,,,,
+,,,,,,,"$36,198.00 ",,,,,,,,
+,,,,,,,"$6,837.00 ",,,,,,,,
+,,,,,,,"$22,218.00 ",,,,,,,,
+,,,,,,,"$32,548.00 ",,,,,,,,
+,,,,,,,"$5,974.00 ",,,,,,,,
+,,,,,,,"$6,797.00 ",,,,,,,,
+,,,,,,,"$2,643.00 ",,,,,,,,
+,,,,,,,"$3,077.00 ",,,,,,,,
+,,,,,,,"$3,044.00 ",,,,,,,,
+,,,,,,,"$11,455.00 ",,,,,,,,
+,,,,,,,"$11,763.00 ",,,,,,,,
+,,,,,,,"$2,498.00 ",,,,,,,,
+,,,,,,,"$9,361.00 ",,,,,,,,
+,,,,,,,"$1,256.00 ",,,,,,,,
+,,,,,,,"$21,082.00 ",,,,,,,,
+,,,,,,,"$11,363.00 ",,,,,,,,
+,,,,,,,"$27,724.00 ",,,,,,,,
+,,,,,,,"$8,413.00 ",,,,,,,,
+,,,,,,,"$5,241.00 ",,,,,,,,
+,,,,,,,"$3,858.00 ",,,,,,,,
+,,,,,,,"$25,657.00 ",,,,,,,,
+,,,,,,,"$3,994.00 ",,,,,,,,
+,,,,,,,"$9,866.00 ",,,,,,,,
+,,,,,,,"$5,398.00 ",,,,,,,,
+,,,,,,,"$38,246.00 ",,,,,,,,
+,,,,,,,"$11,483.00 ",,,,,,,,
+,,,,,,,"$24,060.00 ",,,,,,,,
+,,,,,,,"$9,861.00 ",,,,,,,,
+,,,,,,,"$8,343.00 ",,,,,,,,
+,,,,,,,"$1,708.00 ",,,,,,,,
+,,,,,,,"$48,676.00 ",,,,,,,,
+,,,,,,,"$14,043.00 ",,,,,,,,
+,,,,,,,"$12,926.00 ",,,,,,,,
+,,,,,,,"$19,215.00 ",,,,,,,,
+,,,,,,,"$13,831.00 ",,,,,,,,
+,,,,,,,"$6,067.00 ",,,,,,,,
+,,,,,,,"$5,972.00 ",,,,,,,,
+,,,,,,,"$8,825.00 ",,,,,,,,
+,,,,,,,"$8,233.00 ",,,,,,,,
+,,,,,,,"$27,346.00 ",,,,,,,,
+,,,,,,,"$6,196.00 ",,,,,,,,
+,,,,,,,"$3,056.00 ",,,,,,,,
+,,,,,,,"$13,887.00 ",,,,,,,,
+,,,,,,,"$63,770.00 ",,,,,,,,
+,,,,,,,"$10,231.00 ",,,,,,,,
+,,,,,,,"$23,807.00 ",,,,,,,,
+,,,,,,,"$3,269.00 ",,,,,,,,
+,,,,,,,"$11,538.00 ",,,,,,,,
+,,,,,,,"$3,214.00 ",,,,,,,,
+,,,,,,,"$45,863.00 ",,,,,,,,
+,,,,,,,"$13,391.00 ",,,,,,,,
+,,,,,,,"$3,973.00 ",,,,,,,,
+,,,,,,,"$12,957.00 ",,,,,,,,
+,,,,,,,"$11,188.00 ",,,,,,,,
+,,,,,,,"$17,879.00 ",,,,,,,,
+,,,,,,,"$3,848.00 ",,,,,,,,
+,,,,,,,"$8,335.00 ",,,,,,,,
+,,,,,,,"$3,935.00 ",,,,,,,,
+,,,,,,,"$39,983.00 ",,,,,,,,
+,,,,,,,"$1,646.00 ",,,,,,,,
+,,,,,,,"$9,194.00 ",,,,,,,,
+,,,,,,,"$10,924.00 ",,,,,,,,
+,,,,,,,"$2,494.00 ",,,,,,,,
+,,,,,,,"$9,059.00 ",,,,,,,,
+,,,,,,,"$2,801.00 ",,,,,,,,
+,,,,,,,"$2,128.00 ",,,,,,,,
+,,,,,,,"$6,374.00 ",,,,,,,,
+,,,,,,,"$7,257.00 ",,,,,,,,
+,,,,,,,"$11,553.00 ",,,,,,,,
+,,,,,,,"$45,702.00 ",,,,,,,,
+,,,,,,,"$3,761.00 ",,,,,,,,
+,,,,,,,"$2,219.00 ",,,,,,,,
+,,,,,,,"$4,754.00 ",,,,,,,,
+,,,,,,,"$31,620.00 ",,,,,,,,
+,,,,,,,"$13,224.00 ",,,,,,,,
+,,,,,,,"$12,223.00 ",,,,,,,,
+,,,,,,,"$1,665.00 ",,,,,,,,
+,,,,,,,"$58,571.00 ",,,,,,,,
+,,,,,,,"$9,725.00 ",,,,,,,,
+,,,,,,,"$3,206.00 ",,,,,,,,
+,,,,,,,"$12,914.00 ",,,,,,,,
+,,,,,,,"$1,640.00 ",,,,,,,,
+,,,,,,,"$6,356.00 ",,,,,,,,
+,,,,,,,"$17,626.00 ",,,,,,,,
+,,,,,,,"$1,243.00 ",,,,,,,,
+,,,,,,,"$4,780.00 ",,,,,,,,
+,,,,,,,"$3,861.00 ",,,,,,,,
+,,,,,,,"$43,944.00 ",,,,,,,,
+,,,,,,,"$13,636.00 ",,,,,,,,
+,,,,,,,"$5,977.00 ",,,,,,,,
+,,,,,,,"$11,842.00 ",,,,,,,,
+,,,,,,,"$8,428.00 ",,,,,,,,
+,,,,,,,"$2,566.00 ",,,,,,,,
+,,,,,,,"$15,359.00 ",,,,,,,,
+,,,,,,,"$5,709.00 ",,,,,,,,
+,,,,,,,"$8,824.00 ",,,,,,,,
+,,,,,,,"$7,640.00 ",,,,,,,,
+,,,,,,,"$5,595.00 ",,,,,,,,
+,,,,,,,"$7,442.00 ",,,,,,,,
+,,,,,,,"$33,472.00 ",,,,,,,,
+,,,,,,,"$1,633.00 ",,,,,,,,
+,,,,,,,"$9,174.00 ",,,,,,,,
+,,,,,,,"$11,071.00 ",,,,,,,,
+,,,,,,,"$16,085.00 ",,,,,,,,
+,,,,,,,"$17,469.00 ",,,,,,,,
+,,,,,,,"$9,284.00 ",,,,,,,,
+,,,,,,,"$3,559.00 ",,,,,,,,
+,,,,,,,"$25,679.00 ",,,,,,,,
+,,,,,,,"$4,435.00 ",,,,,,,,
+,,,,,,,"$39,241.00 ",,,,,,,,
+,,,,,,,"$8,548.00 ",,,,,,,,
+,,,,,,,"$6,572.00 ",,,,,,,,
+,,,,,,,"$2,208.00 ",,,,,,,,
+,,,,,,,"$6,753.00 ",,,,,,,,
+,,,,,,,"$1,880.00 ",,,,,,,,
+,,,,,,,"$42,970.00 ",,,,,,,,
+,,,,,,,"$11,658.00 ",,,,,,,,
+,,,,,,,"$23,307.00 ",,,,,,,,
+,,,,,,,"$34,440.00 ",,,,,,,,
+,,,,,,,"$10,714.00 ",,,,,,,,
+,,,,,,,"$3,659.00 ",,,,,,,,
+,,,,,,,"$40,182.00 ",,,,,,,,
+,,,,,,,"$9,182.00 ",,,,,,,,
+,,,,,,,"$34,618.00 ",,,,,,,,
+,,,,,,,"$12,130.00 ",,,,,,,,
+,,,,,,,"$3,736.00 ",,,,,,,,
+,,,,,,,"$6,749.00 ",,,,,,,,
+,,,,,,,"$11,327.00 ",,,,,,,,
+,,,,,,,"$11,366.00 ",,,,,,,,
+,,,,,,,"$42,983.00 ",,,,,,,,
+,,,,,,,"$10,086.00 ",,,,,,,,
+,,,,,,,"$1,978.00 ",,,,,,,,
+,,,,,,,"$3,367.00 ",,,,,,,,
+,,,,,,,"$7,173.00 ",,,,,,,,
+,,,,,,,"$9,391.00 ",,,,,,,,
+,,,,,,,"$14,411.00 ",,,,,,,,
+,,,,,,,"$2,709.00 ",,,,,,,,
+,,,,,,,"$24,915.00 ",,,,,,,,
+,,,,,,,"$20,149.00 ",,,,,,,,
+,,,,,,,"$12,949.00 ",,,,,,,,
+,,,,,,,"$6,666.00 ",,,,,,,,
+,,,,,,,"$32,787.00 ",,,,,,,,
+,,,,,,,"$13,144.00 ",,,,,,,,
+,,,,,,,"$4,467.00 ",,,,,,,,
+,,,,,,,"$18,806.00 ",,,,,,,,
+,,,,,,,"$10,141.00 ",,,,,,,,
+,,,,,,,"$6,124.00 ",,,,,,,,
+,,,,,,,"$8,252.00 ",,,,,,,,
+,,,,,,,"$1,712.00 ",,,,,,,,
+,,,,,,,"$12,431.00 ",,,,,,,,
+,,,,,,,"$9,801.00 ",,,,,,,,
+,,,,,,,"$10,580.00 ",,,,,,,,
+,,,,,,,"$8,281.00 ",,,,,,,,
+,,,,,,,"$8,528.00 ",,,,,,,,
+,,,,,,,"$12,245.00 ",,,,,,,,
+,,,,,,,"$24,667.00 ",,,,,,,,
+,,,,,,,"$3,410.00 ",,,,,,,,
+,,,,,,,"$4,059.00 ",,,,,,,,
+,,,,,,,"$26,392.00 ",,,,,,,,
+,,,,,,,"$14,394.00 ",,,,,,,,
+,,,,,,,"$6,436.00 ",,,,,,,,
+,,,,,,,"$22,192.00 ",,,,,,,,
+,,,,,,,"$5,149.00 ",,,,,,,,
+,,,,,,,"$1,136.00 ",,,,,,,,
+,,,,,,,"$27,038.00 ",,,,,,,,
+,,,,,,,"$42,560.00 ",,,,,,,,
+,,,,,,,"$8,703.00 ",,,,,,,,
+,,,,,,,"$40,003.00 ",,,,,,,,
+,,,,,,,"$45,710.00 ",,,,,,,,
+,,,,,,,"$6,500.00 ",,,,,,,,
+,,,,,,,"$4,838.00 ",,,,,,,,
+,,,,,,,"$3,944.00 ",,,,,,,,
+,,,,,,,"$4,400.00 ",,,,,,,,
+,,,,,,,"$6,185.00 ",,,,,,,,
+,,,,,,,"$46,201.00 ",,,,,,,,
+,,,,,,,"$7,223.00 ",,,,,,,,
+,,,,,,,"$12,486.00 ",,,,,,,,
+,,,,,,,"$46,131.00 ",,,,,,,,
+,,,,,,,"$12,364.00 ",,,,,,,,
+,,,,,,,"$10,157.00 ",,,,,,,,
+,,,,,,,"$2,585.00 ",,,,,,,,
+,,,,,,,"$1,242.00 ",,,,,,,,
+,,,,,,,"$40,104.00 ",,,,,,,,
+,,,,,,,"$9,863.00 ",,,,,,,,
+,,,,,,,"$4,766.00 ",,,,,,,,
+,,,,,,,"$11,244.00 ",,,,,,,,
+,,,,,,,"$7,730.00 ",,,,,,,,
+,,,,,,,"$5,439.00 ",,,,,,,,
+,,,,,,,"$26,237.00 ",,,,,,,,
+,,,,,,,"$34,806.00 ",,,,,,,,
+,,,,,,,"$2,104.00 ",,,,,,,,
+,,,,,,,"$8,068.00 ",,,,,,,,
+,,,,,,,"$2,362.00 ",,,,,,,,
+,,,,,,,"$2,353.00 ",,,,,,,,
+,,,,,,,"$3,578.00 ",,,,,,,,
+,,,,,,,"$3,201.00 ",,,,,,,,
+,,,,,,,"$29,186.00 ",,,,,,,,
+,,,,,,,"$40,274.00 ",,,,,,,,
+,,,,,,,"$10,976.00 ",,,,,,,,
+,,,,,,,"$3,501.00 ",,,,,,,,
+,,,,,,,"$2,021.00 ",,,,,,,,
+,,,,,,,"$9,542.00 ",,,,,,,,
+,,,,,,,"$9,504.00 ",,,,,,,,
+,,,,,,,"$5,385.00 ",,,,,,,,
+,,,,,,,"$8,931.00 ",,,,,,,,
+,,,,,,,"$5,375.00 ",,,,,,,,
+,,,,,,,"$44,400.00 ",,,,,,,,
+,,,,,,,"$10,264.00 ",,,,,,,,
+,,,,,,,"$6,113.00 ",,,,,,,,
+,,,,,,,"$5,469.00 ",,,,,,,,
+,,,,,,,"$1,728.00 ",,,,,,,,
+,,,,,,,"$10,107.00 ",,,,,,,,
+,,,,,,,"$8,311.00 ",,,,,,,,
+,,,,,,,"$1,984.00 ",,,,,,,,
+,,,,,,,"$2,458.00 ",,,,,,,,
+,,,,,,,"$12,147.00 ",,,,,,,,
+,,,,,,,"$9,567.00 ",,,,,,,,
+,,,,,,,"$13,113.00 ",,,,,,,,
+,,,,,,,"$10,848.00 ",,,,,,,,
+,,,,,,,"$12,232.00 ",,,,,,,,
+,,,,,,,"$9,876.00 ",,,,,,,,
+,,,,,,,"$11,265.00 ",,,,,,,,
+,,,,,,,"$12,979.00 ",,,,,,,,
+,,,,,,,"$1,263.00 ",,,,,,,,
+,,,,,,,"$10,106.00 ",,,,,,,,
+,,,,,,,"$40,932.00 ",,,,,,,,
+,,,,,,,"$6,665.00 ",,,,,,,,
+,,,,,,,"$16,658.00 ",,,,,,,,
+,,,,,,,"$2,218.00 ",,,,,,,,
+,,,,,,,"$6,781.00 ",,,,,,,,
+,,,,,,,"$19,362.00 ",,,,,,,,
+,,,,,,,"$10,065.00 ",,,,,,,,
+,,,,,,,"$4,235.00 ",,,,,,,,
+,,,,,,,"$9,447.00 ",,,,,,,,
+,,,,,,,"$14,007.00 ",,,,,,,,
+,,,,,,,"$9,584.00 ",,,,,,,,
+,,,,,,,"$40,419.00 ",,,,,,,,
+,,,,,,,"$3,484.00 ",,,,,,,,
+,,,,,,,"$36,189.00 ",,,,,,,,
+,,,,,,,"$44,585.00 ",,,,,,,,
+,,,,,,,"$8,604.00 ",,,,,,,,
+,,,,,,,"$18,246.00 ",,,,,,,,
+,,,,,,,"$43,254.00 ",,,,,,,,
+,,,,,,,"$3,758.00 ",,,,,,,,
+,,,,,,,"$8,827.00 ",,,,,,,,
+,,,,,,,"$9,910.00 ",,,,,,,,
+,,,,,,,"$11,738.00 ",,,,,,,,
+,,,,,,,"$1,627.00 ",,,,,,,,
+,,,,,,,"$8,557.00 ",,,,,,,,
+,,,,,,,"$3,063.00 ",,,,,,,,
+,,,,,,,"$19,539.00 ",,,,,,,,
+,,,,,,,"$1,906.00 ",,,,,,,,
+,,,,,,,"$14,211.00 ",,,,,,,,
+,,,,,,,"$11,834.00 ",,,,,,,,
+,,,,,,,"$17,128.00 ",,,,,,,,
+,,,,,,,"$5,031.00 ",,,,,,,,
+,,,,,,,"$7,986.00 ",,,,,,,,
+,,,,,,,"$23,065.00 ",,,,,,,,
+,,,,,,,"$5,429.00 ",,,,,,,,
+,,,,,,,"$36,308.00 ",,,,,,,,
+,,,,,,,"$3,926.00 ",,,,,,,,
+,,,,,,,"$2,417.00 ",,,,,,,,
+,,,,,,,"$19,041.00 ",,,,,,,,
+,,,,,,,"$3,071.00 ",,,,,,,,
+,,,,,,,"$9,095.00 ",,,,,,,,
+,,,,,,,"$11,843.00 ",,,,,,,,
+,,,,,,,"$8,063.00 ",,,,,,,,
+,,,,,,,"$7,051.00 ",,,,,,,,
+,,,,,,,"$14,319.00 ",,,,,,,,
+,,,,,,,"$6,933.00 ",,,,,,,,
+,,,,,,,"$27,941.00 ",,,,,,,,
+,,,,,,,"$11,151.00 ",,,,,,,,
+,,,,,,,"$12,797.00 ",,,,,,,,
+,,,,,,,"$17,749.00 ",,,,,,,,
+,,,,,,,"$7,262.00 ",,,,,,,,
+,,,,,,,"$10,560.00 ",,,,,,,,
+,,,,,,,"$6,987.00 ",,,,,,,,
+,,,,,,,"$7,448.00 ",,,,,,,,
+,,,,,,,"$5,934.00 ",,,,,,,,
+,,,,,,,"$9,870.00 ",,,,,,,,
+,,,,,,,"$18,259.00 ",,,,,,,,
+,,,,,,,"$1,147.00 ",,,,,,,,
+,,,,,,,"$9,386.00 ",,,,,,,,
+,,,,,,,"$24,520.00 ",,,,,,,,
+,,,,,,,"$4,351.00 ",,,,,,,,
+,,,,,,,"$6,414.00 ",,,,,,,,
+,,,,,,,"$12,741.00 ",,,,,,,,
+,,,,,,,"$1,917.00 ",,,,,,,,
+,,,,,,,"$5,210.00 ",,,,,,,,
+,,,,,,,"$13,458.00 ",,,,,,,,
+,,,,,,,"$5,662.00 ",,,,,,,,
+,,,,,,,"$1,252.00 ",,,,,,,,
+,,,,,,,"$2,732.00 ",,,,,,,,
+,,,,,,,"$21,196.00 ",,,,,,,,
+,,,,,,,"$7,209.00 ",,,,,,,,
+,,,,,,,"$18,311.00 ",,,,,,,,
+,,,,,,,"$4,266.00 ",,,,,,,,
+,,,,,,,"$4,720.00 ",,,,,,,,
+,,,,,,,"$11,848.00 ",,,,,,,,
+,,,,,,,"$17,905.00 ",,,,,,,,
+,,,,,,,"$7,047.00 ",,,,,,,,
+,,,,,,,"$14,314.00 ",,,,,,,,
+,,,,,,,"$2,103.00 ",,,,,,,,
+,,,,,,,"$38,793.00 ",,,,,,,,
+,,,,,,,"$1,816.00 ",,,,,,,,
+,,,,,,,"$7,732.00 ",,,,,,,,
+,,,,,,,"$28,477.00 ",,,,,,,,
+,,,,,,,"$2,137.00 ",,,,,,,,
+,,,,,,,"$1,132.00 ",,,,,,,,
+,,,,,,,"$3,310.00 ",,,,,,,,
+,,,,,,,"$9,415.00 ",,,,,,,,
+,,,,,,,"$6,361.00 ",,,,,,,,
+,,,,,,,"$11,014.00 ",,,,,,,,
+,,,,,,,"$4,429.00 ",,,,,,,,
+,,,,,,,"$5,584.00 ",,,,,,,,
+,,,,,,,"$1,878.00 ",,,,,,,,
+,,,,,,,"$2,843.00 ",,,,,,,,
+,,,,,,,"$3,598.00 ",,,,,,,,
+,,,,,,,"$23,401.00 ",,,,,,,,
+,,,,,,,"$55,135.00 ",,,,,,,,
+,,,,,,,"$7,446.00 ",,,,,,,,
+,,,,,,,"$2,681.00 ",,,,,,,,
+,,,,,,,"$1,622.00 ",,,,,,,,
+,,,,,,,"$8,219.00 ",,,,,,,,
+,,,,,,,"$12,524.00 ",,,,,,,,
+,,,,,,,"$16,069.00 ",,,,,,,,
+,,,,,,,"$43,814.00 ",,,,,,,,
+,,,,,,,"$20,774.00 ",,,,,,,,
+,,,,,,,"$39,597.00 ",,,,,,,,
+,,,,,,,"$6,117.00 ",,,,,,,,
+,,,,,,,"$13,394.00 ",,,,,,,,
+,,,,,,,"$5,266.00 ",,,,,,,,
+,,,,,,,"$4,720.00 ",,,,,,,,
+,,,,,,,"$11,744.00 ",,,,,,,,
+,,,,,,,"$5,377.00 ",,,,,,,,
+,,,,,,,"$7,160.00 ",,,,,,,,
+,,,,,,,"$4,402.00 ",,,,,,,,
+,,,,,,,"$11,658.00 ",,,,,,,,
+,,,,,,,"$6,402.00 ",,,,,,,,
+,,,,,,,"$12,622.00 ",,,,,,,,
+,,,,,,,"$1,526.00 ",,,,,,,,
+,,,,,,,"$12,324.00 ",,,,,,,,
+,,,,,,,"$36,021.00 ",,,,,,,,
+,,,,,,,"$27,534.00 ",,,,,,,,
+,,,,,,,"$10,072.00 ",,,,,,,,
+,,,,,,,"$45,009.00 ",,,,,,,,
+,,,,,,,"$9,873.00 ",,,,,,,,
+,,,,,,,"$2,438.00 ",,,,,,,,
+,,,,,,,"$2,974.00 ",,,,,,,,
+,,,,,,,"$10,602.00 ",,,,,,,,
+,,,,,,,"$37,270.00 ",,,,,,,,
+,,,,,,,"$14,120.00 ",,,,,,,,
+,,,,,,,"$42,112.00 ",,,,,,,,
+,,,,,,,"$11,730.00 ",,,,,,,,
+,,,,,,,"$24,107.00 ",,,,,,,,
+,,,,,,,"$1,875.00 ",,,,,,,,
+,,,,,,,"$40,974.00 ",,,,,,,,
+,,,,,,,"$15,818.00 ",,,,,,,,
+,,,,,,,"$18,218.00 ",,,,,,,,
+,,,,,,,"$10,965.00 ",,,,,,,,
+,,,,,,,"$46,114.00 ",,,,,,,,
+,,,,,,,"$7,151.00 ",,,,,,,,
+,,,,,,,"$12,270.00 ",,,,,,,,
+,,,,,,,"$5,458.00 ",,,,,,,,
+,,,,,,,"$8,782.00 ",,,,,,,,
+,,,,,,,"$6,600.00 ",,,,,,,,
+,,,,,,,"$1,141.00 ",,,,,,,,
+,,,,,,,"$11,576.00 ",,,,,,,,
+,,,,,,,"$13,130.00 ",,,,,,,,
+,,,,,,,"$4,392.00 ",,,,,,,,
+,,,,,,,"$8,458.00 ",,,,,,,,
+,,,,,,,"$3,392.00 ",,,,,,,,
+,,,,,,,"$5,967.00 ",,,,,,,,
+,,,,,,,"$6,849.00 ",,,,,,,,
+,,,,,,,"$8,891.00 ",,,,,,,,
+,,,,,,,"$2,690.00 ",,,,,,,,
+,,,,,,,"$26,140.00 ",,,,,,,,
+,,,,,,,"$6,654.00 ",,,,,,,,
+,,,,,,,"$6,282.00 ",,,,,,,,
+,,,,,,,"$6,312.00 ",,,,,,,,
+,,,,,,,"$3,443.00 ",,,,,,,,
+,,,,,,,"$2,789.00 ",,,,,,,,
+,,,,,,,"$2,586.00 ",,,,,,,,
+,,,,,,,"$46,255.00 ",,,,,,,,
+,,,,,,,"$4,878.00 ",,,,,,,,
+,,,,,,,"$19,720.00 ",,,,,,,,
+,,,,,,,"$27,218.00 ",,,,,,,,
+,,,,,,,"$5,272.00 ",,,,,,,,
+,,,,,,,"$1,683.00 ",,,,,,,,
+,,,,,,,"$11,945.00 ",,,,,,,,
+,,,,,,,"$29,331.00 ",,,,,,,,
+,,,,,,,"$7,244.00 ",,,,,,,,
+,,,,,,,"$10,423.00 ",,,,,,,,
+,,,,,,,"$44,203.00 ",,,,,,,,
+,,,,,,,"$13,555.00 ",,,,,,,,
+,,,,,,,"$13,064.00 ",,,,,,,,
+,,,,,,,"$19,798.00 ",,,,,,,,
+,,,,,,,"$2,222.00 ",,,,,,,,
+,,,,,,,"$1,635.00 ",,,,,,,,
+,,,,,,,"$2,117.00 ",,,,,,,,
+,,,,,,,"$8,689.00 ",,,,,,,,
+,,,,,,,"$48,674.00 ",,,,,,,,
+,,,,,,,"$4,661.00 ",,,,,,,,
+,,,,,,,"$8,126.00 ",,,,,,,,
+,,,,,,,"$12,645.00 ",,,,,,,,
+,,,,,,,"$4,564.00 ",,,,,,,,
+,,,,,,,"$4,847.00 ",,,,,,,,
+,,,,,,,"$7,634.00 ",,,,,,,,
+,,,,,,,"$15,170.00 ",,,,,,,,
+,,,,,,,"$17,496.00 ",,,,,,,,
+,,,,,,,"$2,639.00 ",,,,,,,,
+,,,,,,,"$33,733.00 ",,,,,,,,
+,,,,,,,"$14,383.00 ",,,,,,,,
+,,,,,,,"$7,627.00 ",,,,,,,,
+,,,,,,,"$5,258.00 ",,,,,,,,
+,,,,,,,"$2,473.00 ",,,,,,,,
+,,,,,,,"$21,774.00 ",,,,,,,,
+,,,,,,,"$35,069.00 ",,,,,,,,
+,,,,,,,"$13,042.00 ",,,,,,,,
+,,,,,,,"$5,245.00 ",,,,,,,,
+,,,,,,,"$13,451.00 ",,,,,,,,
+,,,,,,,"$13,463.00 ",,,,,,,,
+,,,,,,,"$5,488.00 ",,,,,,,,
+,,,,,,,"$4,320.00 ",,,,,,,,
+,,,,,,,"$6,250.00 ",,,,,,,,
+,,,,,,,"$25,333.00 ",,,,,,,,
+,,,,,,,"$2,914.00 ",,,,,,,,
+,,,,,,,"$12,032.00 ",,,,,,,,
+,,,,,,,"$13,471.00 ",,,,,,,,
+,,,,,,,"$6,290.00 ",,,,,,,,
+,,,,,,,"$2,927.00 ",,,,,,,,
+,,,,,,,"$6,238.00 ",,,,,,,,
+,,,,,,,"$10,097.00 ",,,,,,,,
+,,,,,,,"$7,348.00 ",,,,,,,,
+,,,,,,,"$4,673.00 ",,,,,,,,
+,,,,,,,"$12,234.00 ",,,,,,,,
+,,,,,,,"$32,109.00 ",,,,,,,,
+,,,,,,,"$8,966.00 ",,,,,,,,
+,,,,,,,"$2,304.00 ",,,,,,,,
+,,,,,,,"$9,488.00 ",,,,,,,,
+,,,,,,,"$1,122.00 ",,,,,,,,
+,,,,,,,"$9,550.00 ",,,,,,,,
+,,,,,,,"$2,217.00 ",,,,,,,,
+,,,,,,,"$1,628.00 ",,,,,,,,
+,,,,,,,"$12,983.00 ",,,,,,,,
+,,,,,,,"$11,674.00 ",,,,,,,,
+,,,,,,,"$7,160.00 ",,,,,,,,
+,,,,,,,"$39,047.00 ",,,,,,,,
+,,,,,,,"$6,359.00 ",,,,,,,,
+,,,,,,,"$19,933.00 ",,,,,,,,
+,,,,,,,"$11,535.00 ",,,,,,,,
+,,,,,,,"$47,463.00 ",,,,,,,,
+,,,,,,,"$4,527.00 ",,,,,,,,
+,,,,,,,"$38,999.00 ",,,,,,,,
+,,,,,,,"$20,010.00 ",,,,,,,,
+,,,,,,,"$3,876.00 ",,,,,,,,
+,,,,,,,"$42,000.00 ",,,,,,,,
+,,,,,,,"$12,610.00 ",,,,,,,,
+,,,,,,,"$41,034.00 ",,,,,,,,
+,,,,,,,"$28,469.00 ",,,,,,,,
+,,,,,,,"$2,730.00 ",,,,,,,,
+,,,,,,,"$3,353.00 ",,,,,,,,
+,,,,,,,"$14,475.00 ",,,,,,,,
+,,,,,,,"$9,501.00 ",,,,,,,,
+,,,,,,,"$26,467.00 ",,,,,,,,
+,,,,,,,"$4,746.00 ",,,,,,,,
+,,,,,,,"$23,967.00 ",,,,,,,,
+,,,,,,,"$7,518.00 ",,,,,,,,
+,,,,,,,"$3,280.00 ",,,,,,,,
+,,,,,,,"$8,597.00 ",,,,,,,,
+,,,,,,,"$10,703.00 ",,,,,,,,
+,,,,,,,"$4,992.00 ",,,,,,,,
+,,,,,,,"$2,528.00 ",,,,,,,,
+,,,,,,,"$1,759.00 ",,,,,,,,
+,,,,,,,"$2,323.00 ",,,,,,,,
+,,,,,,,"$16,139.00 ",,,,,,,,
+,,,,,,,"$7,804.00 ",,,,,,,,
+,,,,,,,"$2,903.00 ",,,,,,,,
+,,,,,,,"$9,705.00 ",,,,,,,,
+,,,,,,,"$4,889.00 ",,,,,,,,
+,,,,,,,"$25,517.00 ",,,,,,,,
+,,,,,,,"$4,500.00 ",,,,,,,,
+,,,,,,,"$19,200.00 ",,,,,,,,
+,,,,,,,"$16,796.00 ",,,,,,,,
+,,,,,,,"$4,915.00 ",,,,,,,,
+,,,,,,,"$7,625.00 ",,,,,,,,
+,,,,,,,"$8,410.00 ",,,,,,,,
+,,,,,,,"$28,340.00 ",,,,,,,,
+,,,,,,,"$4,519.00 ",,,,,,,,
+,,,,,,,"$14,572.00 ",,,,,,,,
+,,,,,,,"$3,379.00 ",,,,,,,,
+,,,,,,,"$7,145.00 ",,,,,,,,
+,,,,,,,"$10,118.00 ",,,,,,,,
+,,,,,,,"$5,484.00 ",,,,,,,,
+,,,,,,,"$16,420.00 ",,,,,,,,
+,,,,,,,"$7,986.00 ",,,,,,,,
+,,,,,,,"$7,419.00 ",,,,,,,,
+,,,,,,,"$13,888.00 ",,,,,,,,
+,,,,,,,"$6,552.00 ",,,,,,,,
+,,,,,,,"$5,268.00 ",,,,,,,,
+,,,,,,,"$17,362.00 ",,,,,,,,
+,,,,,,,"$34,473.00 ",,,,,,,,
+,,,,,,,"$1,973.00 ",,,,,,,,
+,,,,,,,"$21,232.00 ",,,,,,,,
+,,,,,,,"$8,628.00 ",,,,,,,,
+,,,,,,,"$4,433.00 ",,,,,,,,
+,,,,,,,"$4,438.00 ",,,,,,,,
+,,,,,,,"$24,915.00 ",,,,,,,,
+,,,,,,,"$23,241.00 ",,,,,,,,
+,,,,,,,"$9,958.00 ",,,,,,,,
+,,,,,,,"$8,269.00 ",,,,,,,,
+,,,,,,,"$18,768.00 ",,,,,,,,
+,,,,,,,"$36,580.00 ",,,,,,,,
+,,,,,,,"$8,765.00 ",,,,,,,,
+,,,,,,,"$5,384.00 ",,,,,,,,
+,,,,,,,"$12,125.00 ",,,,,,,,
+,,,,,,,"$2,709.00 ",,,,,,,,
+,,,,,,,"$3,988.00 ",,,,,,,,
+,,,,,,,"$12,495.00 ",,,,,,,,
+,,,,,,,"$26,019.00 ",,,,,,,,
+,,,,,,,"$8,799.00 ",,,,,,,,
+,,,,,,,"$35,596.00 ",,,,,,,,
+,,,,,,,"$42,211.00 ",,,,,,,,
+,,,,,,,"$1,711.00 ",,,,,,,,
+,,,,,,,"$8,570.00 ",,,,,,,,
+,,,,,,,"$2,020.00 ",,,,,,,,
+,,,,,,,"$16,451.00 ",,,,,,,,
+,,,,,,,"$21,595.00 ",,,,,,,,
+,,,,,,,"$9,850.00 ",,,,,,,,
+,,,,,,,"$6,878.00 ",,,,,,,,
+,,,,,,,"$21,677.00 ",,,,,,,,
+,,,,,,,"$44,424.00 ",,,,,,,,
+,,,,,,,"$4,138.00 ",,,,,,,,
+,,,,,,,"$13,748.00 ",,,,,,,,
+,,,,,,,"$12,950.00 ",,,,,,,,
+,,,,,,,"$12,094.00 ",,,,,,,,
+,,,,,,,"$37,484.00 ",,,,,,,,
+,,,,,,,"$39,726.00 ",,,,,,,,
+,,,,,,,"$2,251.00 ",,,,,,,,
+,,,,,,,"$22,494.00 ",,,,,,,,
+,,,,,,,"$20,235.00 ",,,,,,,,
+,,,,,,,"$1,705.00 ",,,,,,,,
+,,,,,,,"$33,476.00 ",,,,,,,,
+,,,,,,,"$3,161.00 ",,,,,,,,
+,,,,,,,"$11,394.00 ",,,,,,,,
+,,,,,,,"$21,881.00 ",,,,,,,,
+,,,,,,,"$7,325.00 ",,,,,,,,
+,,,,,,,"$44,501.00 ",,,,,,,,
+,,,,,,,"$3,594.00 ",,,,,,,,
+,,,,,,,"$39,728.00 ",,,,,,,,
+,,,,,,,"$8,023.00 ",,,,,,,,
+,,,,,,,"$14,395.00 ",,,,,,,,
+,,,,,,,"$9,288.00 ",,,,,,,,
+,,,,,,,"$25,309.00 ",,,,,,,,
+,,,,,,,"$3,353.00 ",,,,,,,,
+,,,,,,,"$10,595.00 ",,,,,,,,
+,,,,,,,"$8,278.00 ",,,,,,,,
+,,,,,,,"$17,929.00 ",,,,,,,,
+,,,,,,,"$2,481.00 ",,,,,,,,
+,,,,,,,"$4,463.00 ",,,,,,,,
+,,,,,,,"$1,982.00 ",,,,,,,,
+,,,,,,,"$11,554.00 ",,,,,,,,
+,,,,,,,"$48,970.00 ",,,,,,,,
+,,,,,,,"$6,548.00 ",,,,,,,,
+,,,,,,,"$5,709.00 ",,,,,,,,
+,,,,,,,"$7,045.00 ",,,,,,,,
+,,,,,,,"$8,978.00 ",,,,,,,,
+,,,,,,,"$5,757.00 ",,,,,,,,
+,,,,,,,"$14,350.00 ",,,,,,,,
+,,,,,,,"$10,929.00 ",,,,,,,,
+,,,,,,,"$39,872.00 ",,,,,,,,
+,,,,,,,"$13,974.00 ",,,,,,,,
+,,,,,,,"$1,910.00 ",,,,,,,,
+,,,,,,,"$12,097.00 ",,,,,,,,
+,,,,,,,"$13,204.00 ",,,,,,,,
+,,,,,,,"$4,563.00 ",,,,,,,,
+,,,,,,,"$8,551.00 ",,,,,,,,
+,,,,,,,"$2,102.00 ",,,,,,,,
+,,,,,,,"$34,672.00 ",,,,,,,,
+,,,,,,,"$15,162.00 ",,,,,,,,
+,,,,,,,"$11,884.00 ",,,,,,,,
+,,,,,,,"$4,454.00 ",,,,,,,,
+,,,,,,,"$5,856.00 ",,,,,,,,
+,,,,,,,"$4,076.00 ",,,,,,,,
+,,,,,,,"$15,020.00 ",,,,,,,,
+,,,,,,,"$19,023.00 ",,,,,,,,
+,,,,,,,"$10,796.00 ",,,,,,,,
+,,,,,,,"$11,353.00 ",,,,,,,,
+,,,,,,,"$9,749.00 ",,,,,,,,
+,,,,,,,"$10,577.00 ",,,,,,,,
+,,,,,,,"$41,676.00 ",,,,,,,,
+,,,,,,,"$11,287.00 ",,,,,,,,
+,,,,,,,"$3,591.00 ",,,,,,,,
+,,,,,,,"$33,908.00 ",,,,,,,,
+,,,,,,,"$11,299.00 ",,,,,,,,
+,,,,,,,"$4,561.00 ",,,,,,,,
+,,,,,,,"$44,641.00 ",,,,,,,,
+,,,,,,,"$1,675.00 ",,,,,,,,
+,,,,,,,"$23,046.00 ",,,,,,,,
+,,,,,,,"$3,227.00 ",,,,,,,,
+,,,,,,,"$16,776.00 ",,,,,,,,
+,,,,,,,"$11,253.00 ",,,,,,,,
+,,,,,,,"$3,471.00 ",,,,,,,,
+,,,,,,,"$11,363.00 ",,,,,,,,
+,,,,,,,"$20,421.00 ",,,,,,,,
+,,,,,,,"$10,339.00 ",,,,,,,,
+,,,,,,,"$8,988.00 ",,,,,,,,
+,,,,,,,"$10,494.00 ",,,,,,,,
+,,,,,,,"$2,904.00 ",,,,,,,,
+,,,,,,,"$8,605.00 ",,,,,,,,
+,,,,,,,"$11,512.00 ",,,,,,,,
+,,,,,,,"$41,949.00 ",,,,,,,,
+,,,,,,,"$24,181.00 ",,,,,,,,
+,,,,,,,"$5,312.00 ",,,,,,,,
+,,,,,,,"$2,396.00 ",,,,,,,,
+,,,,,,,"$10,807.00 ",,,,,,,,
+,,,,,,,"$9,222.00 ",,,,,,,,
+,,,,,,,"$36,125.00 ",,,,,,,,
+,,,,,,,"$38,283.00 ",,,,,,,,
+,,,,,,,"$5,693.00 ",,,,,,,,
+,,,,,,,"$34,166.00 ",,,,,,,,
+,,,,,,,"$8,347.00 ",,,,,,,,
+,,,,,,,"$46,661.00 ",,,,,,,,
+,,,,,,,"$18,903.00 ",,,,,,,,
+,,,,,,,"$40,904.00 ",,,,,,,,
+,,,,,,,"$14,255.00 ",,,,,,,,
+,,,,,,,"$10,215.00 ",,,,,,,,
+,,,,,,,"$5,837.00 ",,,,,,,,
+,,,,,,,"$14,358.00 ",,,,,,,,
+,,,,,,,"$1,729.00 ",,,,,,,,
+,,,,,,,"$8,582.00 ",,,,,,,,
+,,,,,,,"$3,693.00 ",,,,,,,,
+,,,,,,,"$20,709.00 ",,,,,,,,
+,,,,,,,"$9,991.00 ",,,,,,,,
+,,,,,,,"$19,673.00 ",,,,,,,,
+,,,,,,,"$11,086.00 ",,,,,,,,
+,,,,,,,"$7,624.00 ",,,,,,,,
+,,,,,,,"$3,176.00 ",,,,,,,,
+,,,,,,,"$3,704.00 ",,,,,,,,
+,,,,,,,"$36,899.00 ",,,,,,,,
+,,,,,,,"$9,048.00 ",,,,,,,,
+,,,,,,,"$7,955.00 ",,,,,,,,
+,,,,,,,"$27,118.00 ",,,,,,,,
+,,,,,,,"$6,338.00 ",,,,,,,,
+,,,,,,,"$9,630.00 ",,,,,,,,
+,,,,,,,"$11,289.00 ",,,,,,,,
+,,,,,,,"$52,591.00 ",,,,,,,,
+,,,,,,,"$2,262.00 ",,,,,,,,
+,,,,,,,"$10,792.00 ",,,,,,,,
+,,,,,,,"$5,980.00 ",,,,,,,,
+,,,,,,,"$2,204.00 ",,,,,,,,
+,,,,,,,"$12,236.00 ",,,,,,,,
+,,,,,,,"$40,941.00 ",,,,,,,,
+,,,,,,,"$5,630.00 ",,,,,,,,
+,,,,,,,"$11,015.00 ",,,,,,,,
+,,,,,,,"$7,228.00 ",,,,,,,,
+,,,,,,,"$39,723.00 ",,,,,,,,
+,,,,,,,"$14,426.00 ",,,,,,,,
+,,,,,,,"$2,460.00 ",,,,,,,,
+,,,,,,,"$3,990.00 ",,,,,,,,
+,,,,,,,"$7,727.00 ",,,,,,,,
+,,,,,,,"$5,124.00 ",,,,,,,,
+,,,,,,,"$18,963.00 ",,,,,,,,
+,,,,,,,"$2,201.00 ",,,,,,,,
+,,,,,,,"$7,154.00 ",,,,,,,,
+,,,,,,,"$5,228.00 ",,,,,,,,
+,,,,,,,"$10,983.00 ",,,,,,,,
+,,,,,,,"$4,529.00 ",,,,,,,,
+,,,,,,,"$4,671.00 ",,,,,,,,
+,,,,,,,"$6,112.00 ",,,,,,,,
+,,,,,,,"$17,179.00 ",,,,,,,,
+,,,,,,,"$22,479.00 ",,,,,,,,
+,,,,,,,"$11,094.00 ",,,,,,,,
+,,,,,,,"$6,458.00 ",,,,,,,,
+,,,,,,,"$4,434.00 ",,,,,,,,
+,,,,,,,"$2,154.00 ",,,,,,,,
+,,,,,,,"$23,888.00 ",,,,,,,,
+,,,,,,,"$6,497.00 ",,,,,,,,
+,,,,,,,"$2,899.00 ",,,,,,,,
+,,,,,,,"$19,350.00 ",,,,,,,,
+,,,,,,,"$7,651.00 ",,,,,,,,
+,,,,,,,"$2,851.00 ",,,,,,,,
+,,,,,,,"$2,633.00 ",,,,,,,,
+,,,,,,,"$9,447.00 ",,,,,,,,
+,,,,,,,"$18,328.00 ",,,,,,,,
+,,,,,,,"$8,604.00 ",,,,,,,,
+,,,,,,,"$37,465.00 ",,,,,,,,
+,,,,,,,"$13,845.00 ",,,,,,,,
+,,,,,,,"$21,771.00 ",,,,,,,,
+,,,,,,,"$13,127.00 ",,,,,,,,
+,,,,,,,"$5,327.00 ",,,,,,,,
+,,,,,,,"$13,725.00 ",,,,,,,,
+,,,,,,,"$13,019.00 ",,,,,,,,
+,,,,,,,"$8,671.00 ",,,,,,,,
+,,,,,,,"$4,134.00 ",,,,,,,,
+,,,,,,,"$18,839.00 ",,,,,,,,
+,,,,,,,"$33,308.00 ",,,,,,,,
+,,,,,,,"$5,700.00 ",,,,,,,,
+,,,,,,,"$6,394.00 ",,,,,,,,
+,,,,,,,"$4,935.00 ",,,,,,,,
+,,,,,,,"$6,199.00 ",,,,,,,,
+,,,,,,,"$8,733.00 ",,,,,,,,
+,,,,,,,"$2,055.00 ",,,,,,,,
+,,,,,,,"$9,964.00 ",,,,,,,,
+,,,,,,,"$18,223.00 ",,,,,,,,
+,,,,,,,"$5,117.00 ",,,,,,,,
+,,,,,,,"$36,911.00 ",,,,,,,,
+,,,,,,,"$38,415.00 ",,,,,,,,
+,,,,,,,"$20,297.00 ",,,,,,,,
+,,,,,,,"$12,347.00 ",,,,,,,,
+,,,,,,,"$5,373.00 ",,,,,,,,
+,,,,,,,"$23,563.00 ",,,,,,,,
+,,,,,,,"$1,702.00 ",,,,,,,,
+,,,,,,,"$10,807.00 ",,,,,,,,
+,,,,,,,"$3,956.00 ",,,,,,,,
+,,,,,,,"$12,890.00 ",,,,,,,,
+,,,,,,,"$5,416.00 ",,,,,,,,
+,,,,,,,"$4,058.00 ",,,,,,,,
+,,,,,,,"$41,662.00 ",,,,,,,,
+,,,,,,,"$7,537.00 ",,,,,,,,
+,,,,,,,"$4,718.00 ",,,,,,,,
+,,,,,,,"$6,594.00 ",,,,,,,,
+,,,,,,,"$8,443.00 ",,,,,,,,
+,,,,,,,"$26,126.00 ",,,,,,,,
+,,,,,,,"$6,858.00 ",,,,,,,,
+,,,,,,,"$4,796.00 ",,,,,,,,
+,,,,,,,"$6,641.00 ",,,,,,,,
+,,,,,,,"$7,162.00 ",,,,,,,,
+,,,,,,,"$10,594.00 ",,,,,,,,
+,,,,,,,"$11,938.00 ",,,,,,,,
+,,,,,,,"$60,021.00 ",,,,,,,,
+,,,,,,,"$20,167.00 ",,,,,,,,
+,,,,,,,"$12,480.00 ",,,,,,,,
+,,,,,,,"$11,346.00 ",,,,,,,,
+,,,,,,,"$8,516.00 ",,,,,,,,
+,,,,,,,"$2,700.00 ",,,,,,,,
+,,,,,,,"$14,450.00 ",,,,,,,,
+,,,,,,,"$12,224.00 ",,,,,,,,
+,,,,,,,"$6,986.00 ",,,,,,,,
+,,,,,,,"$3,238.00 ",,,,,,,,
+,,,,,,,"$47,270.00 ",,,,,,,,
+,,,,,,,"$49,578.00 ",,,,,,,,
+,,,,,,,"$4,296.00 ",,,,,,,,
+,,,,,,,"$3,172.00 ",,,,,,,,
+,,,,,,,"$1,136.00 ",,,,,,,,
+,,,,,,,"$5,615.00 ",,,,,,,,
+,,,,,,,"$9,102.00 ",,,,,,,,
+,,,,,,,"$6,059.00 ",,,,,,,,
+,,,,,,,"$1,634.00 ",,,,,,,,
+,,,,,,,"$37,608.00 ",,,,,,,,
+,,,,,,,"$18,648.00 ",,,,,,,,
+,,,,,,,"$1,242.00 ",,,,,,,,
+,,,,,,,"$16,233.00 ",,,,,,,,
+,,,,,,,"$15,829.00 ",,,,,,,,
+,,,,,,,"$4,415.00 ",,,,,,,,
+,,,,,,,"$6,474.00 ",,,,,,,,
+,,,,,,,"$11,437.00 ",,,,,,,,
+,,,,,,,"$11,306.00 ",,,,,,,,
+,,,,,,,"$30,064.00 ",,,,,,,,
+,,,,,,,"$10,198.00 ",,,,,,,,
+,,,,,,,"$4,544.00 ",,,,,,,,
+,,,,,,,"$3,277.00 ",,,,,,,,
+,,,,,,,"$6,770.00 ",,,,,,,,
+,,,,,,,"$7,338.00 ",,,,,,,,
+,,,,,,,"$10,371.00 ",,,,,,,,
+,,,,,,,"$26,927.00 ",,,,,,,,
+,,,,,,,"$10,704.00 ",,,,,,,,
+,,,,,,,"$34,254.00 ",,,,,,,,
+,,,,,,,"$1,880.00 ",,,,,,,,
+,,,,,,,"$8,615.00 ",,,,,,,,
+,,,,,,,"$3,293.00 ",,,,,,,,
+,,,,,,,"$3,022.00 ",,,,,,,,
+,,,,,,,"$14,478.00 ",,,,,,,,
+,,,,,,,"$4,747.00 ",,,,,,,,
+,,,,,,,"$17,043.00 ",,,,,,,,
+,,,,,,,"$10,959.00 ",,,,,,,,
+,,,,,,,"$2,742.00 ",,,,,,,,
+,,,,,,,"$4,357.00 ",,,,,,,,
+,,,,,,,"$22,462.00 ",,,,,,,,
+,,,,,,,"$4,189.00 ",,,,,,,,
+,,,,,,,"$8,284.00 ",,,,,,,,
+,,,,,,,"$24,536.00 ",,,,,,,,
+,,,,,,,"$14,283.00 ",,,,,,,,
+,,,,,,,"$1,720.00 ",,,,,,,,
+,,,,,,,"$47,404.00 ",,,,,,,,
+,,,,,,,"$8,535.00 ",,,,,,,,
+,,,,,,,"$3,733.00 ",,,,,,,,
+,,,,,,,"$5,472.00 ",,,,,,,,
+,,,,,,,"$38,345.00 ",,,,,,,,
+,,,,,,,"$7,147.00 ",,,,,,,,
+,,,,,,,"$7,134.00 ",,,,,,,,
+,,,,,,,"$34,829.00 ",,,,,,,,
+,,,,,,,"$1,515.00 ",,,,,,,,
+,,,,,,,"$9,302.00 ",,,,,,,,
+,,,,,,,"$11,931.00 ",,,,,,,,
+,,,,,,,"$1,965.00 ",,,,,,,,
+,,,,,,,"$1,709.00 ",,,,,,,,
+,,,,,,,"$4,340.00 ",,,,,,,,
+,,,,,,,"$5,261.00 ",,,,,,,,
+,,,,,,,"$2,711.00 ",,,,,,,,
+,,,,,,,"$62,593.00 ",,,,,,,,
+,,,,,,,"$46,718.00 ",,,,,,,,
+,,,,,,,"$3,209.00 ",,,,,,,,
+,,,,,,,"$37,830.00 ",,,,,,,,
+,,,,,,,"$21,259.00 ",,,,,,,,
+,,,,,,,"$2,465.00 ",,,,,,,,
+,,,,,,,"$16,115.00 ",,,,,,,,
+,,,,,,,"$21,472.00 ",,,,,,,,
+,,,,,,,"$33,901.00 ",,,,,,,,
+,,,,,,,"$6,876.00 ",,,,,,,,
+,,,,,,,"$6,941.00 ",,,,,,,,
+,,,,,,,"$4,571.00 ",,,,,,,,
+,,,,,,,"$4,536.00 ",,,,,,,,
+,,,,,,,"$36,398.00 ",,,,,,,,
+,,,,,,,"$18,766.00 ",,,,,,,,
+,,,,,,,"$11,272.00 ",,,,,,,,
+,,,,,,,"$1,732.00 ",,,,,,,,
+,,,,,,,"$1,163.00 ",,,,,,,,
+,,,,,,,"$19,497.00 ",,,,,,,,
+,,,,,,,"$7,202.00 ",,,,,,,,
+,,,,,,,"$5,425.00 ",,,,,,,,
+,,,,,,,"$28,101.00 ",,,,,,,,
+,,,,,,,"$12,981.00 ",,,,,,,,
+,,,,,,,"$43,896.00 ",,,,,,,,
+,,,,,,,"$4,240.00 ",,,,,,,,
+,,,,,,,"$13,143.00 ",,,,,,,,
+,,,,,,,"$7,050.00 ",,,,,,,,
+,,,,,,,"$9,378.00 ",,,,,,,,
+,,,,,,,"$22,396.00 ",,,,,,,,
+,,,,,,,"$10,325.00 ",,,,,,,,
+,,,,,,,"$12,629.00 ",,,,,,,,
+,,,,,,,"$10,796.00 ",,,,,,,,
+,,,,,,,"$11,412.00 ",,,,,,,,
+,,,,,,,"$10,601.00 ",,,,,,,,
+,,,,,,,"$2,206.00 ",,,,,,,,
+,,,,,,,"$1,630.00 ",,,,,,,,
+,,,,,,,"$2,008.00 ",,,,,,,,
+,,,,,,,"$29,141.00 ",,,,,,,,
