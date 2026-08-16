@@ -1,0 +1,501 @@
+Interaction_ID,Customer_ID,Interaction_Date,Support_Channel,Issue_Type,Issue_Category,Resolution_Status,Resolution_Time_Hours,Customer_Satisfaction_After_Interaction,Escalated,Complaint_Flag
+INT-519923,NXT-105029,2024-08-08,Phone,"Billing Issue",Billing,Resolved,7.00,75.00,No,No
+INT-519971,NXT-105041,2025-04-26,"Live Chat","Account Issue",Account,Unresolved,3.50,21.00,No,No
+INT-548362,NXT-112273,2024-12-29,"Live Chat","Technical Problem",Technical,Unresolved,5.30,40.00,No,No
+INT-530426,NXT-107662,2024-07-30,"Social Media","Service Activation",Account,Resolved,2.60,82.00,No,No
+INT-516879,NXT-104277,2024-08-06,Email,"Account Issue",Account,Resolved,1.50,66.00,No,No
+INT-533117,NXT-108362,2024-08-30,"Live Chat","Cancellation Request",Retention,Resolved,6.50,59.00,Yes,No
+INT-532809,NXT-108281,2025-07-31,Email,"Billing Issue",Billing,Resolved,22.60,61.00,No,Yes
+INT-516607,NXT-104204,2025-03-02,Phone,"Cancellation Request",Retention,Resolved,5.60,67.00,No,No
+INT-553092,NXT-113500,2024-04-26,Email,"Data Problem",Technical,Unresolved,24.10,50.00,No,No
+INT-504583,NXT-101165,2024-02-15,Phone,"Network Problem",Network,resolved,5.50,93.00,No,Yes
+INT-505506,NXT-101386,2024-09-01,"Live Chat","Device Problem",Technical,Resolved,2.90,32.00,No,No
+INT-514162,NXT-103590,2024-08-24,Store,"Network Problem",Network,Resolved,2.00,23.00,No,No
+INT-547354,NXT-111999,2025-02-26,Phone,"Data Problem",Technical,Resolved,3.90,34.00,No,Yes
+INT-541645,NXT-110550,2025-05-07,App,"Technical Problem",Technical,Escalated,26.30,45.00,Yes,No
+INT-545048,NXT-111415,2025-06-02,App,"Account Issue",Account,Resolved,9.50,50.00,No,No
+INT-508886,NXT-102226,2024-10-17,Phone,"Technical Problem",Technical,Unresolved,64.90,37.00,No,No
+INT-531514,NXT-107925,2024-12-25,"Social Media","Data Problem",Technical,Pending,8.80,28.00,No,No
+INT-510360,NXT-102600,2025-08-04,Phone,"Device Problem",Technical,Resolved,3.60,96.00,No,Yes
+INT-531172,NXT-107849,2025-10-21,Phone,"Cancellation Request",Retention,Escalated,37.20,30.00,Yes,Yes
+INT-503607,NXT-100917,2025-05-27,Phone,"Cancellation Request",Retention,Resolved,1.20,88.00,No,Yes
+INT-501276,NXT-100326,2025-01-14,App,"Data Problem",Technical,Unresolved,1.50,45.00,No,No
+INT-531944,NXT-108041,2025-07-25,"Live Chat","Device Problem",Technical,Resolved,0.70,73.00,No,No
+INT-533668,NXT-108492,2024-04-09,Phone,"Billing Issue",Billing,Resolved,1.10,76.00,No,No
+INT-512670,NXT-103190,2025-06-27,Phone,"Network Problem",Network,Resolved,2.20,66.00,No,Yes
+INT-502334,NXT-100610,2024-02-20,Store,"Cancellation Request",Retention,Resolved,2.50,45.00,No,No
+INT-513815,NXT-103499,2025-11-25,Phone,"Cancellation Request",Retention,Resolved,1.50,51.00,No,No
+INT-505951,NXT-101496,2025-09-15,Email,"Service Activation",Account,Unresolved,10.90,12.00,No,NO
+INT-544272,NXT-111215,2024-04-02,Phone,"Account Issue",Account,Resolved,3.50,100.00,No,No
+INT-501656,NXT-100420,2024-12-23,App,"Technical Problem",Technical,Resolved,4.30,75.00,No,Yes
+INT-550813,NXT-112916,2025-07-21,Store,"Network Problem",Network,Resolved,0.80,26.00,No,Yes
+INT-530851,NXT-107768,2025-06-28,"Social Media","Network Problem",Network,Resolved,9.40,86.00,No,Yes
+INT-508701,NXT-102173,2024-12-31,Phone,"Billing Issue",Billing,Resolved,5.70,75.00,No,Yes
+INT-550315,NXT-112788,2024-10-13,Phone,"Billing Issue",Billing,Resolved,11.90,87.00,No,Yes
+INT-502313,NXT-100603,2025-09-28,Phone,"Technical Problem",Technical,Resolved,6.10,48.00,No,Yes
+INT-554214,NXT-113805,2025-05-12,"Live Chat","Device Problem",Technical,Resolved,5.60,75.00,No,No
+INT-521092,NXT-105321,2024-12-24,"Live Chat","Cancellation Request",Retention,Escalated,35.20,90.00,Yes,No
+INT-539790,NXT-110068,2024-05-21,Email,"Network Problem",Network,Resolved,2.10,64.00,No,Yes
+INT-547219,NXT-111971,2024-08-30,App,"Technical Problem",Technical,Escalated,11.70,60.00,Yes,No
+INT-509991,NXT-102503,2025-08-05,Phone,"Billing Issue",Billing,Resolved,4.20,98.00,No,Yes
+INT-555817,NXT-114210,2025-07-30,Phone,"Cancellation Request",Retention,Resolved,2.10,61.00,No,No
+INT-546915,NXT-111896,2024-11-28,App,"Billing Issue",Billing,Resolved,0.60,38.00,No,Yes
+INT-539609,NXT-110018,2025-06-19,"Live Chat","Account Issue",Account,Resolved,9.60,77.00,No,No
+INT-556706,NXT-114431,2024-05-03,"Live Chat","Service Activation",Account,Resolved,8.00,59.00,No,No
+INT-541410,NXT-110497,2025-07-05,Phone,"Data Problem",Technical,Resolved,7.80,59.00,Yes,No
+INT-534135,NXT-108617,2023-11-11,"Social Media","Network Problem",Network,Resolved,0.20,58.00,No,Yes
+INT-539092,NXT-109888,2024-12-07,"Live Chat","Billing Issue",Billing,Unresolved,27.60,27.00,No,No
+INT-535218,NXT-108890,2024-08-19,Store,"Data Problem",Technical,RESOLVED,NULL,75.00,No,No
+INT-549375,NXT-112541,2024-12-27,Store,"Network Problem",Network,Escalated,19.40,60.00,Yes,Yes
+INT-501690,NXT-100426,2024-05-17,"Live Chat","Network Problem",Network,Resolved,0.20,53.00,No,Yes
+INT-509653,NXT-102413,2024-07-19,App,"Service Activation",Account,Pending,0.60,1.00,No,No
+INT-520286,NXT-105119,2024-11-19,"Social Media","Network Problem",Network,Pending,8.30,37.00,Yes,Yes
+INT-555064,NXT-114026,2025-10-21,Phone,Other,Other,Resolved,1.60,81.00,NULL,No
+INT-513078,NXT-103311,2024-02-06,"Live Chat","Service Activation",Account,Resolved,1.90,48.00,No,No
+INT-535112,NXT-108865,2024-05-15,"Live Chat","Account Issue",Account,Escalated,7.30,37.00,Yes,No
+INT-536542,NXT-109223,2024-10-27,Phone,Other,Other,Resolved,4.80,41.00,No,YES
+INT-537012,NXT-109333,2025-07-15,Email,"Data Problem",Technical,Escalated,19.10,65.00,Yes,No
+INT-500731,NXT-100186,2025-11-20,Phone,"Network Problem",Network,Escalated,58.70,14.00,Yes,Yes
+INT-515225,NXT-103854,2024-07-13,"Live Chat","Technical Problem",Technical,Resolved,0.20,64.00,No,No
+INT-510272,NXT-102580,2024-06-19,Phone,"Billing Issue",Billing,Escalated,6.90,27.00,Yes,No
+INT-552501,NXT-113353,2024-11-04,Store,"Network Problem",Network,Resolved,0.50,63.00,No,Yes
+INT-519992,NXT-105046,2024-12-05,Email,"Data Problem",Technical,Escalated,47.30,17.00,Yes,No
+INT-526730,NXT-106751,2024-11-29,Phone,"Cancellation Request",Retention,Resolved,0.20,96.00,No,No
+INT-526450,NXT-106684,2023-11-25,Phone,"Data Problem",Technical,UNRESOLVED,30.50,54.00,NULL,Yes
+INT-538511,NXT-109737,2025-06-22,"Live Chat","Billing Issue",Billing,Resolved,14.00,68.00,No,Yes
+INT-558252,NXT-114820,2024-09-15,Email,"Billing Issue",Billing,Unresolved,0.70,36.00,No,Yes
+INT-538108,NXT-109624,2025-05-07,App,Other,Other,Pending,5.30,58.00,No,No
+INT-517946,NXT-104548,2024-05-06,App,"Technical Problem",Technical,Unresolved,0.80,79.00,No,No
+INT-558822,NXT-114969,2025-09-25,"Live Chat","Account Issue",Account,Resolved,11.60,58.00,No,Yes
+INT-519191,NXT-104860,2025-10-08,Store,"Billing Issue",Billing,Resolved,4.50,NULL,No,No
+INT-548317,NXT-112260,2025-12-04,Store,"Technical Problem",Technical,Pending,4.90,NULL,No,No
+INT-537789,NXT-109539,2025-09-01,App,"Device Problem",Technical,Resolved,0.90,57.00,No,No
+INT-541257,NXT-110456,2024-03-09,Email,Other,Other,Resolved,3.00,100.00,No,No
+INT-545758,NXT-111591,2024-08-05,Email,"Technical Problem",Technical,Resolved,0.80,66.00,No,No
+INT-502031,NXT-100521,2025-05-25,"Live Chat",Other,Other,Resolved,12.50,36.00,Yes,Yes
+INT-547585,NXT-112061,2025-09-02,Phone,"Technical Problem",Technical,Resolved,11.20,83.00,No,No
+INT-548824,NXT-112392,2024-08-09,"Live Chat","Data Problem",Technical,Resolved,2.10,43.00,No,No
+INT-551035,NXT-112979,2025-02-11,"Social Media","Billing Issue",Billing,Escalated,12.40,1.00,Yes,No
+INT-507731,NXT-101937,2025-09-13,"Live Chat","Technical Problem",Technical,Resolved,4.50,NULL,No,No
+INT-525126,NXT-106359,2024-09-24,App,"DATA PROBLEM",Technical,Resolved,NULL,95.00,No,YES
+INT-511025,NXT-102771,2025-01-16,Phone,"Technical Problem",Technical,Resolved,1.60,21.00,No,No
+INT-541098,NXT-110414,2025-09-13,Store,"Service Activation",Account,Resolved,5.10,100.00,No,No
+INT-503160,NXT-100810,2025-10-05,Email,"Technical Problem",Technical,Resolved,5.10,39.00,No,No
+INT-515460,NXT-103914,2025-01-19,"Live Chat","Billing Issue",Billing,Resolved,9.60,72.00,No,No
+INT-540785,NXT-110326,2024-08-12,Phone,"Cancellation Request",Retention,Unresolved,1.10,38.00,No,No
+INT-544302,NXT-111226,2024-08-18,App,"Device Problem",Technical,Resolved,0.20,46.00,No,No
+INT-548331,NXT-112265,2025-07-24,"Live Chat","Device Problem",Technical,Pending,2.40,57.00,NULL,Yes
+INT-536405,NXT-109188,2024-11-30,Phone,"Data Problem",Technical,Escalated,18.30,32.00,Yes,No
+INT-530492,NXT-107679,2025-09-16,"Live Chat","Device Problem",Technical,Unresolved,17.90,58.00,No,No
+INT-529469,NXT-107414,2025-11-30,"Live Chat","Device Problem",Technical,Resolved,2.40,62.00,No,No
+INT-548427,NXT-112292,2025-06-30,"Social Media","TECHNICAL PROBLEM",Technical,Resolved,9.70,58.00,No,No
+INT-520279,NXT-105118,2024-09-26,Email,"Billing Issue",Billing,Resolved,1.80,NULL,No,No
+INT-507551,NXT-101894,2024-06-26,App,"Device Problem",Technical,Resolved,2.50,63.00,No,No
+INT-534391,NXT-108686,2025-09-10,"Social Media","Billing Issue",Billing,Pending,10.30,26.00,No,Yes
+INT-555483,NXT-114129,2025-03-27,"Live Chat","Technical Problem",Technical,Pending,34.00,48.00,No,No
+INT-519274,NXT-104876,2025-04-01,"Social Media","Network Problem",Network,Escalated,1.80,1.00,Yes,No
+INT-530011,NXT-107555,2024-04-22,Phone,"Network Problem",Network,Resolved,12.80,48.00,No,Yes
+INT-557053,NXT-114514,2025-12-13,Phone,"Service Activation",Account,Resolved,22.90,91.00,No,Yes
+INT-500007,NXT-100003,2024-06-27,Phone,"Technical Problem",Technical,Resolved,7.90,32.00,No,Yes
+INT-552815,NXT-113428,2025-07-31,App,"Network Problem",Network,Resolved,0.50,68.00,No,Yes
+INT-534503,NXT-108714,2025-05-23,Store,"Account Issue",Account,Resolved,5.00,77.00,No,Yes
+INT-555027,NXT-114014,2023-04-03,App,"Cancellation Request",Retention,Pending,27.90,28.00,No,No
+INT-546515,NXT-111782,2025-02-06,Phone,"Network Problem",Network,Resolved,12.00,50.00,No,No
+INT-523341,NXT-105888,2024-10-20,Store,"Account Issue",Account,Escalated,21.60,31.00,Yes,No
+INT-513091,NXT-103314,2024-10-12,Phone,"Network Problem",Network,Unresolved,33.30,45.00,No,Yes
+INT-550726,NXT-112886,2025-07-02,Phone,"Data Problem",Technical,Resolved,1.50,43.00,No,No
+INT-535048,NXT-108845,2025-02-26,"Live Chat","Technical Problem",Technical,Resolved,9.80,39.00,No,No
+INT-519424,NXT-104911,2025-02-18,App,"Network Problem",Network,Resolved,1.20,52.00,No,no
+INT-508389,NXT-102091,2025-06-11,App,"Network Problem",Network,Resolved,0.30,37.00,No,Yes
+INT-514131,NXT-103581,2025-01-05,App,"Technical Problem",Technical,Unresolved,NULL,17.00,No,No
+INT-556148,NXT-114295,2024-03-01,Email,"Technical Problem",Technical,Resolved,0.20,59.00,No,Yes
+INT-548381,NXT-112279,2025-04-24,"Live Chat","Account Issue",Account,Resolved,2.30,57.00,No,No
+INT-500315,NXT-100075,2025-04-23,Phone,"Network Problem",Network,Escalated,94.70,44.00,Yes,Yes
+INT-502387,NXT-100620,2025-06-22,"Live Chat","Network Problem",Network,Resolved,0.60,79.00,No,Yes
+INT-544847,NXT-111364,2025-04-15,App,"Network Problem",Network,Resolved,2.20,92.00,No,Yes
+INT-519597,NXT-104947,2023-05-19,Phone,"Cancellation Request",Retention,Resolved,30.10,44.00,No,No
+INT-509680,NXT-102419,2025-07-09,Phone,"Service Activation",Account,Resolved,10.10,75.00,No,No
+INT-547346,NXT-111997,2025-05-18,App,"Network Problem",Network,Resolved,2.60,62.00,No,Yes
+INT-505246,NXT-101326,2025-05-04,Phone,"Data Problem",Technical,Resolved,3.30,61.00,No,No
+INT-509531,NXT-102385,2024-07-20,App,"Billing Issue",Billing,Escalated,4.30,36.00,Yes,No
+INT-505384,NXT-101357,2025-05-01,App,"Network Problem",Network,Pending,15.10,18.00,No,No
+INT-543403,NXT-111000,2025-04-18,Email,"Technical Problem",Technical,Escalated,1.40,NULL,NULL,No
+INT-532140,NXT-108101,2024-10-04,Store,"Billing Issue",Billing,Resolved,NULL,74.00,No,Yes
+INT-539846,NXT-110083,2024-06-02,App,"Technical Problem",Technical,Resolved,5.00,68.00,No,No
+INT-515978,NXT-104036,2025-08-25,App,"Device Problem",Technical,Unresolved,14.50,41.00,No,No
+INT-525842,NXT-106536,2025-11-26,"Live Chat","Technical Problem",Technical,Resolved,1.60,89.00,No,No
+INT-555974,NXT-114250,2025-08-22,Phone,"Billing Issue",Billing,Resolved,0.80,80.00,No,Yes
+INT-531112,NXT-107834,2025-05-07,Phone,"Account Issue",Account,Unresolved,33.70,40.00,No,No
+INT-506165,NXT-101557,2025-01-01,"Social Media","Network Problem",Network,Pending,83.40,21.00,No,Yes
+INT-530920,NXT-107786,2025-03-22,App,"Billing Issue",Billing,Unresolved,12.30,34.00,No,No
+INT-531460,NXT-107915,2025-11-23,Phone,"Network Problem",Network,Resolved,6.50,46.00,No,Yes
+INT-524273,NXT-106116,2023-07-30,Phone,"Billing Issue",Billing,Resolved,2.90,64.00,No,No
+INT-556308,NXT-114334,2025-01-09,Phone,"Data Problem",Technical,Escalated,33.20,13.00,Yes,No
+INT-518480,NXT-104676,2025-10-10,App,Other,Other,Resolved,1.00,48.00,No,No
+INT-506750,NXT-101689,2025-06-27,Phone,"Billing Issue",Billing,Resolved,1.00,59.00,No,No
+INT-520496,NXT-105168,2025-10-17,Store,"Technical Problem",Technical,Resolved,6.10,NULL,No,No
+INT-506298,NXT-101586,2025-11-01,"Live Chat","Cancellation Request",Retention,Resolved,5.70,44.00,No,No
+INT-502035,NXT-100523,2024-07-10,"Live Chat","Technical Problem",Technical,Escalated,44.20,36.00,Yes,No
+INT-540932,NXT-110365,2024-11-01,App,"Account Issue",Account,Pending,3.00,1.00,No,No
+INT-557108,NXT-114528,2025-08-29,Phone,"Network Problem",Network,Escalated,37.00,63.00,Yes,No
+INT-542081,NXT-110662,2023-08-24,"Live Chat","Cancellation Request",Retention,Resolved,2.60,63.00,No,No
+INT-537555,NXT-109478,2024-06-13,Phone,"Network Problem",Network,Resolved,8.80,56.00,No,Yes
+INT-506846,NXT-101710,2024-05-28,"Live Chat","Data Problem",Technical,Resolved,2.80,74.00,No,No
+INT-535923,NXT-109053,2024-03-13,"Social Media",Other,Other,Resolved,5.10,48.00,No,No
+INT-550419,NXT-112812,2025-09-10,App,"Billing Issue",Billing,Resolved,9.20,61.00,Yes,Yes
+INT-530737,NXT-107742,2024-04-09,App,"Network Problem",Network,Escalated,48.90,41.00,Yes,No
+INT-534219,NXT-108637,2024-09-24,Phone,"Account Issue",Account,Resolved,2.10,NULL,No,No
+INT-528489,NXT-107181,2024-12-29,"Social Media","Account Issue",Account,Resolved,0.80,86.00,No,Yes
+INT-553404,NXT-113590,2023-12-06,App,"Technical Problem",Technical,Resolved,2.70,52.00,No,No
+INT-537667,NXT-109510,2025-07-04,Phone,"Network Problem",Network,Resolved,2.80,58.00,No,No
+INT-532014,NXT-108062,2025-10-15,Email,"Account Issue",Account,Resolved,4.70,87.00,No,NO
+INT-519322,NXT-104886,2025-09-27,"Social Media","Cancellation Request",Retention,Pending,35.30,42.00,No,NO
+INT-550968,NXT-112960,2025-08-12,"Live Chat","Service Activation",Account,Escalated,28.30,42.00,Yes,No
+INT-545284,NXT-111478,2024-10-08,"Live Chat","Account Issue",Account,Resolved,4.40,NULL,No,Yes
+INT-501642,NXT-100416,2025-03-27,Phone,"Technical Problem",Technical,Resolved,4.10,98.00,No,No
+INT-503106,NXT-100796,2024-01-21,"Live Chat","Technical Problem",Technical,Resolved,13.90,52.00,No,No
+INT-503330,NXT-100855,2024-05-17,"Social Media","Billing Issue",Billing,Resolved,20.80,77.00,No,Yes
+INT-523830,NXT-106007,2024-07-06,"Social Media",Other,Other,Pending,7.40,14.00,No,No
+INT-522060,NXT-105573,2024-08-11,"Live Chat",Other,Other,Resolved,2.10,97.00,No,No
+INT-541026,NXT-110388,2025-03-25,"Live Chat","Account Issue",Account,Resolved,5.30,90.00,No,No
+INT-526003,NXT-106577,2024-12-22,Phone,"Service Activation",Account,Resolved,15.60,81.00,No,Yes
+INT-540697,NXT-110301,2024-04-16,"Live Chat","Cancellation Request",Retention,Resolved,0.20,97.00,No,Yes
+INT-536380,NXT-109183,2024-09-25,App,"Device Problem",Technical,Pending,20.80,24.00,No,No
+INT-534645,NXT-108746,2025-05-08,"Live Chat","Technical Problem",Technical,Resolved,5.60,55.00,No,No
+INT-519375,NXT-104899,2025-12-24,Phone,"Network Problem",Network,Resolved,3.00,NULL,No,No
+INT-541983,NXT-110633,2025-03-10,Phone,"Device Problem",Technical,unresolved,14.80,38.00,No,No
+INT-512549,NXT-103152,2025-11-05,Store,"Technical Problem",Technical,Resolved,1.50,35.00,No,No
+INT-507415,NXT-101856,2025-04-03,"Live Chat","Network Problem",Network,Pending,1.50,37.00,No,No
+INT-519821,NXT-105005,2024-09-08,App,"Network Problem",Network,Resolved,3.40,63.00,No,Yes
+INT-504104,NXT-101042,2023-05-03,Phone,"Network Problem",Network,Resolved,2.20,42.00,No,Yes
+INT-555509,NXT-114134,2025-06-10,"Live Chat","Account Issue",Account,Resolved,5.70,NULL,No,No
+INT-513950,NXT-103537,2025-05-15,Phone,"Data Problem",Technical,Resolved,7.00,79.00,No,No
+INT-544767,NXT-111341,2024-03-02,"Live Chat","Service Activation",Account,Resolved,1.20,76.00,No,Yes
+INT-553513,NXT-113621,2025-03-04,App,"Device Problem",Technical,Resolved,29.90,80.00,No,No
+INT-535762,NXT-109023,2025-01-13,App,"Network Problem",Network,Escalated,11.20,18.00,Yes,No
+INT-528124,NXT-107093,2025-10-26,Phone,"Data Problem",Technical,Pending,21.90,51.00,No,No
+INT-527011,NXT-106815,2025-01-23,Email,"Network Problem",Network,Escalated,0.90,38.00,Yes,Yes
+INT-505554,NXT-101398,2025-08-08,App,"Account Issue",Account,Resolved,11.20,79.00,No,No
+INT-507732,NXT-101937,2024-04-13,App,"Billing Issue",Billing,Escalated,21.40,35.00,Yes,Yes
+INT-556734,NXT-114438,2023-10-30,"Live Chat","Account Issue",Account,Unresolved,16.20,43.00,No,No
+INT-544652,NXT-111313,2025-12-18,"Live Chat","Billing Issue",Billing,Resolved,1.20,82.00,No,Yes
+INT-541884,NXT-110605,2024-02-22,"Live Chat","Service Activation",Account,Resolved,2.20,74.00,No,No
+INT-547337,NXT-111996,2025-11-13,Phone,"Technical Problem",Technical,Unresolved,0.90,65.00,No,No
+INT-516504,NXT-104178,2025-07-07,Phone,"Device Problem",Technical,Escalated,27.70,25.00,Yes,No
+INT-547798,NXT-112115,2023-06-17,App,"Device Problem",Technical,Escalated,26.40,41.00,Yes,No
+INT-519343,NXT-104892,2024-08-18,App,"Billing Issue",Billing,Resolved,0.90,60.00,No,No
+INT-541064,NXT-110401,2024-08-12,Phone,"Network Problem",Network,Resolved,7.00,52.00,No,Yes
+INT-525133,NXT-106360,2024-12-28,"Social Media","Network Problem",Network,Resolved,0.30,72.00,No,No
+INT-545166,NXT-111446,2023-11-29,"Live Chat","Technical Problem",Technical,Pending,17.40,23.00,No,Yes
+INT-504828,NXT-101229,2024-12-02,App,"Account Issue",Account,Pending,4.00,40.00,No,No
+INT-503546,NXT-100901,2024-09-21,"Live Chat","service activation",Account,Resolved,1.10,52.00,No,No
+INT-541955,NXT-110624,2025-06-28,"Live Chat","Billing Issue",Billing,Resolved,13.80,31.00,No,Yes
+INT-554707,NXT-113933,2025-11-09,App,"Account Issue",Account,Unresolved,34.10,19.00,No,No
+INT-547023,NXT-111921,2023-04-05,Phone,"Data Problem",Technical,Resolved,4.10,77.00,No,No
+INT-535264,NXT-108901,2025-01-31,"Live Chat","Cancellation Request",Retention,Resolved,5.00,NULL,No,Yes
+INT-539781,NXT-110064,2025-04-07,"Live Chat",Other,Other,Pending,17.80,13.00,No,No
+INT-551815,NXT-113179,2023-09-18,Phone,"Service Activation",Account,Pending,33.40,38.00,No,Yes
+INT-547744,NXT-112100,2025-02-03,Store,"Network Problem",Network,Resolved,9.40,41.00,No,Yes
+INT-535749,NXT-109021,2024-06-16,Phone,"Cancellation Request",Retention,Resolved,4.00,39.00,No,Yes
+INT-514604,NXT-103707,2025-12-13,Phone,"Cancellation Request",Retention,Unresolved,14.30,61.00,No,Yes
+INT-516312,NXT-104125,2025-10-15,"Live Chat","Data Problem",Technical,Resolved,0.90,89.00,No,No
+INT-515702,NXT-103971,2025-02-25,App,"technical problem",Technical,Pending,NULL,34.00,No,No
+INT-553814,NXT-113697,2025-11-26,App,"Network Problem",Network,Resolved,24.60,44.00,No,No
+INT-527642,NXT-106965,2024-12-08,"Social Media","Service Activation",Account,Resolved,0.20,100.00,No,No
+INT-542713,NXT-110818,2024-01-04,Store,"Data Problem",Technical,Resolved,NULL,5.00,No,No
+INT-513411,NXT-103394,2025-06-22,Phone,"Technical Problem",Technical,Escalated,17.20,53.00,Yes,No
+INT-551945,NXT-113203,2025-10-14,"Live Chat","Service Activation",Account,Pending,43.80,29.00,No,No
+INT-510872,NXT-102733,2023-12-01,"Live Chat","Cancellation Request",Retention,Pending,3.20,20.00,NULL,No
+INT-528029,NXT-107070,2025-07-07,Store,"Account Issue",Account,Resolved,4.20,66.00,No,No
+INT-541259,NXT-110457,2025-03-21,"Live Chat","SERVICE ACTIVATION",Account,Resolved,2.00,61.00,No,No
+INT-512708,NXT-103200,2024-12-17,Phone,"Account Issue",Account,Resolved,0.60,35.00,No,No
+INT-556672,NXT-114424,2024-04-17,App,"Account Issue",Account,Escalated,14.40,17.00,Yes,No
+INT-537003,NXT-109331,2025-08-04,Email,"Technical Problem",Technical,Resolved,0.50,32.00,No,No
+INT-512049,NXT-103017,2025-03-28,Phone,"Billing Issue",Billing,Resolved,6.90,75.00,No,No
+INT-553652,NXT-113662,2025-03-02,App,"Billing Issue",Billing,Escalated,13.40,24.00,Yes,Yes
+INT-538970,NXT-109856,2024-08-18,Phone,"Data Problem",Technical,Resolved,1.90,20.00,No,No
+INT-507170,NXT-101786,2023-11-13,App,"Billing Issue",Billing,Resolved,2.40,100.00,No,Yes
+INT-508120,NXT-102031,2024-11-10,App,"Network Problem",Network,Escalated,19.30,40.00,Yes,No
+INT-543899,NXT-111119,2025-09-10,"Live Chat","Account Issue",Account,Escalated,1.80,33.00,Yes,No
+INT-552634,NXT-113392,2025-11-07,Email,"Data Problem",Technical,Pending,7.70,21.00,No,No
+INT-525153,NXT-106368,2024-09-30,App,"Service Activation",Account,Unresolved,59.40,19.00,Yes,Yes
+INT-529883,NXT-107526,2025-05-30,"Live Chat","Data Problem",Technical,Pending,25.30,12.00,No,No
+INT-523590,NXT-105954,2024-07-08,"Live Chat","Cancellation Request",Retention,Resolved,0.20,48.00,No,No
+INT-546042,NXT-111665,2025-06-28,App,"Account Issue",Account,Escalated,15.70,38.00,Yes,No
+INT-501233,NXT-100308,2025-05-20,Phone,"Account Issue",Account,Resolved,2.70,62.00,No,No
+INT-519030,NXT-104818,2025-05-29,App,"Technical Problem",Technical,Resolved,9.50,42.00,No,No
+INT-544249,NXT-111208,2023-09-08,"Live Chat","Network Problem",Network,Escalated,79.90,22.00,Yes,Yes
+INT-536194,NXT-109134,2025-06-20,"Live Chat","Technical Problem",Technical,Resolved,17.00,100.00,No,No
+INT-547874,NXT-112137,2024-10-25,"Live Chat","Cancellation Request",Retention,Resolved,23.70,33.00,No,Yes
+INT-515682,NXT-103967,2024-07-05,App,"Service Activation",Account,Resolved,15.30,54.00,No,No
+INT-541510,NXT-110522,2024-08-01,"Live Chat","Billing Issue",Billing,Resolved,NULL,43.00,No,No
+INT-528412,NXT-107164,2023-12-06,"Social Media","ACCOUNT ISSUE",Account,Resolved,2.80,95.00,No,No
+INT-520109,NXT-105078,2025-05-25,App,"Network Problem",Network,Pending,NULL,9.00,No,No
+INT-512038,NXT-103017,2025-04-20,App,"Device Problem",Technical,Unresolved,12.10,7.00,No,No
+INT-523102,NXT-105836,2024-04-30,"Social Media","Technical Problem",Technical,Pending,1.40,21.00,No,No
+INT-542853,NXT-110854,2024-08-24,"Live Chat","Service Activation",Account,Resolved,0.20,59.00,NULL,No
+INT-536484,NXT-109205,2025-10-31,"Live Chat","Billing Issue",Billing,Resolved,0.20,54.00,No,Yes
+INT-503448,NXT-100879,2025-10-18,"Social Media","Device Problem",Technical,Resolved,0.20,67.00,No,No
+INT-500212,NXT-100047,2024-03-07,App,"Cancellation Request",Retention,Escalated,1.10,47.00,Yes,No
+INT-522095,NXT-105585,2025-10-11,App,"Network Problem",Network,Escalated,0.90,33.00,Yes,No
+INT-516487,NXT-104173,2025-08-21,"Social Media","Data Problem",Technical,Resolved,1.80,70.00,No,No
+INT-525592,NXT-106480,2025-09-25,Phone,"Cancellation Request",Retention,Resolved,0.70,98.00,No,No
+INT-553004,NXT-113478,2024-10-19,"Live Chat","Billing Issue",Billing,Escalated,10.10,21.00,Yes,Yes
+INT-524623,NXT-106217,2025-08-12,"Social Media","Technical Problem",Technical,Resolved,1.60,91.00,Yes,No
+INT-539850,NXT-110084,2025-02-18,Phone,"Data Problem",Technical,Unresolved,13.70,25.00,No,no
+INT-558527,NXT-114890,2025-05-19,Phone,"Device Problem",Technical,PENDING,NULL,17.00,No,No
+INT-526612,NXT-106722,2025-07-03,"Live Chat","Service Activation",Account,Resolved,15.10,83.00,NULL,No
+INT-552393,NXT-113323,2025-07-09,Phone,"Service Activation",Account,Resolved,29.70,47.00,Yes,No
+INT-549729,NXT-112629,2023-10-14,Store,"Billing Issue",Billing,Resolved,1.00,35.00,No,Yes
+INT-530616,NXT-107708,2025-02-09,App,"Network Problem",Network,Escalated,3.20,1.00,Yes,Yes
+INT-526086,NXT-106600,2025-12-20,"Live Chat","Device Problem",Technical,Unresolved,13.30,18.00,No,No
+INT-525557,NXT-106473,2024-01-07,Phone,"DATA PROBLEM",Technical,Resolved,1.40,NULL,No,No
+INT-552983,NXT-113473,2024-07-16,"Live Chat","Technical Problem",Technical,Resolved,4.00,73.00,No,Yes
+INT-547498,NXT-112037,2025-05-08,"Live Chat","Technical Problem",Technical,Resolved,0.50,100.00,No,No
+INT-506947,NXT-101735,2025-10-14,Phone,"Technical Problem",Technical,Escalated,5.70,44.00,NULL,No
+INT-523909,NXT-106026,2024-03-11,App,"Data Problem",Technical,Resolved,6.00,34.00,No,No
+INT-510966,NXT-102760,2023-10-20,Phone,"Cancellation Request",Retention,Escalated,8.90,22.00,NULL,No
+INT-550457,NXT-112822,2024-03-12,App,"Service Activation",Account,Resolved,2.20,95.00,No,No
+INT-556465,NXT-114371,2024-03-30,Store,"Network Problem",Network,Resolved,4.90,72.00,No,Yes
+INT-503467,NXT-100882,2023-08-08,"Social Media","Service Activation",Account,Unresolved,37.90,40.00,No,NO
+INT-544314,NXT-111228,2025-02-04,App,"Account Issue",Account,Resolved,0.80,54.00,No,No
+INT-540300,NXT-110197,2025-08-15,App,"Network Problem",Network,Unresolved,1.80,34.00,No,Yes
+INT-545249,NXT-111471,2024-10-13,Email,"Technical Problem",Technical,Resolved,3.50,35.00,No,No
+INT-556540,NXT-114390,2025-09-20,Phone,"Technical Problem",Technical,Resolved,6.00,75.00,No,No
+INT-544983,NXT-111397,2024-02-23,Phone,"Cancellation Request",Retention,Resolved,12.40,66.00,No,No
+INT-505055,NXT-101278,2025-08-04,App,"Billing Issue",Billing,Pending,0.20,14.00,NULL,No
+INT-517339,NXT-104398,2025-10-12,"Live Chat","Cancellation Request",Retention,unresolved,0.20,40.00,No,Yes
+INT-556392,NXT-114354,2024-02-09,App,"Billing Issue",Billing,Resolved,0.50,65.00,No,No
+INT-547143,NXT-111952,2024-08-09,Phone,"Data Problem",Technical,Resolved,3.30,43.00,No,Yes
+INT-503451,NXT-100879,2025-10-29,Email,"Data Problem",Technical,Resolved,2.50,71.00,No,YES
+INT-534801,NXT-108783,2025-08-30,Phone,"Network Problem",Network,Escalated,9.20,30.00,Yes,Yes
+INT-530079,NXT-107574,2024-11-27,Email,"Network Problem",Network,Resolved,17.30,63.00,No,No
+INT-519702,NXT-104976,2024-01-09,App,"Cancellation Request",Retention,Escalated,0.80,34.00,Yes,No
+INT-550566,NXT-112846,2025-03-21,"Live Chat","Billing Issue",Billing,Pending,24.10,66.00,No,No
+INT-534530,NXT-108723,2024-12-22,Phone,"Network Problem",Network,Resolved,11.50,53.00,No,Yes
+INT-515822,NXT-103997,2025-09-21,"Live Chat","Technical Problem",Technical,Resolved,2.30,70.00,No,no
+INT-516618,NXT-104207,2025-12-03,"Live Chat","Device Problem",Technical,Resolved,2.80,58.00,No,No
+INT-543159,NXT-110932,2025-11-30,Phone,"Cancellation Request",Retention,Resolved,0.50,99.00,No,No
+INT-507354,NXT-101839,2025-10-17,"Live Chat","Network Problem",Network,Resolved,8.90,NULL,No,No
+INT-558373,NXT-114850,2024-08-13,Phone,"Network Problem",Network,Resolved,0.20,99.00,No,No
+INT-504164,NXT-101061,2025-11-14,"Live Chat","Billing Issue",Billing,Resolved,4.40,72.00,No,Yes
+INT-506759,NXT-101690,2024-11-30,App,"Data Problem",Technical,Resolved,10.20,82.00,No,No
+INT-505853,NXT-101475,2025-03-10,Phone,"Network Problem",Network,Resolved,28.70,69.00,No,Yes
+INT-524664,NXT-106229,2023-12-22,"Live Chat","Billing Issue",Billing,Resolved,19.60,49.00,No,No
+INT-544905,NXT-111381,2023-09-19,"Live Chat","Technical Problem",Technical,Resolved,10.90,74.00,No,Yes
+INT-523538,NXT-105940,2024-08-16,Phone,"Account Issue",Account,Pending,10.60,38.00,NULL,No
+INT-532976,NXT-108326,2024-05-11,App,"Technical Problem",Technical,Resolved,0.20,15.00,No,No
+INT-529649,NXT-107461,2023-10-23,"Live Chat","Device Problem",Technical,Resolved,0.70,66.00,No,No
+INT-532016,NXT-108063,2023-07-10,"Live Chat","Billing Issue",Billing,Resolved,9.80,41.00,No,Yes
+INT-552421,NXT-113330,2025-09-02,Store,"Network Problem",Network,Resolved,0.60,NULL,No,Yes
+INT-535281,NXT-108904,2024-08-01,App,"Cancellation Request",Retention,Resolved,3.40,58.00,No,Yes
+INT-558187,NXT-114802,2024-08-06,App,"Device Problem",Technical,Resolved,1.20,26.00,No,No
+INT-518496,NXT-104678,2025-12-04,Email,"Service Activation",Account,Escalated,13.20,40.00,Yes,No
+INT-542414,NXT-110740,2025-01-02,App,"Billing Issue",Billing,Resolved,2.10,61.00,No,No
+INT-506377,NXT-101608,2025-09-06,App,"Network Problem",Network,Resolved,11.10,54.00,Yes,No
+INT-506013,NXT-101513,2024-12-15,Email,"Cancellation Request",Retention,Pending,6.70,36.00,No,No
+INT-550472,NXT-112825,2025-11-06,"Social Media","Network Problem",Network,Resolved,9.50,64.00,No,No
+INT-558180,NXT-114799,2025-09-30,Phone,"Data Problem",Technical,Pending,2.90,51.00,No,No
+INT-527534,NXT-106944,2025-08-29,"Live Chat","Device Problem",Technical,Resolved,2.70,NULL,No,Yes
+INT-503382,NXT-100865,2024-07-31,Phone,"Network Problem",Network,Resolved,6.20,32.00,No,Yes
+INT-526157,NXT-106619,2025-09-12,"Social Media","Technical Problem",Technical,Resolved,16.90,37.00,No,No
+INT-533837,NXT-108538,2024-05-04,"Live Chat","Data Problem",Technical,Escalated,53.10,48.00,Yes,Yes
+INT-533000,NXT-108333,2024-08-04,"Live Chat","Cancellation Request",Retention,Resolved,6.80,100.00,No,No
+INT-520505,NXT-105170,2023-11-23,App,"Device Problem",Technical,Resolved,5.60,53.00,No,No
+INT-524079,NXT-106074,2024-07-11,Phone,"Cancellation Request",Retention,Escalated,17.30,67.00,Yes,Yes
+INT-546778,NXT-111863,2025-09-04,App,"Network Problem",Network,Resolved,0.50,64.00,No,No
+INT-533643,NXT-108484,2024-12-12,Email,"Billing Issue",Billing,Pending,27.80,40.00,No,Yes
+INT-511354,NXT-102853,2025-02-13,"Live Chat","Technical Problem",Technical,unresolved,5.40,27.00,NULL,No
+INT-538884,NXT-109833,2025-03-04,Phone,"Billing Issue",Billing,Resolved,16.80,37.00,No,Yes
+INT-536022,NXT-109083,2025-12-31,"Live Chat","Technical Problem",Technical,Resolved,NULL,55.00,No,No
+INT-523634,NXT-105964,2025-11-27,Phone,"Data Problem",Technical,Resolved,0.40,45.00,No,No
+INT-539193,NXT-109917,2024-04-02,App,"Device Problem",Technical,Resolved,0.20,74.00,No,Yes
+INT-508643,NXT-102160,2025-10-13,Phone,Other,Other,Resolved,1.00,78.00,No,No
+INT-507603,NXT-101905,2024-12-05,"Social Media","Service Activation",Account,Resolved,24.30,62.00,No,No
+INT-522300,NXT-105642,2025-12-09,Phone,"Service Activation",Account,Resolved,5.80,54.00,No,no
+INT-510900,NXT-102741,2025-08-02,"Live Chat","Technical Problem",Technical,Resolved,7.20,52.00,No,No
+INT-523532,NXT-105939,2025-10-23,Email,"Network Problem",Network,Escalated,4.40,46.00,Yes,No
+INT-509341,NXT-102340,2023-06-15,App,"Billing Issue",Billing,Unresolved,28.50,54.00,No,No
+INT-548380,NXT-112279,2025-02-09,Email,"Account Issue",Account,Escalated,4.70,19.00,Yes,No
+INT-509518,NXT-102381,2025-02-03,"Social Media","Network Problem",Network,Resolved,1.00,89.00,Yes,Yes
+INT-535070,NXT-108852,2025-07-12,Store,Other,Other,Resolved,8.60,58.00,No,No
+INT-517994,NXT-104562,2025-04-05,"Live Chat","Data Problem",Technical,Resolved,22.70,80.00,No,No
+INT-514943,NXT-103787,2024-05-15,Phone,"Network Problem",Network,Resolved,0.50,69.00,No,Yes
+INT-539105,NXT-109891,2025-08-12,"Live Chat","Technical Problem",Technical,Unresolved,38.50,45.00,No,No
+INT-533995,NXT-108581,2025-12-24,"Live Chat","Account Issue",Account,Escalated,15.50,54.00,Yes,No
+INT-505070,NXT-101283,2025-03-24,App,"Service Activation",Account,Resolved,5.30,91.00,No,No
+INT-533942,NXT-108566,2025-12-19,App,"Device Problem",Technical,Resolved,5.10,50.00,No,Yes
+INT-557037,NXT-114510,2024-10-26,App,"Technical Problem",Technical,Resolved,16.20,78.00,No,No
+INT-552864,NXT-113440,2025-04-25,App,"Technical Problem",Technical,Unresolved,18.30,25.00,No,No
+INT-548403,NXT-112287,2024-08-26,"Social Media","Technical Problem",Technical,Unresolved,24.90,40.00,No,No
+INT-529154,NXT-107330,2025-09-23,Phone,"Billing Issue",Billing,Resolved,12.20,93.00,No,No
+INT-546169,NXT-111703,2023-08-28,Email,"Network Problem",Network,Unresolved,7.10,30.00,No,Yes
+INT-528626,NXT-107212,2025-08-15,Phone,"Cancellation Request",Retention,Resolved,0.50,99.00,No,No
+INT-553477,NXT-113608,2025-07-28,Phone,"Billing Issue",Billing,Unresolved,19.90,82.00,No,Yes
+INT-539692,NXT-110042,2025-06-04,App,"Device Problem",Technical,Resolved,9.80,82.00,No,No
+INT-549427,NXT-112558,2023-12-18,Email,"Network Problem",Network,Resolved,1.60,96.00,No,No
+INT-516381,NXT-104140,2025-02-23,Email,"Billing Issue",Billing,Escalated,41.90,34.00,Yes,No
+INT-516742,NXT-104238,2025-05-20,Email,"Data Problem",Technical,Pending,8.50,63.00,Yes,No
+INT-514736,NXT-103741,2025-06-12,Phone,"Technical Problem",Technical,Escalated,21.60,40.00,Yes,No
+INT-551450,NXT-113089,2025-01-10,"Social Media","Device Problem",Technical,Unresolved,16.50,31.00,No,No
+INT-511517,NXT-102901,2024-07-23,Phone,"Data Problem",Technical,Escalated,42.00,35.00,Yes,No
+INT-530868,NXT-107773,2025-01-12,Phone,"Network Problem",Network,Resolved,38.10,32.00,No,Yes
+INT-526964,NXT-106802,2024-01-01,"Live Chat","Technical Problem",Technical,Unresolved,100.30,66.00,No,No
+INT-537033,NXT-109337,2025-02-03,Phone,Other,Other,Escalated,32.40,36.00,Yes,Yes
+INT-508640,NXT-102159,2024-11-27,App,"Network Problem",Network,Resolved,0.70,54.00,No,Yes
+INT-506777,NXT-101694,2025-01-06,"Live Chat","Billing Issue",Billing,Resolved,2.70,34.00,No,No
+INT-541340,NXT-110480,2024-04-12,Phone,"billing issue",Billing,Pending,10.80,46.00,Yes,Yes
+INT-530825,NXT-107762,2024-07-21,"Social Media","Account Issue",Account,Escalated,15.40,22.00,Yes,No
+INT-523146,NXT-105846,2025-07-01,Store,"Technical Problem",Technical,Resolved,0.70,33.00,No,No
+INT-542628,NXT-110797,2023-11-25,Phone,"BILLING ISSUE",Billing,Pending,15.30,1.00,No,No
+INT-511977,NXT-103003,2025-06-27,App,"Cancellation Request",Retention,Resolved,1.10,50.00,No,No
+INT-551206,NXT-113028,2025-07-17,Phone,"Network Problem",Network,Resolved,13.60,68.00,No,No
+INT-511076,NXT-102785,2024-10-18,App,"billing issue",Billing,Resolved,1.40,82.00,No,Yes
+INT-535334,NXT-108919,2024-08-27,"Live Chat","Network Problem",Network,Resolved,0.20,57.00,No,Yes
+INT-500286,NXT-100069,2025-04-13,"Live Chat","Cancellation Request",Retention,Escalated,12.60,24.00,Yes,No
+INT-558206,NXT-114807,2025-12-27,App,"Cancellation Request",Retention,Resolved,1.10,56.00,No,No
+INT-542729,NXT-110822,2023-03-08,Email,"Network Problem",Network,Unresolved,6.90,8.00,No,No
+INT-541945,NXT-110622,2025-03-27,Email,"Billing Issue",Billing,Unresolved,7.10,24.00,No,Yes
+INT-526409,NXT-106677,2025-03-22,App,"Technical Problem",Technical,Unresolved,6.30,43.00,No,No
+INT-521096,NXT-105322,2025-08-30,App,"Network Problem",Network,Pending,10.90,53.00,No,Yes
+INT-517577,NXT-104456,2025-11-01,"Live Chat","Billing Issue",Billing,Unresolved,108.20,43.00,No,No
+INT-553073,NXT-113495,2025-10-16,Phone,"Billing Issue",Billing,Unresolved,36.40,73.00,No,Yes
+INT-528078,NXT-107082,2025-11-24,Phone,"Network Problem",Network,Resolved,3.00,89.00,No,Yes
+INT-540414,NXT-110225,2025-05-18,Phone,"Billing Issue",Billing,Resolved,19.20,62.00,No,Yes
+INT-508576,NXT-102142,2025-05-11,"Live Chat","Network Problem",Network,Resolved,7.90,73.00,No,Yes
+INT-556031,NXT-114266,2025-03-04,"Live Chat","Account Issue",Account,Resolved,3.20,56.00,No,No
+INT-521983,NXT-105555,2025-09-28,Email,"Service Activation",Account,Resolved,1.80,83.00,No,No
+INT-536534,NXT-109221,2024-11-07,"Live Chat","Billing Issue",Billing,Resolved,1.90,28.00,No,No
+INT-543888,NXT-111116,2024-04-14,"Live Chat","Network Problem",Network,Resolved,1.30,66.00,No,Yes
+INT-525883,NXT-106549,2024-02-14,Phone,"Account Issue",Account,Resolved,0.40,27.00,No,No
+INT-502957,NXT-100754,2025-04-07,Email,"Cancellation Request",Retention,Resolved,5.10,76.00,No,No
+INT-536402,NXT-109188,2024-10-26,Email,"Account Issue",Account,Unresolved,12.40,1.00,NULL,No
+INT-526922,NXT-106796,2024-06-10,Phone,"Network Problem",Network,Unresolved,0.80,24.00,No,Yes
+INT-551717,NXT-113157,2023-04-29,App,"Device Problem",Technical,Resolved,8.90,62.00,No,No
+INT-536878,NXT-109299,2025-11-22,Store,"Data Problem",Technical,Resolved,6.10,71.00,No,No
+INT-519978,NXT-105043,2024-11-12,Store,"Technical Problem",Technical,Resolved,6.50,100.00,No,No
+INT-509891,NXT-102474,2024-10-14,App,"Billing Issue",Billing,Resolved,2.30,35.00,No,No
+INT-544916,NXT-111383,2023-09-30,"Live Chat","Technical Problem",Technical,Resolved,2.60,83.00,No,Yes
+INT-509682,NXT-102420,2025-12-30,"Live Chat","Data Problem",Technical,Escalated,11.90,26.00,Yes,Yes
+INT-537276,NXT-109402,2025-12-02,Phone,"Technical Problem",Technical,Unresolved,2.80,20.00,No,Yes
+INT-558753,NXT-114949,2025-10-26,App,"Account Issue",Account,Resolved,1.70,80.00,No,YES
+INT-529288,NXT-107371,2025-10-14,Store,"Cancellation Request",Retention,Resolved,4.40,61.00,No,No
+INT-516555,NXT-104192,2024-11-15,"Social Media","Cancellation Request",Retention,Pending,1.80,22.00,No,No
+INT-505262,NXT-101330,2023-07-31,Phone,"Technical Problem",Technical,Unresolved,27.30,25.00,No,No
+INT-520963,NXT-105282,2025-04-22,Phone,"Billing Issue",Billing,Escalated,4.30,68.00,Yes,Yes
+INT-527893,NXT-107032,2024-09-21,"Live Chat","Billing Issue",Billing,Pending,9.00,29.00,Yes,Yes
+INT-551470,NXT-113094,2024-09-26,Phone,"Device Problem",Technical,Escalated,44.00,1.00,Yes,No
+INT-518024,NXT-104569,2025-07-08,"Live Chat","Device Problem",Technical,Resolved,5.30,61.00,No,No
+INT-534606,NXT-108737,2025-01-09,Email,"Network Problem",Network,Resolved,6.10,49.00,No,No
+INT-544622,NXT-111303,2024-11-05,Phone,"Network Problem",Network,Unresolved,27.50,38.00,No,No
+INT-535479,NXT-108954,2024-05-01,"Live Chat","Account Issue",Account,resolved,5.60,59.00,No,Yes
+INT-522269,NXT-105636,2024-08-27,App,Other,Other,Resolved,1.30,86.00,No,No
+INT-540188,NXT-110170,2025-01-20,"Live Chat","Billing Issue",Billing,Pending,2.60,39.00,No,no
+INT-519094,NXT-104836,2025-10-24,Phone,"Device Problem",Technical,Resolved,NULL,72.00,No,No
+INT-542065,NXT-110656,2025-10-25,Store,"Technical Problem",Technical,Resolved,0.20,77.00,No,NO
+INT-509775,NXT-102440,2025-01-16,Store,"Network Problem",Network,Resolved,5.50,89.00,No,No
+INT-514302,NXT-103630,2025-04-08,Email,"Billing Issue",Billing,Pending,9.70,17.00,No,No
+INT-553044,NXT-113487,2025-01-10,Email,"Network Problem",Network,Resolved,12.40,56.00,Yes,Yes
+INT-506190,NXT-101563,2024-09-24,"Social Media","Network Problem",Network,Resolved,1.80,44.00,No,No
+INT-534175,NXT-108628,2025-01-29,Phone,"Data Problem",Technical,Resolved,8.20,83.00,No,No
+INT-517904,NXT-104539,2024-07-08,Phone,"Technical Problem",Technical,Resolved,7.20,33.00,No,No
+INT-502264,NXT-100590,2025-04-29,Phone,"Network Problem",Network,Resolved,5.90,100.00,No,Yes
+INT-549493,NXT-112569,2023-07-15,App,"Billing Issue",Billing,Unresolved,11.30,23.00,No,No
+INT-507153,NXT-101781,2024-12-08,Phone,"Device Problem",Technical,Escalated,28.00,45.00,Yes,Yes
+INT-513909,NXT-103527,2024-12-27,App,"Data Problem",Technical,Resolved,4.90,98.00,No,No
+INT-528363,NXT-107152,2023-08-26,Phone,"Cancellation Request",Retention,Unresolved,82.90,21.00,No,Yes
+INT-552193,NXT-113274,2023-09-28,Phone,"Account Issue",Account,Resolved,NULL,45.00,No,No
+INT-528529,NXT-107189,2024-01-25,App,"Data Problem",Technical,Pending,69.10,10.00,No,No
+INT-508966,NXT-102245,2024-04-11,Phone,"Network Problem",Network,Resolved,1.30,78.00,No,No
+INT-522446,NXT-105680,2025-06-13,Phone,"Account Issue",Account,Unresolved,7.10,43.00,No,No
+INT-546025,NXT-111662,2024-12-31,Phone,"Network Problem",Network,Resolved,6.20,61.00,No,No
+INT-528963,NXT-107291,2024-12-28,Store,"Network Problem",Network,Resolved,NULL,86.00,No,Yes
+INT-553924,NXT-113731,2025-12-16,App,"Network Problem",Network,Escalated,12.40,43.00,Yes,No
+INT-523497,NXT-105929,2024-07-03,Phone,"Cancellation Request",Retention,Resolved,1.80,73.00,No,No
+INT-553774,NXT-113687,2025-10-28,Phone,"Network Problem",Network,Resolved,1.60,76.00,No,No
+INT-526348,NXT-106664,2025-09-11,App,"Cancellation Request",Retention,Resolved,1.50,75.00,No,No
+INT-531953,NXT-108043,2024-09-30,Phone,"Billing Issue",Billing,Unresolved,38.50,26.00,No,Yes
+INT-532514,NXT-108198,2025-01-25,"Social Media","Network Problem",Network,Resolved,2.80,69.00,No,No
+INT-520089,NXT-105073,2024-08-24,Email,"Network Problem",Network,Pending,8.70,32.00,No,No
+INT-517328,NXT-104395,2025-04-10,Phone,"Account Issue",Account,Resolved,5.20,93.00,No,No
+INT-535493,NXT-108957,2025-09-21,Email,"Technical Problem",Technical,Escalated,26.40,64.00,Yes,No
+INT-515970,NXT-104034,2025-05-01,Phone,"Billing Issue",Billing,Resolved,5.40,64.00,No,Yes
+INT-545707,NXT-111579,2025-07-06,"Social Media","Data Problem",Technical,Resolved,2.30,58.00,No,No
+INT-543894,NXT-111118,2024-01-27,"Live Chat","Technical Problem",Technical,Resolved,7.00,50.00,Yes,No
+INT-554582,NXT-113903,2025-01-31,Phone,"Device Problem",Technical,Unresolved,2.20,49.00,No,No
+INT-505607,NXT-101412,2024-12-17,App,"SERVICE ACTIVATION",Account,Resolved,9.70,59.00,No,No
+INT-539517,NXT-109998,2025-04-28,Email,"Cancellation Request",Retention,Resolved,7.40,92.00,No,No
+INT-521353,NXT-105384,2024-11-02,Phone,"Data Problem",Technical,Pending,24.70,49.00,Yes,No
+INT-529301,NXT-107374,2025-08-11,Phone,"Network Problem",Network,Resolved,3.70,95.00,No,No
+INT-537759,NXT-109532,2025-10-08,Phone,"Billing Issue",Billing,Resolved,7.10,54.00,No,Yes
+INT-523612,NXT-105959,2024-10-16,App,"Service Activation",Account,Resolved,15.40,86.00,No,No
+INT-553138,NXT-113510,2025-06-10,"Live Chat","Network Problem",Network,Pending,7.50,41.00,No,Yes
+INT-500349,NXT-100086,2025-03-13,App,"Data Problem",Technical,Escalated,9.40,45.00,Yes,No
+INT-514145,NXT-103586,2024-07-01,Store,"Device Problem",Technical,Pending,1.10,12.00,No,No
+INT-535020,NXT-108840,2025-03-18,Email,"Network Problem",Network,Resolved,4.00,9.00,No,No
+INT-544547,NXT-111285,2023-04-18,Phone,"Data Problem",Technical,Resolved,2.80,100.00,No,No
+INT-513303,NXT-103365,2024-09-26,App,"Billing Issue",Billing,Resolved,12.90,80.00,No,Yes
+INT-558581,NXT-114902,2025-06-22,Email,"Network Problem",Network,Resolved,31.90,30.00,No,Yes
+INT-520607,NXT-105193,2024-02-11,Phone,Other,Other,Pending,24.90,28.00,No,No
+INT-543099,NXT-110921,2024-12-23,"Live Chat","Data Problem",Technical,Unresolved,17.50,25.00,No,No
+INT-516505,NXT-104178,2024-12-18,"Social Media","Network Problem",Network,Resolved,8.50,46.00,No,No
+INT-530703,NXT-107732,2025-09-14,Phone,"Technical Problem",Technical,Resolved,2.90,35.00,No,No
+INT-528623,NXT-107212,2025-11-29,App,"Network Problem",Network,Resolved,3.20,82.00,No,Yes
+INT-549218,NXT-112496,2023-04-12,App,"Network Problem",Network,Pending,5.20,25.00,No,No
+INT-545358,NXT-111494,2025-06-23,"Social Media","Billing Issue",Billing,Resolved,17.40,29.00,No,Yes
+INT-523311,NXT-105882,2025-03-08,App,"Data Problem",Technical,Escalated,5.50,41.00,Yes,Yes
+INT-554882,NXT-113980,2025-11-13,Phone,"Technical Problem",Technical,Resolved,3.00,67.00,No,No
+INT-501239,NXT-100315,2025-02-25,Email,"Network Problem",Network,Pending,13.30,48.00,No,Yes
+INT-555642,NXT-114167,2024-03-03,"Live Chat","Billing Issue",Billing,Escalated,7.10,42.00,Yes,Yes
+INT-549486,NXT-112568,2025-10-12,Phone,"Device Problem",Technical,Resolved,1.60,60.00,No,No
+INT-524521,NXT-106185,2024-05-07,"Live Chat","Service Activation",Account,Resolved,5.60,73.00,No,No
+INT-505570,NXT-101402,2025-05-17,"Live Chat","Billing Issue",Billing,Resolved,10.30,52.00,No,Yes
+INT-513419,NXT-103395,2025-12-28,Phone,"Data Problem",Technical,Unresolved,17.60,15.00,No,No
+INT-542934,NXT-110876,2025-06-12,"Live Chat","Network Problem",Network,Unresolved,40.30,39.00,No,Yes
+INT-515351,NXT-103888,2025-02-24,App,"Account Issue",Account,Resolved,6.30,88.00,No,No
+INT-519276,NXT-104876,2025-10-22,Store,"Cancellation Request",Retention,Resolved,0.20,66.00,No,No
+INT-536435,NXT-109196,2024-10-13,"Live Chat","Account Issue",Account,Pending,4.10,49.00,Yes,No
+INT-547643,NXT-112073,2025-03-20,"Live Chat","Account Issue",Account,Resolved,0.80,36.00,No,No
+INT-541065,NXT-110401,2024-10-11,"Social Media","Billing Issue",Billing,Resolved,6.30,75.00,No,Yes
+INT-540029,NXT-110132,2025-03-17,"Live Chat","Cancellation Request",Retention,Unresolved,11.30,24.00,No,No
+INT-511629,NXT-102932,2025-11-20,"Live Chat","Billing Issue",Billing,Resolved,2.50,73.00,No,Yes
+INT-557017,NXT-114505,2025-06-26,"Social Media","Account Issue",Account,Unresolved,0.20,1.00,NULL,No
+INT-528572,NXT-107199,2024-04-20,App,Other,Other,Resolved,6.10,75.00,No,No
+INT-500214,NXT-100047,2025-09-28,"Live Chat","Network Problem",Network,Resolved,0.40,91.00,No,Yes
+INT-521081,NXT-105317,2025-09-18,Phone,"Service Activation",Account,Resolved,5.60,78.00,No,No
+INT-518740,NXT-104740,2024-06-20,"Live Chat","Account Issue",Account,Resolved,12.30,100.00,No,No
+INT-534798,NXT-108782,2025-12-02,Phone,"Device Problem",Technical,Pending,3.70,36.00,No,No
+INT-534827,NXT-108789,2025-09-10,"Social Media","Network Problem",Network,Resolved,8.00,65.00,No,Yes
+INT-511592,NXT-102922,2024-06-23,Phone,"NETWORK PROBLEM",Network,Escalated,62.30,52.00,Yes,Yes
+INT-512952,NXT-103275,2025-03-26,"Social Media","Network Problem",Network,Resolved,1.80,55.00,No,No
+INT-546108,NXT-111684,2023-07-18,Email,"Technical Problem",Technical,Pending,7.60,21.00,No,No
+INT-531665,NXT-107967,2025-12-08,"Live Chat","Billing Issue",Billing,Escalated,NULL,3.00,Yes,No
+INT-548728,NXT-112366,2024-02-29,"Live Chat","Billing Issue",Billing,Escalated,48.40,27.00,Yes,Yes
+INT-548168,NXT-112221,2024-09-08,Phone,"Service Activation",Account,Unresolved,15.00,44.00,No,No
+INT-536691,NXT-109261,2024-05-02,Phone,"billing issue",Billing,Resolved,3.10,44.00,No,Yes
+INT-551983,NXT-113214,2025-04-24,Store,"data problem",Technical,Resolved,5.20,73.00,No,No
+INT-513262,NXT-103355,2025-04-01,Store,"Cancellation Request",Retention,Resolved,3.10,66.00,No,No
+INT-526430,NXT-106681,2023-04-01,Phone,"Billing Issue",Billing,Unresolved,34.00,19.00,No,Yes
+INT-542420,NXT-110741,2024-10-29,App,"Data Problem",Technical,Resolved,4.50,100.00,No,No
+INT-526259,NXT-106645,2024-09-15,"Live Chat","Billing Issue",Billing,Resolved,6.40,43.00,No,Yes
+INT-546463,NXT-111771,2024-11-05,Phone,"Cancellation Request",Retention,Resolved,11.80,33.00,No,No
+INT-553484,NXT-113611,2024-05-25,App,"Service Activation",Account,Escalated,14.50,55.00,Yes,No
+INT-502081,NXT-100535,2025-06-21,Phone,"Data Problem",Technical,Resolved,1.40,81.00,No,No
+INT-548587,NXT-112333,2025-01-26,App,"Network Problem",Network,Resolved,21.60,69.00,No,No
+INT-501046,NXT-100262,2024-12-01,"Social Media","Technical Problem",Technical,Unresolved,1.30,67.00,No,Yes
+INT-551617,NXT-113128,2024-03-22,"Social Media","Network Problem",Network,Resolved,0.90,71.00,No,No
+INT-519255,NXT-104873,2025-04-04,App,"Network Problem",Network,Pending,5.10,19.00,No,Yes
+INT-506198,NXT-101567,2024-06-08,"Social Media","Network Problem",Network,Resolved,32.40,50.00,No,Yes
+INT-527845,NXT-107020,2024-11-03,"Social Media","Network Problem",Network,Resolved,20.60,57.00,No,Yes
+INT-517684,NXT-104483,2025-03-19,Phone,"data problem",Technical,Pending,6.10,33.00,No,No
+INT-532383,NXT-108163,2025-06-26,App,"Data Problem",Technical,Resolved,14.10,NULL,No,No
+INT-521700,NXT-105473,2024-02-25,"Live Chat","Network Problem",Network,Resolved,3.10,57.00,No,Yes
+INT-524089,NXT-106075,2023-11-07,"Social Media","Device Problem",Technical,Pending,NULL,31.00,No,No
+INT-513153,NXT-103328,2024-02-09,Email,"Technical Problem",Technical,Resolved,4.50,96.00,No,No
+INT-536706,NXT-109263,2025-11-30,App,"Account Issue",Account,Escalated,22.00,29.00,Yes,No
+INT-518290,NXT-104629,2025-09-14,Phone,"Account Issue",Account,Resolved,4.00,96.00,No,No
+INT-509705,NXT-102425,2025-07-19,Store,"Account Issue",Account,Resolved,6.10,43.00,No,No
+INT-531267,NXT-107868,2025-11-26,"Live Chat","Technical Problem",Technical,Pending,12.30,1.00,No,No
+INT-500004,NXT-100002,2024-10-21,"Live Chat","Billing Issue",Billing,Resolved,0.50,78.00,No,No
+INT-521823,NXT-105516,2025-02-15,Store,"Technical Problem",Technical,Resolved,1.40,33.00,No,NO
+INT-532092,NXT-108088,2025-04-25,"Social Media",Other,Other,Resolved,0.70,70.00,No,No

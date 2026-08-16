@@ -1,0 +1,501 @@
+Campaign_ID,Customer_ID,Campaign_Date,Campaign_Type,Offer_Type,Offer_Value,Contact_Channel,Customer_Contacted,Customer_Response,Offer_Accepted,Retained_After_Offer,Retention_Cost,Follow_Up_Date
+CMP-718043,NXT-109585,2025-09-19,"Network Recovery","Bonus Minutes",315.00,Phone,Yes,Interested,No,No,0.53,2025-09-28
+CMP-708620,NXT-104680,2025-01-24,"Contract Renewal","Device Upgrade",13.98,WhatsApp,Yes,"Requested More Info",No,No,0.80,2025-01-30
+CMP-718917,NXT-110040,2024-12-07,"Win Back","Bonus Minutes",427.00,WhatsApp,Yes,"No Response",no,No,2.60,2024-12-26
+CMP-725290,NXT-113448,2025-04-09,"Loyalty Campaign","Contract Upgrade",23.84,Phone,Yes,"Not Interested",No,Yes,0.03,2025-04-30
+CMP-722097,NXT-111750,2025-12-24,"Loyalty Campaign","Contract Upgrade",34.71,WhatsApp,Yes,"Not Interested",No,No,1.06,2026-01-16
+CMP-711027,NXT-105917,2025-08-15,"Network Recovery","Free Data",11.70,Phone,Yes,Interested,No,Yes,2.98,2025-09-03
+CMP-707061,NXT-103865,2025-12-09,"Win Back","Contract Upgrade",18.14,Phone,Yes,"No Response",No,Yes,2.00,2025-12-28
+CMP-724318,NXT-112962,2024-11-10,"High Value Customer","Device Upgrade",23.57,Email,Yes,Interested,Yes,Yes,4.34,2024-11-28
+CMP-710092,NXT-105426,2024-06-30,"High Value Customer","Reduced Monthly Fee",34.89,"App Notification",Yes,"Not Interested",No,No,1.42,2024-07-16
+CMP-708679,NXT-104712,2025-05-25,"Contract Renewal","Bonus Minutes",342.00,Email,Yes,"Not Interested",No,No,2.44,2025-05-29
+CMP-701011,NXT-100562,2025-04-17,"High Value Customer","Bonus Minutes",91.00,WhatsApp,Yes,"Not Interested",No,Yes,2.85,2025-05-03
+CMP-725364,NXT-113484,2024-06-16,"High Value Customer","Device Upgrade",77.63,SMS,Yes,"No Response",No,No,2.48,2024-06-27
+CMP-718240,NXT-109689,2025-10-24,"Win Back","Bonus Minutes",478.00,"App Notification",Yes,Interested,Yes,yes,42.98,2025-10-27
+CMP-723785,NXT-112672,2024-10-25,"Win Back","Contract Upgrade",87.68,"App Notification",Yes,"Not Interested",No,No,2.10,2024-11-09
+CMP-724017,NXT-112809,2025-04-10,"At Risk","Free Upgrade",61.45,SMS,Yes,Interested,No,Yes,2.98,2025-04-21
+CMP-723333,NXT-112410,2025-10-15,"High Value Customer","Bonus Minutes",111.00,Email,No,,No,No,NULL,2025-10-21
+CMP-700161,NXT-100082,2025-10-28,"Loyalty Campaign","Bonus Minutes",308.00,WhatsApp,Yes,"No Response",No,No,2.57,2025-11-11
+CMP-719402,NXT-110297,2025-10-05,"Network Recovery","Contract Upgrade",6.39,WhatsApp,Yes,"Not Interested",No,Yes,1.30,2025-10-17
+CMP-716228,NXT-108649,2025-09-04,"Network Recovery","Contract Upgrade",60.89,Email,Yes,Interested,Yes,No,31.38,2025-09-11
+CMP-714583,NXT-107777,2024-08-20,"At Risk","Free Upgrade",23.91,SMS,Yes,Interested,Yes,Yes,32.35,2024-09-13
+CMP-710209,NXT-105480,2025-07-16,"Win Back",Discount,5.32,WhatsApp,Yes,"No Response",No,No,2.46,2025-07-21
+CMP-707840,NXT-104283,2025-04-13,"Network Recovery","reduced monthly fee",11.10,WhatsApp,Yes,Interested,Yes,YES,30.12,2025-04-29
+CMP-700739,NXT-100400,2025-04-27,"Contract Renewal","Reduced Monthly Fee",36.50,Email,Yes,"Not Interested",No,Yes,1.81,2025-05-23
+CMP-716587,NXT-108833,2024-03-12,"High Value Customer","CONTRACT UPGRADE",46.51,Email,Yes,Interested,Yes,Yes,38.58,2024-04-01
+CMP-711151,NXT-105976,2024-11-17,"Contract Renewal","Reduced Monthly Fee",33.41,WhatsApp,Yes,Interested,Yes,Yes,40.29,2024-12-10
+CMP-715158,NXT-108077,2024-05-03,"Network Recovery","FREE DATA",16.00,"App Notification",No,,No,No,0.16,2024-05-12
+CMP-702757,NXT-101524,2025-02-24,"Network Recovery","Reduced Monthly Fee",27.68,Phone,Yes,"Requested More Info",No,No,1.59,2025-03-25
+CMP-726687,NXT-114173,2024-06-07,"Win Back","Device Upgrade",89.13,Phone,Yes,Interested,Yes,No,15.26,2024-06-19
+CMP-719007,NXT-110078,2024-10-11,"Contract Renewal","Contract Upgrade",46.81,SMS,No,,No,No,0.70,2024-10-27
+CMP-716607,NXT-108842,2024-01-06,"Loyalty Campaign","Contract Upgrade",77.76,Email,NO,,No,No,0.21,2024-01-26
+CMP-725276,NXT-113443,2025-01-21,"Contract Renewal","Bonus Minutes",220.00,SMS,Yes,"Requested More Info",No,Yes,2.27,2025-02-01
+CMP-702024,NXT-101122,2023-09-05,"Loyalty Campaign","Free Data",2.30,WhatsApp,Yes,Interested,Yes,Yes,2.04,2023-09-19
+CMP-716518,NXT-108801,2025-07-01,"Network Recovery","Reduced Monthly Fee",17.86,Email,Yes,"No Response",No,Yes,1.88,2025-07-18
+CMP-722955,NXT-112188,2025-04-13,"Contract Renewal","Reduced Monthly Fee",35.20,Email,No,,No,No,1.80,2025-04-21
+CMP-722116,NXT-111756,2025-08-12,"At Risk","Device Upgrade",38.82,SMS,No,,No,No,0.02,2025-09-02
+CMP-705086,NXT-102786,2025-08-30,"Contract Renewal",Discount,24.97,"app notification",Yes,"Not Interested",No,No,0.48,2025-09-15
+CMP-702701,NXT-101495,2024-11-14,"At Risk","Reduced Monthly Fee",25.34,Phone,Yes,"Not Interested",No,No,2.46,2024-11-20
+CMP-722014,NXT-111705,2024-01-04,"At Risk","Reduced Monthly Fee",37.23,SMS,Yes,Interested,Yes,Yes,16.09,2024-01-14
+CMP-723756,NXT-112653,2025-02-11,"At Risk",Discount,37.55,"App Notification",Yes,Interested,Yes,No,48.81,2025-02-17
+CMP-702391,NXT-101318,2025-12-07,"Contract Renewal","Reduced Monthly Fee",25.44,"App Notification",Yes,"Requested More Info",No,Yes,1.34,2025-12-29
+CMP-704279,NXT-102367,2025-03-25,"Contract Renewal","Contract Upgrade",57.83,SMS,No,,No,Yes,1.38,2025-04-19
+CMP-720340,NXT-110792,2025-07-09,"At Risk","Contract Upgrade",66.84,Email,Yes,Interested,Yes,Yes,34.09,2025-08-02
+CMP-719733,NXT-110485,2024-06-27,"Contract Renewal","Contract Upgrade",98.53,SMS,Yes,"Requested More Info",No,No,0.10,2024-07-12
+CMP-715407,NXT-108216,2025-04-15,"At Risk","Contract Upgrade",81.61,"App Notification",Yes,"No Response",No,Yes,2.35,2025-05-02
+CMP-715292,NXT-108150,2024-07-17,"Loyalty Campaign","Device Upgrade",53.56,Email,Yes,"No Response",No,no,1.94,2024-07-22
+CMP-715678,NXT-108359,2024-09-19,"Network Recovery","Bonus Minutes",58.00,Phone,Yes,"No Response",No,No,0.87,2024-10-13
+CMP-718728,NXT-109954,2024-05-25,"Network Recovery","Device Upgrade",62.27,"App Notification",Yes,Interested,Yes,Yes,51.82,2024-06-03
+CMP-720812,NXT-111047,2025-11-23,"Contract Renewal","Free Data",13.40,WhatsApp,Yes,"Requested More Info",No,Yes,1.48,2025-12-21
+CMP-703444,NXT-101921,2024-11-18,"At Risk","Free Data",8.00,Phone,Yes,"Not Interested",No,No,2.05,2024-12-12
+CMP-727235,NXT-114479,2025-02-27,"At Risk","Device Upgrade",42.66,Email,Yes,"No Response",No,No,1.03,2025-03-11
+CMP-704383,NXT-102424,2025-05-01,"At Risk","Contract Upgrade",98.19,Email,Yes,"Requested More Info",No,No,0.68,2025-05-09
+CMP-717884,NXT-109517,2025-01-13,"At Risk","Bonus Minutes",130.00,SMS,No,,No,No,0.62,2025-02-11
+CMP-707184,NXT-103934,2024-09-26,"Loyalty Campaign","Free Data",14.40,Phone,Yes,"Requested More Info",No,Yes,1.23,2024-10-03
+CMP-702451,NXT-101351,2025-10-09,"Contract Renewal","Reduced Monthly Fee",7.43,Email,No,,No,yes,1.14,2025-11-02
+CMP-720480,NXT-110876,2025-05-16,"High Value Customer",Discount,30.48,Email,Yes,Interested,No,No,2.65,2025-05-28
+CMP-705002,NXT-102747,2025-05-08,"Win Back","Device Upgrade",97.72,Email,Yes,Interested,Yes,No,27.41,2025-06-01
+CMP-707880,NXT-104304,2025-01-22,"Loyalty Campaign","Contract Upgrade",59.20,Phone,No,,No,Yes,1.56,2025-02-05
+CMP-719243,NXT-110211,2024-01-09,"Contract Renewal","Bonus Minutes",167.00,Phone,No,,No,No,1.74,2024-01-16
+CMP-728071,NXT-114941,2025-07-21,"At Risk","Device Upgrade",83.85,WhatsApp,No,,No,No,1.24,2025-08-17
+CMP-725542,NXT-113576,2023-10-06,"Win Back",Discount,30.32,Email,Yes,"No Response",No,No,2.36,2023-11-05
+CMP-708345,NXT-104536,2025-10-19,"Network Recovery","Contract Upgrade",69.95,WhatsApp,Yes,"No Response",No,YES,2.04,2025-10-29
+CMP-723330,NXT-112407,2025-08-25,"At Risk","Bonus Minutes",256.00,SMS,Yes,"Not Interested",No,No,1.93,2025-09-18
+CMP-713622,NXT-107255,2025-10-21,"Win Back","Bonus Minutes",494.00,Email,Yes,Interested,Yes,Yes,NULL,2025-11-06
+CMP-711431,NXT-106121,2024-10-05,"Contract Renewal","Device Upgrade",35.83,WhatsApp,Yes,Interested,Yes,Yes,NULL,2024-10-13
+CMP-707083,NXT-103877,2024-02-27,"Contract Renewal","Free Data",16.60,Email,Yes,Interested,No,No,1.23,2024-03-15
+CMP-702429,NXT-101342,2024-12-21,"LOYALTY CAMPAIGN","Device Upgrade",40.84,Phone,No,,No,No,1.88,2025-01-07
+CMP-708826,NXT-104795,2024-11-15,"High Value Customer","Free Upgrade",63.02,"App Notification",Yes,Interested,No,Yes,0.45,2024-11-21
+CMP-703231,NXT-101800,2025-07-01,"Network Recovery","Bonus Minutes",491.00,Phone,Yes,"Requested More Info",No,No,2.82,2025-07-18
+CMP-712893,NXT-106887,2025-05-21,"Network Recovery",Discount,32.56,"App Notification",Yes,"Not Interested",No,No,1.14,2025-06-06
+CMP-709132,NXT-104941,2025-05-12,"High Value Customer","Contract Upgrade",21.00,WhatsApp,Yes,"Requested More Info",No,No,2.28,2025-06-02
+CMP-720831,NXT-111058,2024-09-08,"High Value Customer","Device Upgrade",25.96,WhatsApp,Yes,Interested,Yes,Yes,32.93,2024-09-28
+CMP-706797,NXT-103722,2024-05-20,"At Risk",Discount,26.47,Email,Yes,Interested,Yes,Yes,2.51,2024-05-30
+CMP-705012,NXT-102751,2025-02-17,"Contract Renewal","Device Upgrade",30.95,Email,Yes,"No Response",No,Yes,NULL,2025-03-07
+CMP-703244,NXT-101808,2024-12-13,"high value customer","Contract Upgrade",57.40,Email,Yes,"No Response",No,No,2.31,2024-12-30
+CMP-701333,NXT-100733,2024-10-27,"loyalty campaign","Free Data",7.90,Phone,No,,No,No,1.19,2024-11-03
+CMP-708015,NXT-104374,2025-01-24,"Contract Renewal","Contract Upgrade",72.36,Email,Yes,"Requested More Info",No,Yes,0.15,2025-02-12
+CMP-718037,NXT-109581,2024-08-17,"loyalty campaign","Device Upgrade",92.51,WhatsApp,Yes,Interested,Yes,Yes,26.49,2024-09-11
+CMP-711236,NXT-106015,2024-09-14,"Contract Renewal","Bonus Minutes",248.00,Phone,Yes,"Not Interested",No,Yes,0.09,2024-10-11
+CMP-713912,NXT-107410,2024-11-22,"Loyalty Campaign","Contract Upgrade",74.13,Phone,Yes,Interested,Yes,Yes,24.75,2024-12-15
+CMP-707974,NXT-104356,2024-05-15,"Win Back","Free Upgrade",10.88,"App Notification",Yes,"Not Interested",No,No,1.25,2024-06-06
+CMP-705762,NXT-103155,2025-02-27,"Win Back",Discount,22.19,Phone,No,,No,No,0.31,2025-03-14
+CMP-726872,NXT-114273,2025-01-21,"Loyalty Campaign","Contract Upgrade",9.22,"App Notification",Yes,"Requested More Info",No,No,0.88,2025-01-31
+CMP-701597,NXT-100889,2024-10-03,"At Risk","Device Upgrade",60.41,SMS,No,,No,No,2.14,2024-10-15
+CMP-711233,NXT-106013,2025-01-07,"Contract Renewal","Bonus Minutes",469.00,"App Notification",No,,No,No,NULL,2025-02-05
+CMP-707100,NXT-103887,2024-01-31,"WIN BACK","Device Upgrade",38.38,"App Notification",Yes,Interested,No,No,1.08,2024-02-15
+CMP-717292,NXT-109202,2024-11-23,"win back",Discount,10.18,SMS,No,,No,No,1.72,2024-12-16
+CMP-720137,NXT-110694,2024-05-14,"Win Back","Device Upgrade",13.33,"App Notification",YES,Interested,Yes,Yes,51.48,2024-05-18
+CMP-706037,NXT-103305,2025-06-03,"Loyalty Campaign",Discount,9.23,WhatsApp,Yes,"Requested More Info",No,Yes,2.04,2025-06-28
+CMP-722427,NXT-111926,2024-07-02,"Contract Renewal","Bonus Minutes",164.00,Email,Yes,"Requested More Info",No,No,NULL,2024-07-20
+CMP-723636,NXT-112589,2025-08-29,"Loyalty Campaign",Discount,31.61,Email,Yes,"No Response",No,Yes,0.12,2025-09-06
+CMP-712729,NXT-106816,2023-04-18,"Contract Renewal","Device Upgrade",89.04,phone,Yes,"Not Interested",No,No,0.80,2023-04-21
+CMP-703351,NXT-101874,2025-10-14,"At Risk","Contract Upgrade",41.78,Phone,Yes,Interested,Yes,No,12.27,2025-10-24
+CMP-703208,NXT-101790,2025-12-20,"Contract Renewal",Discount,7.82,Phone,Yes,"No Response",No,No,0.94,2026-01-15
+CMP-713991,NXT-107462,2024-10-27,"Contract Renewal","Reduced Monthly Fee",NULL,Email,Yes,"Not Interested",No,Yes,2.81,2024-10-30
+CMP-714218,NXT-107575,2025-03-09,"Win Back","Contract Upgrade",90.47,WhatsApp,No,,No,No,1.44,2025-03-31
+CMP-719790,NXT-110512,2025-05-03,"Contract Renewal","Device Upgrade",46.39,Email,Yes,"No Response",No,No,0.81,2025-05-31
+CMP-724717,NXT-113167,2025-05-06,"Loyalty Campaign","Bonus Minutes",285.00,"App Notification",Yes,Interested,Yes,Yes,50.21,2025-05-25
+CMP-707979,NXT-104357,2025-03-10,"Contract Renewal","Free Upgrade",69.24,"App Notification",Yes,"Not Interested",No,No,2.54,2025-03-21
+CMP-700605,NXT-100317,2025-08-06,"High Value Customer","Free Upgrade",45.48,SMS,Yes,Interested,Yes,Yes,50.68,2025-08-30
+CMP-707473,NXT-104081,2025-11-29,"High Value Customer","Free Upgrade",55.48,Phone,Yes,"No Response",No,Yes,1.94,2025-12-03
+CMP-713994,NXT-107462,2025-10-08,"High Value Customer","Device Upgrade",81.60,"App Notification",No,,No,Yes,0.41,2025-10-23
+CMP-723158,NXT-112302,2025-11-02,"Loyalty Campaign","Free Upgrade",28.49,Phone,Yes,Interested,Yes,Yes,16.81,2025-11-30
+CMP-706496,NXT-103551,2024-10-08,"High Value Customer",Discount,29.45,EMAIL,No,,No,No,2.44,2024-10-18
+CMP-709946,NXT-105344,2024-02-20,"Contract Renewal","Reduced Monthly Fee",9.69,WhatsApp,Yes,"No Response",No,No,1.65,2024-03-16
+CMP-711421,NXT-106117,2024-11-03,"High Value Customer","Contract Upgrade",17.74,Phone,Yes,Interested,Yes,Yes,30.78,2024-11-28
+CMP-709582,NXT-105161,2025-04-18,"Contract Renewal","Bonus Minutes",396.00,"App Notification",Yes,"Requested More Info",No,yes,0.50,2025-04-29
+CMP-721475,NXT-111394,2024-12-29,"Loyalty Campaign",Discount,28.24,Phone,Yes,"No Response",No,No,2.48,2025-01-04
+CMP-727180,NXT-114455,2024-10-13,"Contract Renewal","Device Upgrade",61.07,Phone,Yes,Interested,Yes,Yes,7.50,2024-10-29
+CMP-718981,NXT-110067,2025-02-01,"Network Recovery","Device Upgrade",33.51,Phone,Yes,"Not Interested",No,No,1.46,2025-02-21
+CMP-717166,NXT-109138,2025-10-30,"Loyalty Campaign","Contract Upgrade",7.96,Email,Yes,Interested,Yes,No,29.22,2025-11-13
+CMP-704532,NXT-102503,2024-12-15,"Contract Renewal","Reduced Monthly Fee",17.13,WhatsApp,Yes,"No Response",No,No,2.64,2025-01-05
+CMP-708131,NXT-104430,2025-11-11,"At Risk","Bonus Minutes",180.00,WhatsApp,Yes,"Requested More Info",No,No,2.04,2025-11-30
+CMP-718219,NXT-109676,2023-10-14,"Network Recovery","Free Upgrade",96.76,SMS,Yes,,No,No,2.70,2023-10-24
+CMP-713216,NXT-107056,2025-10-25,"Network Recovery","Free Upgrade",45.76,Email,Yes,"No Response",No,Yes,2.49,2025-10-30
+CMP-707384,NXT-104039,2024-01-26,"Loyalty Campaign","Free Data",2.50,SMS,Yes,"No Response",NO,No,1.53,2024-02-06
+CMP-715110,NXT-108049,2024-01-10,"Win Back","Reduced Monthly Fee",35.45,Email,Yes,"Not Interested",No,No,1.13,2024-01-24
+CMP-707836,NXT-104279,2025-08-13,"Win Back","Free Upgrade",55.22,Email,Yes,Interested,Yes,No,3.34,2025-09-02
+CMP-702886,NXT-101597,2024-12-30,"Win Back","Reduced Monthly Fee",16.29,"App Notification",Yes,"No Response",No,No,1.74,2025-01-19
+CMP-714232,NXT-107581,2025-09-24,"High Value Customer","Reduced Monthly Fee",6.95,sms,Yes,"No Response",No,Yes,2.82,2025-10-05
+CMP-706229,NXT-103398,2025-10-29,"Loyalty Campaign","Device Upgrade",35.56,SMS,Yes,"Requested More Info",No,No,2.37,2025-11-10
+CMP-701695,NXT-100951,2025-11-25,"High Value Customer","Free Upgrade",92.45,Phone,Yes,Interested,Yes,Yes,57.26,2025-12-02
+CMP-722729,NXT-112069,2025-09-26,"Loyalty Campaign","Free Data",9.70,"App Notification",Yes,Interested,Yes,No,33.85,2025-10-10
+CMP-712043,NXT-106457,2024-04-23,"Loyalty Campaign","Free Upgrade",28.25,WhatsApp,Yes,"No Response",No,Yes,0.68,2024-05-15
+CMP-704629,NXT-102559,2024-08-09,"High Value Customer","Free Data",11.90,Phone,Yes,"No Response",No,No,1.10,2024-08-19
+CMP-704919,NXT-102712,2024-11-11,"At Risk","Contract Upgrade",36.45,WhatsApp,Yes,"Requested More Info",No,No,0.53,2024-12-05
+CMP-726321,NXT-113998,2024-12-13,"At Risk","Free Data",18.10,"App Notification",Yes,"Requested More Info",No,No,0.76,2024-12-23
+CMP-701514,NXT-100833,2024-08-26,"Win Back",Discount,NULL,Phone,No,,No,No,2.70,2024-09-02
+CMP-702377,NXT-101310,2024-12-27,"at risk",Discount,25.15,"App Notification",No,,No,No,0.21,2025-01-17
+CMP-715623,NXT-108337,2025-09-01,"Loyalty Campaign",Discount,35.79,Email,No,,No,Yes,2.67,2025-09-13
+CMP-714323,NXT-107630,2025-10-17,"Loyalty Campaign",Discount,33.64,"App Notification",Yes,"Not Interested",No,Yes,0.04,2025-11-15
+CMP-704182,NXT-102324,2025-08-19,"Win Back","Device Upgrade",62.13,WhatsApp,Yes,"Not Interested",No,No,0.35,2025-09-16
+CMP-701420,NXT-100778,2024-10-29,"Win Back","Free Data",16.80,Phone,Yes,Interested,Yes,No,6.52,2024-11-22
+CMP-707354,NXT-104019,2024-12-06,"Win Back","Free Data",3.70,"App Notification",Yes,"Not Interested",No,No,1.16,2024-12-30
+CMP-728049,NXT-114930,2024-04-19,"High Value Customer","Free Upgrade",59.44,"App Notification",Yes,,No,No,2.61,2024-04-24
+CMP-721169,NXT-111226,2025-07-29,"loyalty campaign","Free Upgrade",NULL,SMS,Yes,"Requested More Info",No,No,0.76,2025-08-06
+CMP-707839,NXT-104282,2025-08-19,"High Value Customer","Bonus Minutes",322.00,Email,Yes,"Requested More Info",No,No,2.08,2025-09-17
+CMP-719481,NXT-110337,2024-08-30,"At Risk","Free Upgrade",31.47,Email,Yes,"No Response",No,No,NULL,2024-09-06
+CMP-711901,NXT-106380,2025-05-08,"High Value Customer",Discount,10.78,SMS,Yes,"No Response",No,No,1.40,2025-05-26
+CMP-710825,NXT-105812,2024-01-13,"High Value Customer","Bonus Minutes",95.00,WhatsApp,Yes,"Not Interested",No,No,1.34,2024-02-04
+CMP-713383,NXT-107134,2025-07-10,"Loyalty Campaign","Bonus Minutes",284.00,"App Notification",YES,"Not Interested",No,No,2.18,2025-07-19
+CMP-724045,NXT-112819,2024-04-27,"Win Back","Reduced Monthly Fee",12.65,SMS,Yes,Interested,Yes,No,36.58,2024-04-30
+CMP-707963,NXT-104348,2025-05-08,"Contract Renewal","Reduced Monthly Fee",8.36,SMS,Yes,"Not Interested",No,Yes,0.57,2025-06-07
+CMP-711293,NXT-106044,2024-04-24,"Network Recovery","Reduced Monthly Fee",31.06,WhatsApp,No,,no,No,0.37,2024-05-03
+CMP-721039,NXT-111170,2025-03-24,"At Risk",Discount,21.49,Email,No,,No,No,2.50,2025-03-28
+CMP-715135,NXT-108068,2025-07-09,"Contract Renewal","Free Data",13.20,Phone,Yes,"Requested More Info",No,Yes,1.94,2025-07-26
+CMP-721946,NXT-111661,2025-08-07,"Contract Renewal","Reduced Monthly Fee",11.17,PHONE,Yes,"Requested More Info",No,Yes,2.96,2025-08-27
+CMP-700559,NXT-100295,2024-10-18,"Network Recovery","Device Upgrade",24.36,Phone,Yes,"Requested More Info",No,No,0.32,2024-11-06
+CMP-726264,NXT-113970,2025-08-09,"Network Recovery","Free Data",19.00,WhatsApp,Yes,"Not Interested",No,No,0.37,2025-08-22
+CMP-714032,NXT-107480,2025-04-01,"High Value Customer","Reduced Monthly Fee",28.84,Email,Yes,Interested,No,No,2.23,2025-04-15
+CMP-711152,NXT-105976,2023-12-05,"High Value Customer","Bonus Minutes",456.00,SMS,No,,No,No,0.95,2023-12-21
+CMP-708443,NXT-104588,2025-04-01,"Win Back","Bonus Minutes",460.00,Phone,Yes,"Requested More Info",No,No,0.92,2025-04-15
+CMP-715852,NXT-108452,2024-09-23,"High Value Customer","Reduced Monthly Fee",32.45,WhatsApp,Yes,"Not Interested",No,no,2.67,2024-10-12
+CMP-718327,NXT-109733,2025-07-14,"At Risk","Bonus Minutes",173.00,WhatsApp,Yes,"Not Interested",No,Yes,2.32,2025-07-20
+CMP-703398,NXT-101897,2025-07-19,"Contract Renewal",Discount,18.27,WhatsApp,Yes,Interested,Yes,No,37.48,2025-08-04
+CMP-712221,NXT-106557,2024-08-28,"Contract Renewal","Reduced Monthly Fee",12.88,"App Notification",Yes,Interested,Yes,Yes,4.17,2024-09-13
+CMP-700431,NXT-100231,2025-07-19,"At Risk","Contract Upgrade",NULL,WhatsApp,No,,No,No,2.47,2025-07-23
+CMP-725915,NXT-113774,2025-08-12,"Contract Renewal","Reduced Monthly Fee",7.16,"App Notification",Yes,"Requested More Info",No,No,1.64,2025-09-06
+CMP-708209,NXT-104466,2024-01-07,"Loyalty Campaign","Contract Upgrade",92.19,Email,No,,No,Yes,2.43,2024-01-13
+CMP-727689,NXT-114733,2025-10-21,"Loyalty Campaign","Reduced Monthly Fee",16.17,Phone,Yes,Interested,Yes,Yes,4.30,2025-10-26
+CMP-723080,NXT-112260,2025-08-02,"High Value Customer","Reduced Monthly Fee",36.99,"App Notification",Yes,"Not Interested",No,Yes,0.99,2025-08-11
+CMP-700722,NXT-100388,2025-04-05,"At Risk","Bonus Minutes",206.00,Email,No,,No,Yes,0.50,2025-04-14
+CMP-709881,NXT-105314,2025-07-06,"High Value Customer","Free Upgrade",3.39,Phone,No,,No,No,0.64,2025-07-13
+CMP-709164,NXT-104958,2023-08-10,"High Value Customer",Discount,21.65,"App Notification",Yes,Interested,Yes,Yes,51.12,2023-08-16
+CMP-715888,NXT-108474,2024-05-07,"High Value Customer",Discount,34.87,WhatsApp,Yes,Interested,Yes,Yes,35.54,2024-05-24
+CMP-702605,NXT-101442,2025-10-26,"At Risk","Device Upgrade",12.25,Phone,Yes,"Requested More Info",No,No,1.37,2025-11-24
+CMP-709074,NXT-104916,2024-03-12,"Loyalty Campaign","Free Data",12.50,"App Notification",Yes,"Not Interested",No,No,2.19,2024-04-10
+CMP-718724,NXT-109952,2025-02-11,"Loyalty Campaign",Discount,NULL,Email,Yes,Interested,No,No,NULL,2025-03-01
+CMP-719232,NXT-110202,2024-12-15,"Loyalty Campaign","Free Data",14.60,Email,Yes,"Not Interested",No,Yes,0.69,2024-12-20
+CMP-702473,NXT-101365,2024-12-05,"Network Recovery","Bonus Minutes",107.00,"App Notification",Yes,"Requested More Info",No,No,0.09,2024-12-19
+CMP-727462,NXT-114603,2024-10-19,"At Risk",Discount,18.32,SMS,Yes,"No Response",No,No,1.52,2024-10-26
+CMP-708526,NXT-104630,2024-08-26,"High Value Customer","Reduced Monthly Fee",30.34,WhatsApp,Yes,"Requested More Info",No,Yes,0.42,2024-09-13
+CMP-712749,NXT-106824,2025-04-12,"At Risk","Device Upgrade",3.59,"App Notification",No,,No,Yes,2.05,2025-04-28
+CMP-714850,NXT-107914,2025-10-11,"Network Recovery","Reduced Monthly Fee",NULL,Phone,Yes,"No Response",No,No,2.94,2025-11-04
+CMP-700957,NXT-100525,2023-09-11,"High Value Customer","Bonus Minutes",354.00,"App Notification",Yes,Interested,No,Yes,0.99,2023-10-04
+CMP-711189,NXT-105991,2025-04-02,"Loyalty Campaign","Contract Upgrade",57.25,WhatsApp,Yes,"No Response",No,No,0.99,2025-04-16
+CMP-712501,NXT-106703,2024-10-11,"High Value Customer","Device Upgrade",56.93,"App Notification",Yes,Interested,YES,Yes,39.48,2024-10-30
+CMP-705545,NXT-103037,2025-07-29,"win back","Free Data",16.10,Phone,No,,NO,No,0.96,2025-08-15
+CMP-713332,NXT-107112,2024-07-18,"Loyalty Campaign","Free Upgrade",72.51,"App Notification",Yes,Interested,Yes,Yes,56.96,2024-08-13
+CMP-704493,NXT-102485,2025-03-21,"Win Back","Free Upgrade",73.69,WhatsApp,Yes,"Not Interested",No,Yes,0.18,2025-04-14
+CMP-709036,NXT-104895,2024-04-20,"Loyalty Campaign",Discount,26.47,SMS,Yes,Interested,Yes,No,54.92,2024-05-08
+CMP-719815,NXT-110529,2025-11-04,"High Value Customer",Discount,17.95,SMS,Yes,Interested,Yes,Yes,NULL,2025-11-10
+CMP-727758,NXT-114770,2025-06-13,"Win Back","Reduced Monthly Fee",19.71,Email,Yes,"No Response",No,No,2.66,2025-07-01
+CMP-724613,NXT-113119,2023-07-19,"Contract Renewal","Reduced Monthly Fee",8.33,WhatsApp,Yes,Interested,No,No,0.77,2023-08-05
+CMP-701142,NXT-100628,2023-06-18,"Loyalty Campaign","Contract Upgrade",17.12,WhatsApp,Yes,"Not Interested",No,Yes,0.27,2023-07-06
+CMP-722933,NXT-112176,2025-05-13,"Network Recovery","Bonus Minutes",384.00,WhatsApp,Yes,"No Response",No,No,2.24,2025-05-28
+CMP-704881,NXT-102692,2025-01-08,"high value customer","Device Upgrade",41.35,"App Notification",Yes,Interested,Yes,Yes,27.13,2025-01-22
+CMP-713136,NXT-107018,2023-12-29,"NETWORK RECOVERY","Bonus Minutes",348.00,SMS,Yes,Interested,Yes,No,50.23,2024-01-04
+CMP-727369,NXT-114547,2024-10-12,"High Value Customer",Discount,29.89,WhatsApp,No,,No,No,2.94,2024-10-15
+CMP-718625,NXT-109895,2024-04-04,"Loyalty Campaign","Free Data",15.10,Phone,Yes,,No,Yes,2.72,2024-04-22
+CMP-714296,NXT-107615,2025-02-01,"Win Back","Free Upgrade",62.83,WhatsApp,Yes,"No Response",No,Yes,1.91,2025-02-07
+CMP-703753,NXT-102079,2025-10-06,"Loyalty Campaign",Discount,38.65,"App Notification",yes,"No Response",No,No,0.88,2025-10-26
+CMP-725835,NXT-113734,2025-02-17,"Network Recovery",Discount,30.81,Email,Yes,"Requested More Info",No,No,2.61,2025-03-12
+CMP-707498,NXT-104096,2025-10-05,"High Value Customer","DEVICE UPGRADE",73.31,SMS,No,,No,No,2.01,2025-11-03
+CMP-712713,NXT-106812,2025-04-27,"win back","Free Data",15.20,SMS,Yes,"Not Interested",No,No,2.05,2025-05-03
+CMP-700624,NXT-100321,2024-08-24,"Win Back","Contract Upgrade",88.98,Phone,Yes,"Requested More Info",No,Yes,2.49,2024-09-13
+CMP-708031,NXT-104385,2024-01-28,"Win Back","Reduced Monthly Fee",38.54,SMS,Yes,Interested,No,No,0.33,2024-02-24
+CMP-724831,NXT-113214,2025-04-06,"At Risk","Free Upgrade",75.49,Email,Yes,Interested,No,No,2.49,2025-04-16
+CMP-704427,NXT-102447,2025-04-20,"High Value Customer",Discount,7.66,SMS,No,,No,Yes,2.89,2025-05-06
+CMP-722832,NXT-112116,2025-03-06,"Contract Renewal","Device Upgrade",73.88,Email,Yes,"Not Interested",No,Yes,2.58,2025-03-22
+CMP-713174,NXT-107036,2025-10-07,"Win Back","Device Upgrade",44.94,SMS,Yes,Interested,No,yes,2.83,2025-11-02
+CMP-710202,NXT-105475,2025-09-19,"Contract Renewal","Bonus Minutes",293.00,Email,No,,No,Yes,2.55,2025-09-23
+CMP-726343,NXT-114010,2023-10-15,"Contract Renewal","Bonus Minutes",456.00,SMS,Yes,"Not Interested",No,No,0.11,2023-11-14
+CMP-711171,NXT-105982,2025-05-06,"High Value Customer","BONUS MINUTES",203.00,Phone,Yes,"No Response",No,Yes,2.85,2025-05-15
+CMP-715575,NXT-108312,2024-03-13,"At Risk","Free Upgrade",13.13,"App Notification",Yes,"Not Interested",No,No,1.86,2024-04-04
+CMP-724441,NXT-113030,2025-07-21,"Contract Renewal","Reduced Monthly Fee",16.46,Email,Yes,Interested,Yes,Yes,43.38,2025-08-12
+CMP-712451,NXT-106681,2024-11-15,"At Risk","Free Data",6.30,Email,Yes,"No Response",No,No,1.65,2024-12-03
+CMP-722340,NXT-111881,2024-11-19,"High Value Customer",Discount,38.40,SMS,Yes,"Not Interested",No,Yes,1.89,2024-11-24
+CMP-710791,NXT-105788,2024-07-30,"Win Back","Contract Upgrade",20.26,WhatsApp,Yes,"Requested More Info",No,Yes,1.15,2024-08-14
+CMP-713305,NXT-107096,2024-02-26,"High Value Customer","Free Data",15.00,SMS,Yes,Interested,Yes,Yes,32.13,2024-03-05
+CMP-702168,NXT-101200,2024-09-27,"high value customer",Discount,16.29,SMS,Yes,"Not Interested",No,Yes,1.95,2024-10-09
+CMP-704177,NXT-102324,2025-01-31,"At Risk","Reduced Monthly Fee",10.47,Phone,Yes,"Requested More Info",No,No,0.12,2025-02-11
+CMP-713500,NXT-107186,2024-01-20,"Network Recovery",Discount,21.30,"App Notification",Yes,"Not Interested",No,No,0.81,2024-02-09
+CMP-711631,NXT-106230,2025-11-20,"LOYALTY CAMPAIGN","Bonus Minutes",485.00,Email,Yes,Interested,Yes,Yes,26.52,2025-12-12
+CMP-700949,NXT-100518,2024-03-24,"High Value Customer","Device Upgrade",48.00,Email,Yes,"Not Interested",No,Yes,1.62,2024-04-07
+CMP-701530,NXT-100845,2025-12-22,"Win Back","Free Data",19.10,Email,Yes,"Not Interested",No,Yes,2.89,2026-01-04
+CMP-706857,NXT-103754,2025-03-16,"Loyalty Campaign","Device Upgrade",67.31,WhatsApp,Yes,"Not Interested",No,No,1.41,2025-04-09
+CMP-722005,NXT-111702,2024-11-19,"Contract Renewal","Contract Upgrade",96.01,"APP NOTIFICATION",Yes,"Not Interested",No,No,1.43,2024-12-12
+CMP-717217,NXT-109165,2025-03-15,"High Value Customer","Reduced Monthly Fee",37.69,"App Notification",Yes,"Requested More Info",No,No,1.02,2025-04-03
+CMP-724031,NXT-112813,2025-10-20,"CONTRACT RENEWAL","Device Upgrade",92.33,"App Notification",Yes,"Requested More Info",No,Yes,1.04,2025-10-28
+CMP-705110,NXT-102797,2025-05-22,"At Risk","Reduced Monthly Fee",10.54,Email,Yes,"No Response",No,No,1.70,2025-06-10
+CMP-717469,NXT-109305,2025-04-19,"Loyalty Campaign","Contract Upgrade",79.87,Email,No,,No,Yes,1.06,2025-05-19
+CMP-716601,NXT-108840,2024-11-13,"Contract Renewal","Free Data",NULL,"App Notification",No,,No,No,0.32,2024-11-18
+CMP-713238,NXT-107063,2023-12-01,"High Value Customer","Free Upgrade",11.61,WhatsApp,Yes,"Not Interested",No,No,2.39,2023-12-11
+CMP-727508,NXT-114625,2025-12-15,"High Value Customer","Reduced Monthly Fee",6.67,Email,Yes,"Not Interested",No,Yes,1.58,2025-12-20
+CMP-709986,NXT-105369,2025-02-01,"Contract Renewal",Discount,39.95,SMS,No,,No,No,0.97,2025-02-27
+CMP-722133,NXT-111765,2025-05-12,"Win Back","Free Upgrade",0.66,Email,No,,No,No,1.75,2025-06-03
+CMP-720772,NXT-111021,2023-07-19,"Network Recovery","Reduced Monthly Fee",38.84,Email,Yes,"No Response",No,No,0.29,2023-07-27
+CMP-714637,NXT-107801,2025-04-03,"Loyalty Campaign","Free Upgrade",24.24,Phone,Yes,"No Response",No,Yes,2.24,2025-04-27
+CMP-701266,NXT-100702,2024-09-01,"Contract Renewal","Reduced Monthly Fee",8.72,Phone,Yes,"No Response",no,No,2.24,2024-09-13
+CMP-725753,NXT-113695,2025-10-19,"Contract Renewal","Free Upgrade",3.06,SMS,Yes,"Not Interested",No,No,1.03,2025-11-12
+CMP-706228,NXT-103398,2025-12-27,"At Risk","Contract Upgrade",9.76,Email,Yes,Interested,Yes,No,NULL,2026-01-07
+CMP-716839,NXT-108958,2025-07-13,"Loyalty Campaign",Discount,10.98,WhatsApp,Yes,"Not Interested",No,No,1.39,2025-08-06
+CMP-726408,NXT-114041,2025-12-17,"High Value Customer",Discount,32.61,SMS,Yes,"No Response",No,Yes,1.40,2026-01-06
+CMP-722895,NXT-112150,2025-08-06,"Network Recovery","Bonus Minutes",289.00,Email,Yes,"Not Interested",No,No,0.61,2025-08-15
+CMP-709574,NXT-105158,2025-10-21,"High Value Customer","Contract Upgrade",98.40,WHATSAPP,No,,No,No,0.49,2025-10-29
+CMP-710572,NXT-105677,2025-08-27,"Loyalty Campaign","Bonus Minutes",236.00,"App Notification",Yes,Interested,No,Yes,0.58,2025-09-19
+CMP-725111,NXT-113363,2025-03-01,"High Value Customer","Bonus Minutes",406.00,WhatsApp,Yes,"Requested More Info",No,Yes,0.57,2025-03-09
+CMP-721462,NXT-111389,2023-08-26,"At Risk","Reduced Monthly Fee",29.18,Phone,Yes,,No,Yes,2.77,2023-09-02
+CMP-718770,NXT-109971,2025-12-25,"At Risk","Free Upgrade",62.19,SMS,Yes,,No,Yes,1.19,2026-01-22
+CMP-704686,NXT-102599,2024-09-13,"Contract Renewal","Reduced Monthly Fee",8.28,Email,Yes,"Requested More Info",No,No,0.09,2024-09-26
+CMP-726780,NXT-114224,2025-11-05,"Loyalty Campaign","Device Upgrade",27.15,SMS,Yes,"Not Interested",No,Yes,2.61,2025-11-17
+CMP-715651,NXT-108349,2025-07-29,"At Risk","Device Upgrade",8.81,SMS,Yes,"No Response",No,No,0.10,2025-08-05
+CMP-711381,NXT-106092,2024-09-19,"High Value Customer","Bonus Minutes",453.00,WhatsApp,Yes,"No Response",No,No,0.34,2024-09-24
+CMP-717359,NXT-109237,2025-10-02,"High Value Customer","Bonus Minutes",463.00,Email,Yes,Interested,Yes,Yes,33.97,2025-10-08
+CMP-721737,NXT-111545,2025-09-06,"Loyalty Campaign","Contract Upgrade",7.94,"App Notification",No,,No,No,2.75,2025-09-14
+CMP-720475,NXT-110873,2025-12-07,"Contract Renewal","Device Upgrade",33.82,Phone,Yes,"No Response",No,Yes,1.51,2026-01-04
+CMP-718801,NXT-109985,2023-10-11,"Win Back","Free Data",17.10,SMS,Yes,"Not Interested",No,No,0.31,2023-11-10
+CMP-707949,NXT-104341,2025-04-27,"High Value Customer","Contract Upgrade",71.82,"App Notification",Yes,"Not Interested",No,Yes,1.92,2025-05-19
+CMP-709361,NXT-105054,2023-09-26,"High Value Customer","Free Upgrade",80.46,Email,Yes,"No Response",No,Yes,0.82,2023-10-15
+CMP-713968,NXT-107451,2025-06-04,"High Value Customer","Free Upgrade",76.25,WhatsApp,YES,"Not Interested",No,Yes,1.50,2025-06-20
+CMP-723647,NXT-112595,2024-03-26,"At Risk","Contract Upgrade",30.58,Phone,Yes,Interested,Yes,Yes,53.17,2024-04-03
+CMP-712806,NXT-106846,2025-06-30,"At Risk",Discount,20.59,WhatsApp,Yes,Interested,Yes,No,59.72,2025-07-04
+CMP-713870,NXT-107385,2023-09-17,"CONTRACT RENEWAL",Discount,27.54,WhatsApp,No,,No,No,0.98,2023-10-04
+CMP-727997,NXT-114900,2025-12-11,"High Value Customer","Reduced Monthly Fee",15.06,WhatsApp,Yes,"Not Interested",No,Yes,1.82,2026-01-04
+CMP-705740,NXT-103145,2024-12-12,"Win Back","Free Upgrade",22.99,Email,Yes,"No Response",No,No,0.23,2024-12-26
+CMP-723414,NXT-112461,2023-07-05,"Network Recovery","Free Data",9.00,Phone,Yes,"Not Interested",No,Yes,2.98,2023-08-04
+CMP-710473,NXT-105629,2024-10-31,"Network Recovery","Reduced Monthly Fee",7.25,Phone,Yes,"Requested More Info",No,No,0.13,2024-11-26
+CMP-706888,NXT-103776,2025-02-09,"Loyalty Campaign",Discount,38.77,Phone,No,,No,No,2.37,2025-02-14
+CMP-703328,NXT-101856,2025-01-28,"At Risk","Free Upgrade",42.24,Email,No,,No,No,1.90,2025-02-27
+CMP-709783,NXT-105268,2025-01-25,"At Risk","Contract Upgrade",98.36,SMS,No,,No,No,0.43,2025-02-01
+CMP-706525,NXT-103562,2024-08-24,"Loyalty Campaign","Free Data",14.20,SMS,Yes,"Not Interested",No,No,0.14,2024-08-28
+CMP-713289,NXT-107090,2025-08-24,"Contract Renewal","Reduced Monthly Fee",8.53,Email,Yes,"No Response",No,Yes,0.05,2025-08-30
+CMP-711876,NXT-106367,2025-11-27,"Win Back","Device Upgrade",4.78,"App Notification",Yes,"Not Interested",No,Yes,1.40,2025-12-27
+CMP-701278,NXT-100709,2023-06-14,"Network Recovery","Free Upgrade",NULL,"APP NOTIFICATION",No,,No,no,1.47,2023-06-18
+CMP-700743,NXT-100406,2025-07-02,"High Value Customer","Bonus Minutes",423.00,WhatsApp,Yes,Interested,Yes,No,31.48,2025-07-16
+CMP-718105,NXT-109622,2024-07-21,"High Value Customer","Bonus Minutes",344.00,Phone,Yes,Interested,No,No,1.88,2024-08-01
+CMP-716925,NXT-109000,2024-09-29,"High Value Customer","Contract Upgrade",51.65,Phone,Yes,"Not Interested",No,No,1.78,2024-10-12
+CMP-714804,NXT-107879,2024-07-13,"Network Recovery","Reduced Monthly Fee",27.94,"App Notification",Yes,"Not Interested",No,No,2.37,2024-07-28
+CMP-700127,NXT-100062,2025-02-27,"Win Back","Reduced Monthly Fee",35.51,Email,no,,No,No,2.94,2025-03-24
+CMP-710313,NXT-105537,2025-09-16,"High Value Customer","Free Data",9.00,SMS,No,,No,No,0.65,2025-09-20
+CMP-706786,NXT-103717,2023-12-20,"High Value Customer",Discount,21.99,WhatsApp,Yes,"Not Interested",No,No,2.43,2023-12-28
+CMP-714250,NXT-107586,2025-07-16,"Win Back","Contract Upgrade",95.87,Phone,No,,No,No,0.63,2025-07-28
+CMP-724228,NXT-112916,2025-10-14,"At Risk","Free Upgrade",8.29,WhatsApp,No,,No,No,2.10,2025-10-25
+CMP-721704,NXT-111529,2025-08-28,"At Risk","Device Upgrade",34.54,Phone,YES,"No Response",No,Yes,0.16,2025-09-12
+CMP-725287,NXT-113446,2024-03-15,"loyalty campaign","Device Upgrade",40.31,SMS,No,,No,No,2.25,2024-03-25
+CMP-722516,NXT-111969,2025-05-10,"Loyalty Campaign","Device Upgrade",NULL,WhatsApp,Yes,"Not Interested",no,Yes,2.89,2025-06-08
+CMP-709591,NXT-105165,2024-11-14,"High Value Customer","Free Upgrade",67.71,WhatsApp,Yes,"Not Interested",No,No,2.08,2024-12-08
+CMP-709384,NXT-105066,2024-10-13,"Loyalty Campaign","Contract Upgrade",53.33,WhatsApp,Yes,"Not Interested",No,Yes,2.51,2024-10-25
+CMP-718993,NXT-110073,2023-12-20,"Win Back","Free Upgrade",66.16,Phone,No,,No,Yes,1.90,2023-12-31
+CMP-721989,NXT-111694,2025-02-12,"High Value Customer","Device Upgrade",54.61,Email,Yes,Interested,Yes,Yes,8.90,2025-03-05
+CMP-711062,NXT-105932,2023-12-03,"Loyalty Campaign","Device Upgrade",NULL,Email,No,,No,No,0.31,2023-12-08
+CMP-702093,NXT-101160,2024-02-16,"Loyalty Campaign","Free Upgrade",85.46,WhatsApp,Yes,"No Response",No,No,1.25,2024-02-28
+CMP-714211,NXT-107572,2025-04-02,"At Risk",Discount,37.44,WhatsApp,Yes,Interested,Yes,Yes,28.17,2025-04-14
+CMP-711479,NXT-106143,2024-09-15,"High Value Customer","Reduced Monthly Fee",NULL,Email,Yes,"No Response",No,No,2.74,2024-10-06
+CMP-717946,NXT-109546,2025-06-25,"High Value Customer",Discount,20.33,"App Notification",Yes,"No Response",No,Yes,1.32,2025-07-24
+CMP-720202,NXT-110722,2025-06-06,"High Value Customer","Free Data",9.10,"App Notification",Yes,Interested,Yes,No,NULL,2025-06-15
+CMP-709659,NXT-105199,2025-07-04,"Contract Renewal",Discount,27.50,WhatsApp,Yes,Interested,No,No,1.31,2025-07-21
+CMP-715097,NXT-108042,2025-04-30,"CONTRACT RENEWAL","Free Data",19.70,Phone,Yes,Interested,No,Yes,0.08,2025-05-29
+CMP-701535,NXT-100848,2025-11-22,"Loyalty Campaign","Contract Upgrade",94.60,Email,No,,No,Yes,1.22,2025-12-19
+CMP-708825,NXT-104795,2024-12-17,"Contract Renewal","Free Upgrade",18.93,Phone,Yes,"Not Interested",No,No,1.83,2025-01-13
+CMP-700796,NXT-100435,2025-05-28,"Win Back","Device Upgrade",NULL,Phone,Yes,Interested,No,No,2.13,2025-06-13
+CMP-709018,NXT-104888,2025-11-21,"Loyalty Campaign","Contract Upgrade",64.76,"App Notification",No,,No,Yes,1.32,2025-12-18
+CMP-723309,NXT-112391,2025-10-14,"Loyalty Campaign","Reduced Monthly Fee",27.89,WhatsApp,Yes,"Not Interested",No,No,NULL,2025-10-28
+CMP-706912,NXT-103789,2024-08-19,"Win Back","Free Data",5.40,Email,No,,No,Yes,1.27,2024-09-08
+CMP-711485,NXT-106146,2025-09-05,"High Value Customer","Device Upgrade",40.09,SMS,Yes,"No Response",No,Yes,1.64,2025-10-01
+CMP-718810,NXT-109987,2025-10-16,"High Value Customer","Contract Upgrade",59.83,EMAIL,Yes,"Not Interested",No,No,2.01,2025-11-12
+CMP-721699,NXT-111527,2025-12-29,"High Value Customer",Discount,36.65,"App Notification",No,,No,yes,1.72,2026-01-20
+CMP-725816,NXT-113727,2024-07-12,"Contract Renewal","Contract Upgrade",13.20,Phone,Yes,"Requested More Info",No,Yes,2.52,2024-07-28
+CMP-708578,NXT-104657,2024-09-27,"Contract Renewal","Contract Upgrade",54.47,WhatsApp,Yes,"Not Interested",No,Yes,0.14,2024-10-11
+CMP-705962,NXT-103263,2024-06-07,"Loyalty Campaign","Contract Upgrade",39.26,SMS,No,,No,Yes,2.66,2024-06-27
+CMP-710109,NXT-105432,2025-08-12,"Loyalty Campaign","Contract Upgrade",56.23,SMS,Yes,"No Response",No,No,2.90,2025-08-27
+CMP-719753,NXT-110494,2025-01-22,"Contract Renewal","Free Upgrade",NULL,SMS,Yes,Interested,no,No,0.93,2025-02-06
+CMP-727551,NXT-114654,2025-11-09,"Loyalty Campaign","Free Data",9.60,Phone,Yes,"Requested More Info",No,Yes,2.36,2025-11-16
+CMP-712648,NXT-106773,2024-02-15,"Loyalty Campaign","Contract Upgrade",89.44,Phone,Yes,"Not Interested",No,No,NULL,2024-02-25
+CMP-719209,NXT-110190,2025-08-10,"Loyalty Campaign","Reduced Monthly Fee",14.60,SMS,YES,Interested,No,Yes,1.09,2025-09-09
+CMP-725757,NXT-113696,2025-09-10,"At Risk","Device Upgrade",65.15,Email,No,,No,No,1.60,2025-09-20
+CMP-702133,NXT-101182,2024-01-11,"Win Back",Discount,36.35,Email,Yes,"No Response",No,No,2.48,2024-02-10
+CMP-710818,NXT-105808,2024-09-29,"Contract Renewal","Contract Upgrade",81.71,SMS,Yes,"Not Interested",No,No,1.83,2024-10-06
+CMP-722917,NXT-112164,2025-12-18,"Contract Renewal",Discount,28.42,Phone,Yes,"No Response",No,Yes,0.60,2025-12-22
+CMP-721992,NXT-111695,2025-08-30,"At Risk","Device Upgrade",30.30,Phone,Yes,"No Response",No,Yes,0.05,2025-09-03
+CMP-728168,NXT-114984,2024-03-24,"Win Back","Device Upgrade",62.12,Email,Yes,"Not Interested",No,No,0.27,2024-04-05
+CMP-727576,NXT-114666,2023-10-01,"Contract Renewal",Discount,13.20,SMS,No,,No,No,2.73,2023-10-19
+CMP-712637,NXT-106768,2024-12-24,"Contract Renewal","Bonus Minutes",300.00,SMS,Yes,Interested,Yes,Yes,29.52,2025-01-21
+CMP-719527,NXT-110358,2025-10-02,"At Risk",Discount,7.50,EMAIL,No,,No,No,2.51,2025-10-06
+CMP-717274,NXT-109190,2024-11-20,"At Risk","Free Upgrade",12.59,Email,Yes,"Not Interested",No,No,2.92,2024-12-09
+CMP-701139,NXT-100628,2023-12-26,"High Value Customer","Device Upgrade",14.39,WhatsApp,Yes,Interested,Yes,Yes,56.86,2023-12-29
+CMP-725826,NXT-113731,2025-06-12,"Contract Renewal","Free Upgrade",28.15,WhatsApp,Yes,"Not Interested",No,Yes,2.92,2025-07-12
+CMP-720633,NXT-110956,2025-06-11,"At Risk","Free Data",5.20,WHATSAPP,Yes,,No,No,2.46,2025-06-30
+CMP-712554,NXT-106731,2025-09-12,"Loyalty Campaign",Discount,38.43,"App Notification",Yes,"Requested More Info",No,Yes,1.13,2025-10-03
+CMP-720211,NXT-110728,2024-09-20,"Contract Renewal","Reduced Monthly Fee",7.58,Email,Yes,"Not Interested",NO,Yes,1.59,2024-10-18
+CMP-727531,NXT-114644,2025-06-19,"At Risk","Free Data",3.80,"App Notification",Yes,Interested,no,No,0.75,2025-06-22
+CMP-719348,NXT-110264,2025-06-29,"Contract Renewal","Device Upgrade",70.54,WhatsApp,Yes,"Not Interested",No,No,0.22,2025-07-29
+CMP-710229,NXT-105491,2025-08-20,"Loyalty Campaign","Reduced Monthly Fee",24.54,"App Notification",Yes,"Not Interested",No,Yes,1.83,2025-09-13
+CMP-712751,NXT-106824,2024-10-05,"At Risk",Discount,18.26,"App Notification",Yes,"Not Interested",No,Yes,1.33,2024-11-02
+CMP-716321,NXT-108698,2024-03-25,"High Value Customer","Bonus Minutes",80.00,Email,Yes,"Not Interested",No,No,0.36,2024-03-30
+CMP-720837,NXT-111063,2025-09-26,"Loyalty Campaign","Free Data",5.40,Phone,Yes,Interested,no,Yes,1.96,2025-10-05
+CMP-715250,NXT-108132,2025-09-28,"Win Back",DISCOUNT,9.04,SMS,Yes,"Not Interested",No,No,1.46,2025-10-06
+CMP-722372,NXT-111898,2024-05-13,"Contract Renewal","Device Upgrade",56.51,Email,No,,No,No,0.16,2024-05-25
+CMP-701046,NXT-100583,2023-05-30,"High Value Customer","Contract Upgrade",20.81,WhatsApp,Yes,"Not Interested",No,YES,2.01,2023-06-08
+CMP-724094,NXT-112842,2025-05-18,"win back","Free Data",2.30,Phone,Yes,"No Response",No,No,1.73,2025-06-02
+CMP-719106,NXT-110130,2025-08-29,"High Value Customer",Discount,22.30,"App Notification",Yes,"Not Interested",No,Yes,1.04,2025-09-07
+CMP-714388,NXT-107676,2025-10-13,"At Risk","Contract Upgrade",39.57,Email,Yes,"No Response",No,No,0.51,2025-11-03
+CMP-713768,NXT-107326,2025-03-11,"High Value Customer",Discount,36.40,Email,Yes,"No Response",No,No,1.53,2025-04-01
+CMP-701921,NXT-101068,2023-07-07,"Loyalty Campaign",Discount,16.18,"App Notification",Yes,Interested,Yes,Yes,57.98,2023-07-17
+CMP-713715,NXT-107303,2025-01-05,"At Risk","Bonus Minutes",492.00,WhatsApp,No,,No,No,0.91,2025-01-08
+CMP-715430,NXT-108231,2024-04-07,"High Value Customer","Reduced Monthly Fee",12.23,Email,Yes,Interested,Yes,No,NULL,2024-04-27
+CMP-717648,NXT-109400,2024-10-30,"High Value Customer","bonus minutes",205.00,"App Notification",yes,"No Response",No,No,0.60,2024-11-26
+CMP-706915,NXT-103791,2025-08-14,"Win Back","Reduced Monthly Fee",11.59,Email,Yes,"Not Interested",No,No,1.16,2025-08-31
+CMP-726728,NXT-114197,2025-09-02,"High Value Customer","Reduced Monthly Fee",31.03,"App Notification",Yes,"Requested More Info",no,No,2.42,2025-09-09
+CMP-721956,NXT-111667,2025-06-29,"High Value Customer","Device Upgrade",79.51,SMS,Yes,"Not Interested",No,Yes,2.71,2025-07-16
+CMP-712107,NXT-106496,2025-02-13,"Contract Renewal","Device Upgrade",57.56,Phone,Yes,"Requested More Info",No,No,1.34,2025-03-13
+CMP-721698,NXT-111527,2024-11-25,"High Value Customer","Free Data",18.20,"App Notification",Yes,Interested,No,No,1.80,2024-12-09
+CMP-708707,NXT-104726,2025-05-19,"High Value Customer","Device Upgrade",57.81,"App Notification",Yes,Interested,Yes,Yes,8.38,2025-06-13
+CMP-704883,NXT-102694,2025-01-16,"High Value Customer","Free Upgrade",14.10,SMS,Yes,"Not Interested",No,No,2.52,2025-01-28
+CMP-721708,NXT-111531,2025-01-30,"At Risk","Device Upgrade",24.54,WhatsApp,yes,"Not Interested",No,No,1.49,2025-02-26
+CMP-723724,NXT-112627,2025-04-03,"Loyalty Campaign",Discount,26.12,SMS,No,,No,Yes,0.61,2025-04-25
+CMP-722590,NXT-112006,2024-03-28,"High Value Customer","Reduced Monthly Fee",34.99,WhatsApp,No,,No,Yes,2.68,2024-04-06
+CMP-713502,NXT-107186,2023-08-04,"High Value Customer","Free Data",18.00,Phone,Yes,"No Response",NO,No,1.91,2023-08-31
+CMP-711100,NXT-105954,2024-11-22,"Contract Renewal","Reduced Monthly Fee",25.45,WhatsApp,no,,No,No,0.30,2024-12-07
+CMP-721838,NXT-111587,2024-10-13,"Loyalty Campaign","bonus minutes",301.00,WhatsApp,No,,No,Yes,1.86,2024-10-31
+CMP-700997,NXT-100549,2025-02-07,"Loyalty Campaign","Free Data",19.50,SMS,Yes,"Not Interested",No,No,0.44,2025-03-07
+CMP-719355,NXT-110267,2024-11-06,"Contract Renewal","Free Data",18.90,WhatsApp,Yes,Interested,Yes,Yes,14.33,2024-11-29
+CMP-726498,NXT-114089,2025-10-12,"High Value Customer","Reduced Monthly Fee",25.90,Phone,Yes,"No Response",No,No,0.64,2025-11-07
+CMP-723344,NXT-112415,2025-02-21,"At Risk","Device Upgrade",2.49,SMS,Yes,"Requested More Info",No,No,2.08,2025-03-09
+CMP-714609,NXT-107790,2025-08-04,"Contract Renewal","Device Upgrade",85.12,"App Notification",YES,"Not Interested",No,No,2.49,2025-08-17
+CMP-720416,NXT-110833,2025-02-04,"At Risk","Contract Upgrade",69.12,Phone,Yes,Interested,Yes,YES,18.42,2025-02-20
+CMP-727969,NXT-114882,2024-07-21,"Contract Renewal","Contract Upgrade",13.33,WhatsApp,Yes,Interested,Yes,Yes,19.19,2024-08-02
+CMP-705106,NXT-102795,2025-07-30,"Contract Renewal","Bonus Minutes",352.00,"App Notification",Yes,Interested,No,Yes,2.87,2025-08-02
+CMP-704027,NXT-102238,2025-11-25,"Win Back","Free Data",9.40,Phone,No,,No,No,1.65,2025-12-25
+CMP-720123,NXT-110686,2024-10-13,"At Risk","Reduced Monthly Fee",35.18,Phone,YES,"Not Interested",No,No,0.19,2024-10-25
+CMP-710193,NXT-105472,2024-11-07,"Contract Renewal","Device Upgrade",3.12,Email,Yes,"No Response",No,No,0.57,2024-12-03
+CMP-703592,NXT-102000,2024-02-25,"High Value Customer","Contract Upgrade",99.61,Email,Yes,Interested,Yes,No,58.69,2024-03-21
+CMP-702724,NXT-101504,2025-07-07,"Contract Renewal","Contract Upgrade",NULL,"App Notification",Yes,"Not Interested",No,Yes,0.23,2025-07-13
+CMP-704217,NXT-102339,2025-10-08,"High Value Customer","Bonus Minutes",252.00,"App Notification",Yes,Interested,No,No,1.51,2025-11-01
+CMP-720613,NXT-110943,2024-07-08,"Loyalty Campaign",Discount,20.14,Phone,Yes,"Requested More Info",No,No,2.20,2024-08-06
+CMP-718631,NXT-109898,2025-04-03,"High Value Customer","Device Upgrade",67.24,"App Notification",Yes,Interested,Yes,No,35.34,2025-04-14
+CMP-710922,NXT-105864,2025-05-24,"at risk","Bonus Minutes",234.00,Whatsapp,Yes,"Not Interested",no,No,1.39,2025-05-31
+CMP-714549,NXT-107759,2025-02-15,"High Value Customer","Bonus Minutes",422.00,Phone,Yes,Interested,Yes,Yes,59.73,2025-03-15
+CMP-704746,NXT-102629,2025-06-13,"High Value Customer","Contract Upgrade",87.00,"App Notification",No,,No,No,0.54,2025-06-22
+CMP-725429,NXT-113520,2025-05-07,"At Risk","Free Data",NULL,"App Notification",Yes,Interested,No,No,0.83,2025-05-11
+CMP-727728,NXT-114755,2025-01-25,"Contract Renewal","Free Upgrade",95.41,SMS,Yes,"Not Interested",No,Yes,1.11,2025-02-24
+CMP-702561,NXT-101414,2025-03-24,"High Value Customer","Free Data",2.90,SMS,Yes,Interested,No,Yes,0.74,2025-04-23
+CMP-715217,NXT-108113,2025-03-31,"HIGH VALUE CUSTOMER","Reduced Monthly Fee",11.96,Phone,Yes,"Not Interested",No,No,1.70,2025-04-09
+CMP-705760,NXT-103154,2025-09-05,"Contract Renewal","Reduced Monthly Fee",13.33,Phone,Yes,Interested,Yes,Yes,2.02,2025-10-03
+CMP-716293,NXT-108686,2025-04-03,"Loyalty Campaign","Reduced Monthly Fee",24.76,SMS,Yes,"Not Interested",No,Yes,2.18,2025-04-23
+CMP-714177,NXT-107551,2025-11-29,"Network Recovery",Discount,18.68,Phone,Yes,Interested,Yes,No,27.73,2025-12-16
+CMP-721585,NXT-111465,2025-07-29,"Contract Renewal","Reduced Monthly Fee",28.28,SMS,Yes,"Requested More Info",No,yes,1.11,2025-08-28
+CMP-714202,NXT-107560,2024-07-30,"Loyalty Campaign","Contract Upgrade",NULL,"App Notification",No,,No,No,0.75,2024-08-16
+CMP-721436,NXT-111374,2025-07-08,"Network Recovery",Discount,NULL,WhatsApp,Yes,"No Response",No,No,0.48,2025-07-30
+CMP-724632,NXT-113126,2024-02-18,"Network Recovery","Free Upgrade",15.68,"App Notification",Yes,"No Response",No,No,0.43,2024-03-14
+CMP-722664,NXT-112037,2025-08-29,"Win Back","Bonus Minutes",173.00,Phone,Yes,"Requested More Info",No,No,NULL,2025-09-11
+CMP-713575,NXT-107230,2024-06-18,"High Value Customer","Contract Upgrade",76.54,Email,YES,"Not Interested",No,No,0.15,2024-06-22
+CMP-725897,NXT-113764,2025-04-03,"Contract Renewal","Free Upgrade",40.82,WhatsApp,Yes,Interested,Yes,YES,15.98,2025-04-27
+CMP-727961,NXT-114879,2025-07-25,"Contract Renewal","Device Upgrade",78.75,Phone,No,,No,Yes,2.74,2025-08-16
+CMP-714199,NXT-107559,2025-02-23,"Loyalty Campaign","Free Upgrade",74.31,WhatsApp,Yes,"Not Interested",No,Yes,1.05,2025-03-24
+CMP-719747,NXT-110491,2025-03-16,"Loyalty Campaign","Free Data",7.70,SMS,Yes,"Not Interested",No,No,1.88,2025-04-07
+CMP-722382,NXT-111903,2024-02-10,"Loyalty Campaign","Device Upgrade",24.01,Email,Yes,"No Response",No,Yes,1.41,2024-03-09
+CMP-708223,NXT-104474,2024-08-02,"Loyalty Campaign","Free Data",17.60,Phone,Yes,Interested,Yes,No,2.04,2024-08-17
+CMP-708714,NXT-104730,2025-04-20,"Loyalty Campaign","Free Upgrade",81.38,"App Notification",Yes,"Not Interested",No,Yes,1.44,2025-04-26
+CMP-718245,NXT-109696,2024-12-11,"Win Back","Device Upgrade",1.37,Phone,Yes,"Not Interested",No,No,1.06,2025-01-06
+CMP-708594,NXT-104661,2025-05-10,"Win Back",discount,18.82,SMS,No,,No,No,0.24,2025-06-09
+CMP-701853,NXT-101033,2025-03-26,"High Value Customer","Device Upgrade",81.83,SMS,Yes,"Not Interested",No,YES,0.95,2025-04-04
+CMP-718319,NXT-109727,2025-09-16,"Contract Renewal",Discount,25.99,Email,Yes,,No,No,2.06,2025-09-25
+CMP-723279,NXT-112371,2025-05-14,"At Risk",Discount,14.89,Email,Yes,"Not Interested",No,Yes,2.17,2025-05-25
+CMP-704216,NXT-102339,2024-08-06,"Loyalty Campaign","Device Upgrade",1.01,"App Notification",Yes,"Not Interested",No,No,1.69,2024-08-11
+CMP-716799,NXT-108937,2025-08-12,"Win Back","Contract Upgrade",37.46,"app notification",Yes,"No Response",No,No,2.56,2025-08-25
+CMP-700662,NXT-100342,2025-10-31,"Contract Renewal","Bonus Minutes",425.00,Phone,Yes,"No Response",No,Yes,0.96,2025-11-27
+CMP-717064,NXT-109071,2025-05-17,"At Risk","Free Data",6.40,SMS,Yes,"No Response",No,No,1.14,2025-05-23
+CMP-704249,NXT-102354,2025-12-14,"Win Back","Free Data",10.50,Phone,Yes,"Requested More Info",No,Yes,0.99,2026-01-09
+CMP-710645,NXT-105714,2024-03-09,"High Value Customer","Reduced Monthly Fee",32.34,Email,Yes,Interested,No,Yes,1.75,2024-04-07
+CMP-721038,NXT-111169,2025-02-04,"contract renewal","Device Upgrade",56.22,Phone,Yes,Interested,Yes,No,4.20,2025-02-22
+CMP-722561,NXT-111993,2025-02-23,"At Risk","Device Upgrade",3.71,WhatsApp,No,,No,Yes,1.72,2025-02-28
+CMP-706497,NXT-103552,2024-09-19,"Loyalty Campaign","Contract Upgrade",6.50,Email,Yes,"No Response",No,No,2.89,2024-10-02
+CMP-709736,NXT-105244,2025-08-20,"contract renewal","Reduced Monthly Fee",39.64,SMS,Yes,"Not Interested",No,No,1.57,2025-09-13
+CMP-712353,NXT-106633,2024-11-30,"Win Back","Contract Upgrade",5.84,"App Notification",No,,No,No,2.59,2024-12-28
+CMP-720794,NXT-111035,2025-03-01,"High Value Customer","Contract Upgrade",32.28,SMS,Yes,Interested,Yes,Yes,42.45,2025-03-09
+CMP-706257,NXT-103411,2024-05-03,"Contract Renewal","Device Upgrade",8.78,WhatsApp,Yes,"Not Interested",No,Yes,1.53,2024-05-27
+CMP-722484,NXT-111949,2024-07-18,"Loyalty Campaign","Reduced Monthly Fee",5.70,PHONE,No,,No,No,0.14,2024-08-01
+CMP-716997,NXT-109042,2025-09-29,"High Value Customer","Reduced Monthly Fee",17.11,Phone,Yes,"Requested More Info",No,No,NULL,2025-10-05
+CMP-723357,NXT-112421,2024-09-24,"Loyalty Campaign","Bonus Minutes",267.00,SMS,No,,No,Yes,0.36,2024-10-17
+CMP-717689,NXT-109419,2024-12-28,"Loyalty Campaign","Contract Upgrade",36.20,"App Notification",Yes,"Not Interested",No,No,0.68,2025-01-12
+CMP-702057,NXT-101140,2024-03-18,"At Risk",Discount,11.01,SMS,Yes,"No Response",No,No,1.01,2024-04-02
+CMP-721214,NXT-111252,2025-01-20,"High Value Customer","Device Upgrade",80.33,WhatsApp,Yes,Interested,Yes,No,52.82,2025-01-27
+CMP-704341,NXT-102408,2024-04-05,"Win Back","Bonus Minutes",430.00,"App Notification",Yes,Interested,Yes,No,14.73,2024-04-22
+CMP-711830,NXT-106340,2025-07-23,"Loyalty Campaign","Contract Upgrade",12.13,Phone,Yes,"Not Interested",No,Yes,0.42,2025-08-22
+CMP-718541,NXT-109854,2025-09-21,"Contract Renewal","Contract Upgrade",88.66,WhatsApp,Yes,"No Response",No,Yes,2.90,2025-10-04
+CMP-704515,NXT-102496,2024-06-06,"Contract Renewal","Device Upgrade",94.51,"App Notification",Yes,"Requested More Info",No,Yes,0.42,2024-06-25
+CMP-725130,NXT-113374,2024-02-02,"High Value Customer",Discount,9.64,Email,Yes,Interested,Yes,Yes,28.96,2024-02-24
+CMP-719045,NXT-110097,2025-10-12,"High Value Customer",Discount,10.63,SMS,Yes,Interested,Yes,Yes,21.30,2025-11-03
+CMP-707007,NXT-103833,2025-09-15,"Loyalty Campaign","Contract Upgrade",52.19,"App Notification",Yes,Interested,Yes,No,18.07,2025-10-10
+CMP-718844,NXT-110003,2025-08-12,"Network Recovery","Reduced Monthly Fee",37.17,SMS,Yes,"Not Interested",No,No,0.40,2025-08-27
+CMP-724484,NXT-113049,2025-03-18,"High Value Customer","Bonus Minutes",411.00,"App Notification",Yes,"Requested More Info",no,No,2.78,2025-03-26
+CMP-718605,NXT-109882,2025-01-10,"Win Back","Free Data",17.40,Email,Yes,"Not Interested",No,Yes,0.84,2025-02-05
+CMP-711221,NXT-106008,2025-06-02,"At Risk","Free Upgrade",3.56,Phone,Yes,"Not Interested",No,No,0.37,2025-06-10
+CMP-707853,NXT-104293,2025-12-16,"Loyalty Campaign","Device Upgrade",13.39,Email,Yes,Interested,Yes,Yes,14.53,2026-01-12
+CMP-714392,NXT-107679,2023-10-28,"At Risk","Free Upgrade",49.83,"App Notification",Yes,Interested,Yes,Yes,59.78,2023-11-02
+CMP-700870,NXT-100476,2024-02-01,"At Risk","Bonus Minutes",246.00,WhatsApp,Yes,Interested,Yes,Yes,50.68,2024-02-08
+CMP-711430,NXT-106121,2024-09-22,"High Value Customer","Device Upgrade",47.81,Phone,Yes,"Not Interested",NO,No,2.11,2024-10-06
+CMP-706142,NXT-103360,2025-06-25,"Loyalty Campaign","Reduced Monthly Fee",12.89,"App Notification",Yes,"Not Interested",No,Yes,1.79,2025-07-21
+CMP-707388,NXT-104040,2025-06-12,"Loyalty Campaign","Free Upgrade",98.96,whatsapp,Yes,"Not Interested",No,Yes,2.30,2025-07-09
+CMP-709180,NXT-104966,2024-08-14,"High Value Customer","Free Upgrade",49.50,"App Notification",No,,No,Yes,2.53,2024-09-08
+CMP-706502,NXT-103553,2025-10-04,"Contract Renewal","Reduced Monthly Fee",24.40,"App Notification",Yes,,No,Yes,2.63,2025-11-03
+CMP-717482,NXT-109313,2025-06-01,"High Value Customer",Discount,NULL,SMS,Yes,Interested,No,No,2.01,2025-06-23
+CMP-711526,NXT-106174,2025-10-05,"Win Back","Device Upgrade",48.61,SMS,No,,No,No,NULL,2025-10-20
+CMP-716950,NXT-109018,2023-12-17,"LOYALTY CAMPAIGN","Free Upgrade",56.07,WhatsApp,No,,No,No,1.38,2024-01-11
+CMP-722784,NXT-112094,2025-09-16,"High Value Customer","Device Upgrade",44.62,"App Notification",Yes,Interested,Yes,No,46.53,2025-09-28
+CMP-723422,NXT-112467,2025-09-10,"At Risk","Free Upgrade",45.56,"App Notification",Yes,"Not Interested",No,Yes,1.99,2025-09-28
+CMP-727685,NXT-114730,2025-03-09,"Contract Renewal","Contract Upgrade",72.42,Phone,Yes,"Not Interested",No,No,2.42,2025-03-28
+CMP-713453,NXT-107160,2024-10-06,"High Value Customer","Free Upgrade",36.07,"App Notification",Yes,Interested,Yes,Yes,47.90,2024-10-13
+CMP-720627,NXT-110950,2025-02-04,"At Risk","Free Upgrade",61.85,Email,Yes,"Not Interested",No,Yes,1.46,2025-02-18
+CMP-701421,NXT-100778,2024-10-19,"Win Back","Device Upgrade",38.98,Phone,Yes,Interested,Yes,Yes,42.92,2024-10-22
+CMP-709867,NXT-105310,2023-04-19,"Contract Renewal","Bonus Minutes",498.00,WhatsApp,Yes,Interested,No,No,0.81,2023-04-26
+CMP-709420,NXT-105079,2024-12-10,"High Value Customer","Free Upgrade",77.63,Phone,Yes,Interested,Yes,Yes,53.47,2024-12-22
+CMP-718509,NXT-109835,2025-02-15,"Loyalty Campaign","Contract Upgrade",2.05,Email,Yes,"Not Interested",No,No,1.39,2025-03-05
+CMP-718615,NXT-109889,2025-06-10,"Contract Renewal","Free Upgrade",74.99,"App Notification",No,,No,No,2.76,2025-06-14
+CMP-716889,NXT-108986,2023-10-20,"Loyalty Campaign","Contract Upgrade",35.84,SMS,Yes,"Requested More Info",No,no,2.28,2023-11-16
+CMP-708491,NXT-104609,2025-10-25,"At Risk","Free Data",4.70,Email,No,,No,No,0.16,2025-11-10
+CMP-717508,NXT-109326,2024-06-15,"High Value Customer","Device Upgrade",47.01,WhatsApp,Yes,"No Response",No,No,2.52,2024-06-30
+CMP-717014,NXT-109050,2024-12-19,"High Value Customer","Reduced Monthly Fee",5.18,EMAIL,No,,No,Yes,2.85,2025-01-03
+CMP-719324,NXT-110252,2023-12-20,"High Value Customer","Device Upgrade",70.99,Phone,No,,No,Yes,2.49,2024-01-16
+CMP-720858,NXT-111074,2024-06-09,"Network Recovery","Bonus Minutes",308.00,Phone,Yes,"Not Interested",No,Yes,0.65,2024-07-07
+CMP-709082,NXT-104919,2024-03-26,"Loyalty Campaign","Free Upgrade",62.83,SMS,Yes,"No Response",No,No,2.62,2024-04-03
+CMP-718180,NXT-109656,2024-10-20,"At Risk","Contract Upgrade",38.61,Email,Yes,"Not Interested",No,No,2.91,2024-10-28
+CMP-700198,NXT-100104,2025-04-20,"High Value Customer","Free Data",3.80,"App Notification",Yes,Interested,No,Yes,2.74,2025-04-26
+CMP-720744,NXT-111011,2025-10-15,"Loyalty Campaign","Contract Upgrade",41.47,"App Notification",Yes,Interested,Yes,No,56.76,2025-10-26
+CMP-707657,NXT-104183,2025-10-28,"High Value Customer","Bonus Minutes",417.00,Email,Yes,"Not Interested",No,Yes,2.58,2025-11-08
+CMP-712974,NXT-106927,2024-10-06,"Network Recovery","Device Upgrade",30.10,SMS,Yes,"Requested More Info",No,No,0.87,2024-10-29
+CMP-714875,NXT-107925,2025-04-24,"Win Back","Reduced Monthly Fee",30.75,SMS,Yes,Interested,Yes,No,28.45,2025-05-02
+CMP-702650,NXT-101470,2025-06-01,"Network Recovery",Discount,17.86,SMS,Yes,"Not Interested",No,No,1.92,2025-06-13
+CMP-724055,NXT-112823,2025-08-26,"Contract Renewal",Discount,27.33,SMS,No,,No,No,1.75,2025-09-19
+CMP-711735,NXT-106284,2025-08-09,"Loyalty Campaign","Reduced Monthly Fee",27.18,sms,Yes,Interested,Yes,Yes,34.51,2025-08-30
+CMP-700718,NXT-100384,2025-07-29,"Win Back","Free Upgrade",51.26,WhatsApp,Yes,"Not Interested",No,Yes,0.35,2025-08-22
+CMP-712618,NXT-106759,2023-09-15,"Contract Renewal","Device Upgrade",13.40,Phone,No,,No,No,1.76,2023-09-27
+CMP-707999,NXT-104364,2025-08-18,"High Value Customer",Discount,35.29,PHONE,Yes,"No Response",No,No,2.74,2025-09-10
+CMP-711747,NXT-106290,2024-11-30,"High Value Customer",Discount,35.37,SMS,Yes,"Not Interested",No,Yes,1.56,2024-12-22
+CMP-701303,NXT-100717,2024-06-26,"At Risk","Free Upgrade",49.02,Email,No,,No,No,2.33,2024-06-30
+CMP-711820,NXT-106329,2024-04-30,"Loyalty Campaign","device upgrade",21.70,Email,Yes,"Not Interested",No,Yes,2.36,2024-05-10
+CMP-710186,NXT-105468,2024-06-06,"Contract Renewal","Free Data",11.90,Phone,Yes,"No Response",No,No,2.80,2024-06-18
+CMP-709109,NXT-104930,2024-08-01,"Contract Renewal","Contract Upgrade",90.65,Phone,Yes,"No Response",No,Yes,2.39,2024-08-20
+CMP-714002,NXT-107467,2025-03-02,"Network Recovery","Device Upgrade",80.38,Email,No,,No,Yes,1.69,2025-03-22
+CMP-713917,NXT-107414,2025-09-07,"Loyalty Campaign","Free Upgrade",43.34,SMS,No,,No,No,0.63,2025-09-23
+CMP-700092,NXT-100042,2025-02-16,"High Value Customer","Contract Upgrade",9.30,"App Notification",Yes,"No Response",No,No,2.53,2025-03-12
+CMP-720939,NXT-111120,2024-10-10,"At Risk","Free Data",6.80,"App Notification",Yes,Interested,Yes,yes,28.58,2024-10-15
+CMP-724679,NXT-113151,2025-09-25,"High Value Customer","BONUS MINUTES",239.00,Email,Yes,"Requested More Info",No,No,2.53,2025-10-08
+CMP-718391,NXT-109768,2025-03-30,"Contract Renewal","Reduced Monthly Fee",30.01,"App Notification",Yes,"Requested More Info",No,No,1.05,2025-04-08
+CMP-720329,NXT-110783,2025-03-03,"Loyalty Campaign","Bonus Minutes",332.00,WhatsApp,yes,"No Response",No,No,1.95,2025-03-15
+CMP-713567,NXT-107226,2025-08-02,"At Risk","Device Upgrade",35.85,WhatsApp,Yes,"No Response",No,Yes,0.15,2025-08-26
+CMP-711759,NXT-106297,2023-11-18,"Loyalty Campaign","Free Data",3.80,Email,Yes,Interested,Yes,No,23.65,2023-12-02
+CMP-710972,NXT-105884,2025-02-10,"Contract Renewal","Free Upgrade",44.01,"App Notification",Yes,"Requested More Info",No,No,0.02,2025-03-04
+CMP-700571,NXT-100300,2024-04-11,"High Value Customer","Contract Upgrade",77.63,Phone,Yes,"No Response",No,No,0.92,2024-04-28
+CMP-705885,NXT-103219,2024-11-13,"Network Recovery","Device Upgrade",NULL,Phone,Yes,Interested,Yes,Yes,15.51,2024-11-22
+CMP-709282,NXT-105017,2024-02-13,"Loyalty Campaign","Reduced Monthly Fee",34.06,Email,Yes,"Not Interested",No,No,1.18,2024-02-18
+CMP-706138,NXT-103357,2024-12-04,"At Risk","Device Upgrade",98.55,"App Notification",Yes,Interested,No,No,0.73,2024-12-18
+CMP-711839,NXT-106346,2025-01-24,"Loyalty Campaign","Device Upgrade",72.44,Phone,Yes,Interested,Yes,Yes,14.65,2025-01-29
+CMP-715911,NXT-108485,2024-04-09,"Loyalty Campaign","Contract Upgrade",25.72,Email,Yes,"Requested More Info",No,No,0.08,2024-04-14
+CMP-721977,NXT-111686,2024-11-23,"Loyalty Campaign","Free Data",6.40,Email,No,,No,Yes,1.22,2024-12-22
+CMP-716924,NXT-109000,2024-05-26,"Contract Renewal","Contract Upgrade",94.60,WhatsApp,Yes,"Requested More Info",No,No,0.93,2024-06-10
+CMP-707304,NXT-103990,2025-07-27,"High Value Customer","Bonus Minutes",414.00,WhatsApp,Yes,"No Response",No,No,2.57,2025-07-30
+CMP-708478,NXT-104603,2025-02-08,"At Risk","Free Data",16.30,Email,Yes,"Not Interested",No,No,2.09,2025-02-12
+CMP-706414,NXT-103506,2024-05-29,"High Value Customer","Free Data",12.70,"App Notification",Yes,Interested,Yes,Yes,13.01,2024-06-02
+CMP-711878,NXT-106368,2025-02-24,"Win Back","Bonus Minutes",294.00,SMS,Yes,"Requested More Info",No,Yes,2.31,2025-03-08
+CMP-702697,NXT-101494,2024-04-12,"Win Back",Discount,34.24,Phone,Yes,,No,No,1.11,2024-05-08
+CMP-726129,NXT-113900,2025-03-30,"High Value Customer","Contract Upgrade",71.04,WhatsApp,Yes,"Not Interested",No,No,1.56,2025-04-06
+CMP-720373,NXT-110806,2025-12-14,"Contract Renewal","Bonus Minutes",344.00,Phone,Yes,"No Response",No,Yes,2.46,2025-12-29
+CMP-721200,NXT-111244,2025-07-27,"High Value Customer","Free Data",16.80,WhatsApp,Yes,"Not Interested",No,No,0.33,2025-07-30
+CMP-720683,NXT-110978,2024-11-24,"High Value Customer","Bonus Minutes",465.00,Email,Yes,"Not Interested",No,No,1.77,2024-12-22
+CMP-717043,NXT-109063,2024-02-03,"Win Back","Reduced Monthly Fee",26.23,WhatsApp,Yes,"Not Interested",No,No,2.47,2024-02-18
+CMP-726657,NXT-114160,2024-10-25,"High Value Customer","Contract Upgrade",70.98,Phone,No,,No,No,0.64,2024-11-23
+CMP-721495,NXT-111405,2024-02-27,"Contract Renewal","Reduced Monthly Fee",11.92,Email,Yes,"Not Interested",No,Yes,0.17,2024-03-25
+CMP-713334,NXT-107112,2025-03-08,"Contract Renewal","Bonus Minutes",139.00,Email,Yes,"Requested More Info",No,Yes,1.74,2025-03-14
